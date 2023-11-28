@@ -1,0 +1,2846 @@
+SKU,Produto,Quantidade Vendida,ID Vendedor,Vendedor,Data,Filial,Preco Unitario,total de vendas
+HL4379, Televisão ,5,261,Gabriel Thoni,4/15/2022,Curitiba,2500,12500
+HL4379, Televisão ,3,654,Renan Nascimento,1/19/2022,Recife,2500,7500
+HL1148, Câmera ,2,133,Camila Sobral,8/30/2021,Fortaleza,2100,4200
+HL1918, iPhone ,3,172,Clara Bruno,7/17/2022,Fortaleza,5300,15900
+HL9962, Android ,4,217,Eduardo Pacheco,8/27/2021,Fortaleza,3400,13600
+HL1918, iPhone ,4,683,Sarah Souza,12/24/2021,São Paulo,5300,21200
+HL7348, SmartWatch ,3,11,Alexandre Rodriguez,11/15/2021,São Paulo,1400,4200
+HL2714, Tablet ,2,709,Thays Castro,4/12/2022,Curitiba,1600,3200
+HL4379, Televisão ,4,339,Jessica Cordovil,1/24/2022,Rio de Janeiro,2500,10000
+HL1148, Câmera ,3,137,Camille Silva,5/15/2022,São Paulo,2100,6300
+HL1918, iPhone ,3,18,Alon Palmeira,8/25/2021,São Paulo,5300,15900
+HL1918, iPhone ,2,618,Rafael Rocha,2/19/2022,Fortaleza,5300,10600
+HL1918, iPhone ,2,135,Camilla Guimarães,12/7/2021,Rio de Janeiro,5300,10600
+HL4379, Televisão ,1,186,Daniel Monteiro,9/7/2021,Goiás,2500,2500
+HL4379, Televisão ,4,765,Ylana Teraoka,1/25/2022,Porto Alegre,2500,10000
+HL2714, Tablet ,2,127,Caio Ferreira,12/13/2021,Fortaleza,1600,3200
+HL8851, Notebook ,3,517,Mariana Freire,9/1/2021,Fortaleza,3500,10500
+HL4379, Televisão ,2,151,Carolina Alfradique,5/13/2022,Belo Horizonte,2500,5000
+HL8851, Notebook ,4,426,Leandro Rodrigues,7/8/2022,São Paulo,3500,14000
+HL9962, Android ,4,224,Elaine Santos,1/19/2022,Goiás,3400,13600
+HL7348, SmartWatch ,2,307,Henrique Silva,5/12/2022,São Paulo,1400,2800
+HL4379, Televisão ,5,412,Katharina Barros,11/21/2021,Rio de Janeiro,2500,12500
+HL1918, iPhone ,3,463,Lucas Rodrigues,8/4/2022,Curitiba,5300,15900
+HL8851, Notebook ,5,247,Fillipe Almeida,9/17/2021,São Paulo,3500,17500
+HL2714, Tablet ,5,138,Carla Zakhm,10/22/2021,Recife,1600,8000
+HL4379, Televisão ,1,197,Danilo Rubim,6/9/2022,Belo Horizonte,2500,2500
+HL1918, iPhone ,4,90,Bianca Tatsch,7/25/2022,Recife,5300,21200
+HL1918, iPhone ,5,79,Bernard Pedrosa,5/4/2022,Belo Horizonte,5300,26500
+HL1918, iPhone ,3,258,Gabriel Silva,1/26/2022,Curitiba,5300,15900
+HL2714, Tablet ,1,598,Pedro Oliveira,11/17/2021,Fortaleza,1600,1600
+HL1148, Câmera ,4,254,Gabriel Puntel,5/8/2022,São Paulo,2100,8400
+HL1918, iPhone ,5,174,Clarissa Santos,6/25/2022,São Paulo,5300,26500
+HL1918, iPhone ,2,197,Danilo Rubim,3/24/2022,São Paulo,5300,10600
+HL7348, SmartWatch ,1,569,Nathan Morelli,2/13/2022,São Paulo,1400,1400
+HL1148, Câmera ,1,678,Rubens Netto,3/20/2022,Porto Alegre,2100,2100
+HL1918, iPhone ,3,281,Guido Monteiro,10/5/2021,Recife,5300,15900
+HL7348, SmartWatch ,4,73,Beatriz Li,7/20/2022,São Paulo,1400,5600
+HL2714, Tablet ,1,683,Sarah Souza,11/5/2021,São Paulo,1600,1600
+HL8851, Notebook ,5,357,João Aires,4/26/2022,São Paulo,3500,17500
+HL9962, Android ,1,670,Rodrigo Silva,5/25/2022,Rio de Janeiro,3400,3400
+HL1148, Câmera ,2,248,Gabriel Almeida,8/22/2021,Salvador,2100,4200
+HL4379, Televisão ,3,409,Júlio Freire,4/9/2022,Rio de Janeiro,2500,7500
+HL2714, Tablet ,5,665,Rodrigo Alves,5/8/2022,Salvador,1600,8000
+HL1148, Câmera ,5,574,Paloma Sperandei,6/28/2022,Porto Alegre,2100,10500
+HL4379, Televisão ,1,219,Eduardo Quindeler,6/1/2022,Recife,2500,2500
+HL1918, iPhone ,5,427,Lenon Fernandes,11/23/2021,Goiás,5300,26500
+HL8851, Notebook ,2,418,Larissa Cruz,3/18/2022,Recife,3500,7000
+HL4379, Televisão ,2,288,Guilherme Merotto,2/20/2022,São Paulo,2500,5000
+HL1918, iPhone ,4,559,Myllena Carneiro,12/4/2021,São Paulo,5300,21200
+HL8851, Notebook ,5,96,Breno Farias,2/17/2022,Porto Alegre,3500,17500
+HL7348, SmartWatch ,1,749,Vivianne Rodrigues,8/2/2022,Goiás,1400,1400
+HL1918, iPhone ,4,724,Ulisses Arruda,2/14/2022,Salvador,5300,21200
+HL4379, Televisão ,2,438,Lorena Kohn,3/25/2022,Porto Alegre,2500,5000
+HL1918, iPhone ,3,634,Raphael Guedes,5/1/2022,Fortaleza,5300,15900
+HL1918, iPhone ,5,456,Lucas Lemos,10/25/2021,Belo Horizonte,5300,26500
+HL1918, iPhone ,4,391,Juliana Goes,3/10/2022,Porto Alegre,5300,21200
+HL1148, Câmera ,3,414,Kim Ferreira,5/29/2022,São Paulo,2100,6300
+HL1918, iPhone ,5,42,Ana Silva,12/8/2021,São Paulo,5300,26500
+HL9962, Android ,1,10,Alexandre Dantas,3/25/2022,Recife,3400,3400
+HL4379, Televisão ,3,589,Pedro Conceição,1/14/2022,Curitiba,2500,7500
+HL1148, Câmera ,1,529,Marina Mesquita,10/23/2021,Recife,2100,2100
+HL2714, Tablet ,3,682,Sandy Ribeiro,7/11/2022,Curitiba,1600,4800
+HL1148, Câmera ,3,7,Adrielle Vieira,4/23/2022,São Paulo,2100,6300
+HL1148, Câmera ,5,336,Jackson Derossi,7/20/2022,Rio de Janeiro,2100,10500
+HL7348, SmartWatch ,4,322,Isabela Teixeira,5/31/2022,Curitiba,1400,5600
+HL1148, Câmera ,1,756,Willian Albino,11/22/2021,Rio de Janeiro,2100,2100
+HL1918, iPhone ,3,155,Carolina Costa,10/29/2021,Curitiba,5300,15900
+HL8851, Notebook ,5,81,Bernardo Botelho,4/2/2022,Belo Horizonte,3500,17500
+HL8851, Notebook ,3,145,Carlos Melo,11/4/2021,Porto Alegre,3500,10500
+HL4379, Televisão ,2,156,Carolina Figueiredo,10/27/2021,São Paulo,2500,5000
+HL9962, Android ,3,627,Raissa Negrelli,1/10/2022,Salvador,3400,10200
+HL9962, Android ,4,636,Raphael Machado,11/6/2021,Porto Alegre,3400,13600
+HL2714, Tablet ,4,401,Jéssica Resinente,5/23/2022,Rio de Janeiro,1600,6400
+HL1918, iPhone ,3,689,Stephanie Gonçalves,9/23/2021,Rio de Janeiro,5300,15900
+HL7348, SmartWatch ,2,164,Caroline Aquino,6/1/2022,Porto Alegre,1400,2800
+HL9962, Android ,3,502,Marcelo Guadagnino,4/3/2022,São Paulo,3400,10200
+HL8851, Notebook ,1,293,Guilherme Vianna,9/2/2021,Rio de Janeiro,3500,3500
+HL7348, SmartWatch ,5,714,Thiago Lima,4/29/2022,Rio de Janeiro,1400,7000
+HL4379, Televisão ,2,454,Lucas Junior,8/13/2022,Recife,2500,5000
+HL8851, Notebook ,2,734,Victor Gomes,11/5/2021,Curitiba,3500,7000
+HL2714, Tablet ,2,204,Deysiane Medronho,3/28/2022,São Paulo,1600,3200
+HL4379, Televisão ,4,336,Jackson Derossi,3/15/2022,São Paulo,2500,10000
+HL1918, iPhone ,3,434,Livia Codeceira,1/1/2022,Rio de Janeiro,5300,15900
+HL4379, Televisão ,3,358,João Alves,7/9/2022,Curitiba,2500,7500
+HL2714, Tablet ,5,449,Lucas Costa,8/16/2021,Fortaleza,1600,8000
+HL9962, Android ,5,703,Thales Fanara,7/13/2022,Curitiba,3400,17000
+HL1148, Câmera ,2,735,Victor Lira,6/27/2022,São Paulo,2100,4200
+HL1918, iPhone ,1,356,João Abraçado,9/9/2021,São Paulo,5300,5300
+HL1918, iPhone ,3,741,Victoria Tavares,9/16/2021,Rio de Janeiro,5300,15900
+HL4379, Televisão ,3,344,Jonatas Essaber,3/8/2022,Curitiba,2500,7500
+HL4379, Televisão ,4,491,Luíza Goulart,11/22/2021,Recife,2500,10000
+HL1148, Câmera ,4,725,Ulisses Filho,8/29/2021,Porto Alegre,2100,8400
+HL1148, Câmera ,4,538,Matheus Gomes,4/17/2022,São Paulo,2100,8400
+HL1918, iPhone ,1,357,João Aires,2/4/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,2,94,Breno Caputo,12/20/2021,Salvador,5300,10600
+HL1918, iPhone ,3,12,Aline Andrade,7/9/2022,Porto Alegre,5300,15900
+HL1918, iPhone ,4,451,Lucas Fontoura,1/2/2022,São Paulo,5300,21200
+HL7348, SmartWatch ,2,600,Pedro Rodrigues,3/29/2022,Goiás,1400,2800
+HL1148, Câmera ,3,138,Carla Zakhm,10/9/2021,Recife,2100,6300
+HL1148, Câmera ,4,442,Lucas Aragão,6/7/2022,Rio de Janeiro,2100,8400
+HL1918, iPhone ,1,639,Raul Junqueira,7/4/2022,Fortaleza,5300,5300
+HL1918, iPhone ,4,738,Victor Soares,4/8/2022,Salvador,5300,21200
+HL1148, Câmera ,3,159,Carolina Rocha,8/31/2021,Rio de Janeiro,2100,6300
+HL4379, Televisão ,1,126,Caio Fernandes,3/18/2022,Rio de Janeiro,2500,2500
+HL1918, iPhone ,4,678,Rubens Netto,11/22/2021,Fortaleza,5300,21200
+HL1918, iPhone ,2,317,Isabel Leite,11/8/2021,Fortaleza,5300,10600
+HL1148, Câmera ,2,516,Mariana Barrozo,10/8/2021,São Paulo,2100,4200
+HL4379, Televisão ,2,647,Raíza Lopes,1/4/2022,Belo Horizonte,2500,5000
+HL4379, Televisão ,4,213,Débora Lopes,1/6/2022,Fortaleza,2500,10000
+HL1918, iPhone ,3,72,Beatriz Cavalcanti,9/24/2021,Curitiba,5300,15900
+HL4379, Televisão ,2,600,Pedro Rodrigues,10/21/2021,Salvador,2500,5000
+HL4379, Televisão ,4,547,Maurício Dias,5/29/2022,São Paulo,2500,10000
+HL8851, Notebook ,4,15,Allan Candido,1/5/2022,Recife,3500,14000
+HL4379, Televisão ,5,10,Alexandre Dantas,8/27/2021,Porto Alegre,2500,12500
+HL1918, iPhone ,4,86,Bianca Ferezin,11/25/2021,Curitiba,5300,21200
+HL4379, Televisão ,2,660,Roberta Pimenta,5/1/2022,Rio de Janeiro,2500,5000
+HL2714, Tablet ,3,125,Caio Cardoso,2/14/2022,Goiás,1600,4800
+HL8851, Notebook ,1,575,Paola Abreu,11/25/2021,Belo Horizonte,3500,3500
+HL8851, Notebook ,1,298,Gustavo Gomes,9/10/2021,São Paulo,3500,3500
+HL9962, Android ,3,759,Wilson Meirelles,2/7/2022,Salvador,3400,10200
+HL8851, Notebook ,3,761,Wilson Vianna,3/6/2022,Porto Alegre,3500,10500
+HL1918, iPhone ,1,634,Raphael Guedes,5/4/2022,Rio de Janeiro,5300,5300
+HL1148, Câmera ,2,422,Laura Araujo,7/29/2022,Curitiba,2100,4200
+HL2714, Tablet ,4,452,Lucas Freire,4/28/2022,Goiás,1600,6400
+HL4379, Televisão ,1,198,David Assumpção,9/13/2021,Rio de Janeiro,2500,2500
+HL9962, Android ,5,529,Marina Mesquita,12/4/2021,São Paulo,3400,17000
+HL1148, Câmera ,3,39,Ana Michetti,7/1/2022,São Paulo,2100,6300
+HL7348, SmartWatch ,5,122,Bárbara Lima,5/24/2022,Recife,1400,7000
+HL9962, Android ,5,206,Diego Marchesi,10/29/2021,Salvador,3400,17000
+HL4379, Televisão ,5,119,Bruno Ursulino,2/19/2022,Salvador,2500,12500
+HL9962, Android ,5,126,Caio Fernandes,1/20/2022,Goiás,3400,17000
+HL1918, iPhone ,3,657,Rilson Dias,5/20/2022,Fortaleza,5300,15900
+HL7348, SmartWatch ,3,142,Carlos Barbosa,5/31/2022,Porto Alegre,1400,4200
+HL1918, iPhone ,4,414,Kim Ferreira,12/7/2021,Goiás,5300,21200
+HL9962, Android ,1,616,Rafael Portela,12/17/2021,São Paulo,3400,3400
+HL4379, Televisão ,4,75,Beatriz Rocha,3/25/2022,Goiás,2500,10000
+HL1918, iPhone ,3,659,Roberta Nogueira,12/26/2021,Porto Alegre,5300,15900
+HL2714, Tablet ,3,86,Bianca Ferezin,1/4/2022,São Paulo,1600,4800
+HL8851, Notebook ,2,449,Lucas Costa,2/18/2022,Fortaleza,3500,7000
+HL4379, Televisão ,2,424,Leandro Ferreira,6/12/2022,Goiás,2500,5000
+HL4379, Televisão ,3,84,Bernardo Souza,1/18/2022,Curitiba,2500,7500
+HL1918, iPhone ,3,216,Eduardo Nunes,4/5/2022,Fortaleza,5300,15900
+HL7348, SmartWatch ,1,600,Pedro Rodrigues,11/8/2021,Porto Alegre,1400,1400
+HL4379, Televisão ,5,243,Fernanda Junior,3/31/2022,São Paulo,2500,12500
+HL1148, Câmera ,3,381,Juan Fernandes,4/26/2022,Recife,2100,6300
+HL9962, Android ,3,665,Rodrigo Alves,12/14/2021,São Paulo,3400,10200
+HL1918, iPhone ,1,720,Thomáz Bôas,5/5/2022,Goiás,5300,5300
+HL7348, SmartWatch ,5,53,Andreza Ramos,5/18/2022,Fortaleza,1400,7000
+HL8851, Notebook ,4,138,Carla Zakhm,4/10/2022,São Paulo,3500,14000
+HL2714, Tablet ,2,268,Gabrielle Porto,9/16/2021,Recife,1600,3200
+HL2714, Tablet ,4,415,Kimberly Sad,2/23/2022,Salvador,1600,6400
+HL7348, SmartWatch ,1,361,João Capitulo,12/30/2021,Curitiba,1400,1400
+HL1148, Câmera ,1,528,Marina Marins,2/28/2022,Salvador,2100,2100
+HL1148, Câmera ,1,14,Aline Morais,1/8/2022,Rio de Janeiro,2100,2100
+HL8851, Notebook ,1,371,João Monteiro,6/14/2022,São Paulo,3500,3500
+HL8851, Notebook ,4,526,Marina Delgado,9/15/2021,Belo Horizonte,3500,14000
+HL2714, Tablet ,1,692,Sthefeson Barroso,3/28/2022,São Paulo,1600,1600
+HL4379, Televisão ,4,502,Marcelo Guadagnino,2/14/2022,Fortaleza,2500,10000
+HL1918, iPhone ,1,701,Thais Rodrigues,4/16/2022,Rio de Janeiro,5300,5300
+HL9962, Android ,4,606,Philipe Morete,3/5/2022,Goiás,3400,13600
+HL4379, Televisão ,2,641,Ravena Bhering,8/29/2021,Porto Alegre,2500,5000
+HL1148, Câmera ,2,577,Patrícia Amaral,1/9/2022,São Paulo,2100,4200
+HL1918, iPhone ,3,208,Diego Rodrigues,2/22/2022,São Paulo,5300,15900
+HL1918, iPhone ,3,412,Katharina Barros,10/23/2021,Fortaleza,5300,15900
+HL4379, Televisão ,3,234,Felipe Jorge,10/24/2021,Goiás,2500,7500
+HL1918, iPhone ,3,621,Rafaela Ferreira,9/17/2021,Fortaleza,5300,15900
+HL2714, Tablet ,5,103,Bruna Gomes,2/8/2022,Porto Alegre,1600,8000
+HL4379, Televisão ,3,376,João Rodrigues,9/2/2021,Rio de Janeiro,2500,7500
+HL1918, iPhone ,5,689,Stephanie Gonçalves,5/8/2022,Rio de Janeiro,5300,26500
+HL9962, Android ,4,265,Gabriella Sagrillo,1/4/2022,Fortaleza,3400,13600
+HL2714, Tablet ,4,237,Felipe Mendonça,1/29/2022,São Paulo,1600,6400
+HL4379, Televisão ,5,604,Pedro Sena,2/2/2022,Rio de Janeiro,2500,12500
+HL7348, SmartWatch ,1,482,Luiza Farias,6/1/2022,Salvador,1400,1400
+HL9962, Android ,2,679,Samara Pinto,1/10/2022,São Paulo,3400,6800
+HL2714, Tablet ,2,606,Philipe Morete,2/1/2022,Rio de Janeiro,1600,3200
+HL4379, Televisão ,2,419,Larissa Florim,7/11/2022,Rio de Janeiro,2500,5000
+HL1918, iPhone ,1,574,Paloma Sperandei,10/14/2021,São Paulo,5300,5300
+HL4379, Televisão ,1,67,Arthur Souza,12/3/2021,Salvador,2500,2500
+HL4379, Televisão ,4,607,Platini Heimlich,9/14/2021,Rio de Janeiro,2500,10000
+HL4379, Televisão ,4,212,Dykson Silva,10/15/2021,São Paulo,2500,10000
+HL9962, Android ,2,170,Catarina Teixeira,9/8/2021,Salvador,3400,6800
+HL9962, Android ,2,366,João Junior,6/26/2022,Goiás,3400,6800
+HL2714, Tablet ,4,608,Priscila Carvalho,3/8/2022,São Paulo,1600,6400
+HL9962, Android ,5,296,Gustavo Azevedo,2/10/2022,Rio de Janeiro,3400,17000
+HL4379, Televisão ,4,194,Daniela Rosa,2/19/2022,São Paulo,2500,10000
+HL2714, Tablet ,4,327,Isabelle Firmino,2/1/2022,Rio de Janeiro,1600,6400
+HL1918, iPhone ,4,664,Roberto Tiradentes,7/25/2022,São Paulo,5300,21200
+HL1918, iPhone ,4,527,Marina Gama,6/17/2022,Goiás,5300,21200
+HL1148, Câmera ,4,130,Caio Silva,7/1/2022,Rio de Janeiro,2100,8400
+HL8851, Notebook ,5,273,Giovana Vilela,10/8/2021,Belo Horizonte,3500,17500
+HL4379, Televisão ,5,1,Adriana Carneiro,5/7/2022,Rio de Janeiro,2500,12500
+HL1918, iPhone ,1,451,Lucas Fontoura,3/2/2022,São Paulo,5300,5300
+HL4379, Televisão ,3,659,Roberta Nogueira,10/15/2021,Fortaleza,2500,7500
+HL9962, Android ,3,87,Bianca Paz,6/4/2022,Porto Alegre,3400,10200
+HL8851, Notebook ,3,653,Renan Melo,12/25/2021,Curitiba,3500,10500
+HL1918, iPhone ,4,41,Ana Monte,3/22/2022,São Paulo,5300,21200
+HL9962, Android ,2,367,João Júnior,1/5/2022,Salvador,3400,6800
+HL4379, Televisão ,4,658,Rilson Guedes,8/29/2021,Goiás,2500,10000
+HL1148, Câmera ,4,397,Juliana Silva,5/28/2022,São Paulo,2100,8400
+HL4379, Televisão ,3,365,João Guadagnino,6/6/2022,Fortaleza,2500,7500
+HL1148, Câmera ,5,550,Michelle Figueiredo,5/16/2022,Fortaleza,2100,10500
+HL1918, iPhone ,2,92,Brenno Santos,7/11/2022,Rio de Janeiro,5300,10600
+HL2714, Tablet ,1,623,Rafaela Gonçalves,5/6/2022,Salvador,1600,1600
+HL4379, Televisão ,1,592,Pedro Delgado,5/7/2022,São Paulo,2500,2500
+HL4379, Televisão ,1,727,Vanessa Bach,10/27/2021,São Paulo,2500,2500
+HL1918, iPhone ,4,236,Felipe Mello,12/16/2021,Goiás,5300,21200
+HL1918, iPhone ,4,470,Luis Souza,1/22/2022,São Paulo,5300,21200
+HL8851, Notebook ,1,270,Gabrielle Vasconcelos,1/22/2022,Rio de Janeiro,3500,3500
+HL4379, Televisão ,1,500,Marcela Medeiros,10/18/2021,Rio de Janeiro,2500,2500
+HL1918, iPhone ,2,220,Eduardo Silva,12/29/2021,Recife,5300,10600
+HL1918, iPhone ,4,536,Matheus Delgado,4/21/2022,Salvador,5300,21200
+HL1918, iPhone ,2,539,Matheus Miranda,10/23/2021,Fortaleza,5300,10600
+HL7348, SmartWatch ,4,226,Eric Carvalho,5/12/2022,Rio de Janeiro,1400,5600
+HL4379, Televisão ,3,413,Khaio Mesquita,8/18/2021,São Paulo,2500,7500
+HL4379, Televisão ,2,286,Guilherme Lima,1/22/2022,Porto Alegre,2500,5000
+HL2714, Tablet ,2,148,Carlos Silva,1/29/2022,Salvador,1600,3200
+HL1918, iPhone ,2,537,Matheus Figueiredo,3/11/2022,Salvador,5300,10600
+HL1918, iPhone ,5,251,Gabriel Brito,9/12/2021,Belo Horizonte,5300,26500
+HL7348, SmartWatch ,1,23,Amanda Delgado,9/25/2021,Belo Horizonte,1400,1400
+HL8851, Notebook ,2,706,Thales Santos,10/18/2021,Rio de Janeiro,3500,7000
+HL1918, iPhone ,5,326,Isabella Scalabrin,2/10/2022,Belo Horizonte,5300,26500
+HL2714, Tablet ,2,210,Diogo Ressurreição,5/26/2022,São Paulo,1600,3200
+HL4379, Televisão ,5,561,Mônica Rotolo,11/2/2021,Fortaleza,2500,12500
+HL2714, Tablet ,5,457,Lucas Lima,6/28/2022,São Paulo,1600,8000
+HL4379, Televisão ,5,694,Sthefeson Pereira,10/17/2021,Curitiba,2500,12500
+HL7348, SmartWatch ,1,286,Guilherme Lima,10/20/2021,Curitiba,1400,1400
+HL1918, iPhone ,4,217,Eduardo Pacheco,3/25/2022,Curitiba,5300,21200
+HL1918, iPhone ,2,7,Adrielle Vieira,5/14/2022,Rio de Janeiro,5300,10600
+HL8851, Notebook ,3,78,Beatriz Silva,5/3/2022,Goiás,3500,10500
+HL1918, iPhone ,3,632,Raphael Ferman,4/12/2022,Recife,5300,15900
+HL8851, Notebook ,1,390,Juliana Correa,3/11/2022,Fortaleza,3500,3500
+HL1918, iPhone ,5,289,Guilherme Monteiro,11/11/2021,Belo Horizonte,5300,26500
+HL9962, Android ,2,452,Lucas Freire,4/6/2022,Fortaleza,3400,6800
+HL7348, SmartWatch ,3,729,Vanessa Rodrigues,10/9/2021,Goiás,1400,4200
+HL4379, Televisão ,1,345,Jonatas Passos,5/19/2022,Fortaleza,2500,2500
+HL1918, iPhone ,1,57,Anna Silva,9/25/2021,Curitiba,5300,5300
+HL1918, iPhone ,5,128,Caio Moraes,4/18/2022,Fortaleza,5300,26500
+HL1148, Câmera ,2,603,Pedro Santos,11/11/2021,Rio de Janeiro,2100,4200
+HL4379, Televisão ,5,172,Clara Bruno,10/9/2021,Porto Alegre,2500,12500
+HL9962, Android ,5,742,Vinícius Antunes,6/25/2022,Salvador,3400,17000
+HL7348, SmartWatch ,4,279,Giuseppe Borges,11/23/2021,Curitiba,1400,5600
+HL1918, iPhone ,3,353,José Vieira,9/13/2021,São Paulo,5300,15900
+HL9962, Android ,1,136,Camilla Vieira,4/4/2022,Rio de Janeiro,3400,3400
+HL9962, Android ,4,273,Giovana Vilela,11/17/2021,Porto Alegre,3400,13600
+HL9962, Android ,4,720,Thomáz Bôas,3/29/2022,Salvador,3400,13600
+HL8851, Notebook ,3,187,Daniel Nauenberg,5/15/2022,Fortaleza,3500,10500
+HL7348, SmartWatch ,4,132,Camila Bastazini,6/21/2022,Goiás,1400,5600
+HL1918, iPhone ,2,748,Viviane Souza,5/20/2022,Fortaleza,5300,10600
+HL8851, Notebook ,2,320,Isabela Resende,9/26/2021,Salvador,3500,7000
+HL9962, Android ,3,661,Roberta Teixeira,8/13/2021,Rio de Janeiro,3400,10200
+HL1918, iPhone ,4,737,Victor Oliveira,10/3/2021,Curitiba,5300,21200
+HL2714, Tablet ,3,370,João Menezes,5/31/2022,Curitiba,1600,4800
+HL1918, iPhone ,3,523,Marina Aragão,8/19/2021,Fortaleza,5300,15900
+HL1918, iPhone ,1,121,Bárbara Cavalcante,9/9/2021,Salvador,5300,5300
+HL1148, Câmera ,4,95,Breno Costa,12/14/2021,Salvador,2100,8400
+HL4379, Televisão ,5,692,Sthefeson Barroso,11/19/2021,Salvador,2500,12500
+HL1918, iPhone ,1,141,Carlos Azevedo,8/6/2022,Salvador,5300,5300
+HL1918, iPhone ,1,377,João Silva,9/10/2021,Rio de Janeiro,5300,5300
+HL1918, iPhone ,3,223,Eduardo Veiga,9/29/2021,Rio de Janeiro,5300,15900
+HL1148, Câmera ,3,757,Wilson Brandão,12/10/2021,Rio de Janeiro,2100,6300
+HL4379, Televisão ,4,658,Rilson Guedes,4/27/2022,Recife,2500,10000
+HL2714, Tablet ,1,80,Bernardo Borges,1/9/2022,Salvador,1600,1600
+HL4379, Televisão ,3,316,Isabel Lacerda,12/19/2021,Belo Horizonte,2500,7500
+HL4379, Televisão ,5,145,Carlos Melo,5/25/2022,Curitiba,2500,12500
+HL2714, Tablet ,2,528,Marina Marins,5/25/2022,São Paulo,1600,3200
+HL1918, iPhone ,4,388,Julia Teixeira,6/15/2022,Goiás,5300,21200
+HL1918, iPhone ,5,662,Roberto Mattos,3/6/2022,Curitiba,5300,26500
+HL2714, Tablet ,2,629,Raissa Sales,5/23/2022,Goiás,1600,3200
+HL1918, iPhone ,1,723,Tiago Pereira,9/11/2021,São Paulo,5300,5300
+HL1918, iPhone ,1,412,Katharina Barros,10/11/2021,Rio de Janeiro,5300,5300
+HL8851, Notebook ,5,535,Matheus Afonso,2/17/2022,Salvador,3500,17500
+HL1918, iPhone ,4,617,Rafael Ramos,8/23/2021,Salvador,5300,21200
+HL4379, Televisão ,3,289,Guilherme Monteiro,6/14/2022,Salvador,2500,7500
+HL1918, iPhone ,4,421,Larissa Vasconcellos,5/29/2022,São Paulo,5300,21200
+HL1148, Câmera ,2,58,Antonio Bernhardt,8/14/2021,Fortaleza,2100,4200
+HL9962, Android ,2,23,Amanda Delgado,12/7/2021,São Paulo,3400,6800
+HL8851, Notebook ,5,66,Arthur Rocha,1/25/2022,São Paulo,3500,17500
+HL7348, SmartWatch ,4,538,Matheus Gomes,11/2/2021,Curitiba,1400,5600
+HL1918, iPhone ,3,575,Paola Abreu,4/30/2022,Recife,5300,15900
+HL9962, Android ,2,344,Jonatas Essaber,8/9/2022,Fortaleza,3400,6800
+HL1918, iPhone ,2,440,Luana Santos,7/8/2022,São Paulo,5300,10600
+HL1918, iPhone ,1,437,Lorena Carvalho,10/4/2021,Goiás,5300,5300
+HL4379, Televisão ,4,429,Leonardo Ferreira,10/30/2021,Porto Alegre,2500,10000
+HL7348, SmartWatch ,5,426,Leandro Rodrigues,7/31/2022,Salvador,1400,7000
+HL4379, Televisão ,5,502,Marcelo Guadagnino,9/3/2021,Rio de Janeiro,2500,12500
+HL1918, iPhone ,3,374,João Peçanha,6/5/2022,Recife,5300,15900
+HL1918, iPhone ,2,699,Tayla Lima,12/31/2021,São Paulo,5300,10600
+HL8851, Notebook ,5,320,Isabela Resende,9/27/2021,Salvador,3500,17500
+HL4379, Televisão ,1,454,Lucas Junior,9/29/2021,São Paulo,2500,2500
+HL1918, iPhone ,4,629,Raissa Sales,1/16/2022,Salvador,5300,21200
+HL9962, Android ,3,731,Victor Ferreira,5/12/2022,Recife,3400,10200
+HL7348, SmartWatch ,5,576,Patrick Silva,7/12/2022,Recife,1400,7000
+HL1918, iPhone ,2,269,Gabrielle Silva,3/1/2022,Porto Alegre,5300,10600
+HL7348, SmartWatch ,4,71,Beatriz Biase,1/30/2022,Goiás,1400,5600
+HL1918, iPhone ,5,79,Bernard Pedrosa,10/27/2021,Recife,5300,26500
+HL1918, iPhone ,4,739,Victor Zakhm,5/17/2022,Rio de Janeiro,5300,21200
+HL9962, Android ,5,82,Bernardo Nauenberg,12/5/2021,Fortaleza,3400,17000
+HL7348, SmartWatch ,3,324,Isabella Rodrigues,11/24/2021,Rio de Janeiro,1400,4200
+HL1918, iPhone ,1,275,Giselia Thiele,4/28/2022,São Paulo,5300,5300
+HL1918, iPhone ,3,565,Natalia Guedes,10/28/2021,São Paulo,5300,15900
+HL1918, iPhone ,4,302,Hanna Fonseca,6/29/2022,Salvador,5300,21200
+HL1918, iPhone ,1,212,Dykson Silva,7/17/2022,São Paulo,5300,5300
+HL8851, Notebook ,5,173,Clara Silveira,8/31/2021,Curitiba,3500,17500
+HL8851, Notebook ,1,452,Lucas Freire,4/18/2022,São Paulo,3500,3500
+HL9962, Android ,1,369,João Matheus,8/2/2022,São Paulo,3400,3400
+HL2714, Tablet ,1,52,Andressa Rotsztejn,4/22/2022,São Paulo,1600,1600
+HL1148, Câmera ,5,564,Natalia Andrade,9/29/2021,Rio de Janeiro,2100,10500
+HL7348, SmartWatch ,2,397,Juliana Silva,12/26/2021,São Paulo,1400,2800
+HL4379, Televisão ,3,595,Pedro Lyra,6/9/2022,Rio de Janeiro,2500,7500
+HL4379, Televisão ,1,177,Cézar Santos,7/11/2022,São Paulo,2500,2500
+HL4379, Televisão ,2,680,Sandy Figueiredo,10/20/2021,Rio de Janeiro,2500,5000
+HL1918, iPhone ,5,42,Ana Silva,11/16/2021,Rio de Janeiro,5300,26500
+HL1148, Câmera ,4,391,Juliana Goes,10/23/2021,Goiás,2100,8400
+HL7348, SmartWatch ,1,389,Juliana Barreira,12/28/2021,Fortaleza,1400,1400
+HL1918, iPhone ,5,110,Bruno Barcessat,3/31/2022,São Paulo,5300,26500
+HL4379, Televisão ,5,480,Luiza Cabral,7/20/2022,São Paulo,2500,12500
+HL2714, Tablet ,4,14,Aline Morais,4/18/2022,Belo Horizonte,1600,6400
+HL2714, Tablet ,3,349,José Fonseca,9/15/2021,São Paulo,1600,4800
+HL4379, Televisão ,2,558,Morgana Correa,9/21/2021,São Paulo,2500,5000
+HL2714, Tablet ,2,321,Isabela Rodrigues,5/19/2022,Belo Horizonte,1600,3200
+HL1918, iPhone ,2,665,Rodrigo Alves,12/23/2021,Fortaleza,5300,10600
+HL2714, Tablet ,1,170,Catarina Teixeira,11/4/2021,Recife,1600,1600
+HL1148, Câmera ,5,58,Antonio Bernhardt,11/11/2021,Curitiba,2100,10500
+HL4379, Televisão ,3,330,Iuri Barbosa,10/9/2021,Porto Alegre,2500,7500
+HL1148, Câmera ,2,735,Victor Lira,6/11/2022,Rio de Janeiro,2100,4200
+HL4379, Televisão ,5,456,Lucas Lemos,5/22/2022,Fortaleza,2500,12500
+HL9962, Android ,2,345,Jonatas Passos,1/25/2022,Curitiba,3400,6800
+HL7348, SmartWatch ,5,753,Wendela Mariz,2/27/2022,Fortaleza,1400,7000
+HL2714, Tablet ,5,121,Bárbara Cavalcante,8/25/2021,Porto Alegre,1600,8000
+HL4379, Televisão ,3,12,Aline Andrade,7/11/2022,Belo Horizonte,2500,7500
+HL1918, iPhone ,4,445,Lucas Baptista,4/15/2022,São Paulo,5300,21200
+HL1918, iPhone ,1,102,Bruna Franco,12/8/2021,São Paulo,5300,5300
+HL8851, Notebook ,4,185,Daniel Felippe,9/29/2021,São Paulo,3500,14000
+HL1918, iPhone ,3,335,Izabel Miura,8/17/2021,Recife,5300,15900
+HL4379, Televisão ,5,755,William Mendonça,7/2/2022,Rio de Janeiro,2500,12500
+HL1148, Câmera ,5,532,Mateus Franco,12/20/2021,Salvador,2100,10500
+HL1148, Câmera ,4,432,Letícia Leal,5/4/2022,Rio de Janeiro,2100,8400
+HL2714, Tablet ,3,370,João Menezes,8/26/2021,Recife,1600,4800
+HL1918, iPhone ,5,613,Rachel Silva,11/28/2021,Fortaleza,5300,26500
+HL1918, iPhone ,5,87,Bianca Paz,12/10/2021,São Paulo,5300,26500
+HL1918, iPhone ,1,669,Rodrigo Ramos,2/13/2022,Fortaleza,5300,5300
+HL1148, Câmera ,4,389,Juliana Barreira,11/19/2021,Salvador,2100,8400
+HL1918, iPhone ,5,697,Tadeu Sousa,8/2/2022,São Paulo,5300,26500
+HL7348, SmartWatch ,1,727,Vanessa Bach,8/15/2021,São Paulo,1400,1400
+HL7348, SmartWatch ,1,6,Adrielle Gabriel,12/10/2021,São Paulo,1400,1400
+HL4379, Televisão ,3,530,Marina Miranda,3/12/2022,São Paulo,2500,7500
+HL4379, Televisão ,3,457,Lucas Lima,4/26/2022,Porto Alegre,2500,7500
+HL1918, iPhone ,5,123,Caio Affonso,3/6/2022,Salvador,5300,26500
+HL4379, Televisão ,2,573,Norman Jimbo,8/23/2021,Rio de Janeiro,2500,5000
+HL2714, Tablet ,3,423,Laís Oliveira,5/30/2022,São Paulo,1600,4800
+HL1148, Câmera ,4,259,Gabriel Soares,12/4/2021,Salvador,2100,8400
+HL2714, Tablet ,4,154,Carolina Carneiro,8/7/2022,Rio de Janeiro,1600,6400
+HL1918, iPhone ,3,643,Raísa Rodrigues,12/29/2021,Rio de Janeiro,5300,15900
+HL1918, iPhone ,3,225,Elena Barreto,12/26/2021,Rio de Janeiro,5300,15900
+HL1918, iPhone ,1,119,Bruno Ursulino,3/27/2022,Curitiba,5300,5300
+HL1918, iPhone ,5,289,Guilherme Monteiro,11/6/2021,Goiás,5300,26500
+HL1918, iPhone ,4,622,Rafaela Gomes,1/12/2022,Goiás,5300,21200
+HL1918, iPhone ,5,554,Milena Alcoforado,11/24/2021,Salvador,5300,26500
+HL1918, iPhone ,3,622,Rafaela Gomes,2/25/2022,Porto Alegre,5300,15900
+HL1148, Câmera ,2,306,Henrique Oliveira,6/20/2022,São Paulo,2100,4200
+HL1918, iPhone ,3,67,Arthur Souza,2/1/2022,Porto Alegre,5300,15900
+HL8851, Notebook ,2,17,Alon Guedes,7/1/2022,Curitiba,3500,7000
+HL1148, Câmera ,1,221,Eduardo Soares,1/8/2022,Rio de Janeiro,2100,2100
+HL2714, Tablet ,4,109,Bruna Soares,4/3/2022,Rio de Janeiro,1600,6400
+HL4379, Televisão ,1,63,Arthur Fernandes,5/29/2022,Rio de Janeiro,2500,2500
+HL2714, Tablet ,3,735,Victor Lira,3/27/2022,Curitiba,1600,4800
+HL1918, iPhone ,3,395,Juliana Mesquita,7/25/2022,Salvador,5300,15900
+HL7348, SmartWatch ,1,550,Michelle Figueiredo,3/3/2022,Fortaleza,1400,1400
+HL2714, Tablet ,2,66,Arthur Rocha,2/2/2022,São Paulo,1600,3200
+HL8851, Notebook ,1,47,Anderson Martins,4/3/2022,Recife,3500,3500
+HL4379, Televisão ,5,3,Adriane Chagas,3/8/2022,São Paulo,2500,12500
+HL4379, Televisão ,5,705,Thales Portillo,8/28/2021,Porto Alegre,2500,12500
+HL1148, Câmera ,5,74,Beatriz Perdomo,8/29/2021,Salvador,2100,10500
+HL1148, Câmera ,5,75,Beatriz Rocha,4/3/2022,Curitiba,2100,10500
+HL4379, Televisão ,1,251,Gabriel Brito,6/3/2022,Rio de Janeiro,2500,2500
+HL9962, Android ,3,296,Gustavo Azevedo,7/8/2022,Porto Alegre,3400,10200
+HL9962, Android ,1,48,Andre Nóbrega,12/28/2021,Salvador,3400,3400
+HL4379, Televisão ,3,6,Adrielle Gabriel,7/21/2022,Salvador,2500,7500
+HL2714, Tablet ,4,18,Alon Palmeira,7/26/2022,Rio de Janeiro,1600,6400
+HL9962, Android ,3,55,Anna Figueiredo,10/17/2021,Rio de Janeiro,3400,10200
+HL8851, Notebook ,2,647,Raíza Lopes,11/4/2021,São Paulo,3500,7000
+HL1918, iPhone ,1,651,Renan Cunha,11/18/2021,São Paulo,5300,5300
+HL7348, SmartWatch ,1,177,Cézar Santos,4/12/2022,Fortaleza,1400,1400
+HL9962, Android ,4,312,Hércules Moreira,6/16/2022,Fortaleza,3400,13600
+HL2714, Tablet ,1,332,Ives Barbosa,7/7/2022,Fortaleza,1600,1600
+HL9962, Android ,2,350,José Jesus,5/20/2022,Fortaleza,3400,6800
+HL2714, Tablet ,1,650,Rebeca Taylor,3/3/2022,Recife,1600,1600
+HL4379, Televisão ,5,286,Guilherme Lima,2/20/2022,Fortaleza,2500,12500
+HL1918, iPhone ,2,639,Raul Junqueira,5/2/2022,Belo Horizonte,5300,10600
+HL1918, iPhone ,5,177,Cézar Santos,2/11/2022,Rio de Janeiro,5300,26500
+HL4379, Televisão ,4,335,Izabel Miura,10/26/2021,Rio de Janeiro,2500,10000
+HL7348, SmartWatch ,5,333,Ives Teixeira,12/27/2021,Fortaleza,1400,7000
+HL9962, Android ,1,495,Lívia Marques,11/14/2021,Salvador,3400,3400
+HL2714, Tablet ,5,449,Lucas Costa,8/29/2021,São Paulo,1600,8000
+HL1918, iPhone ,5,459,Lucas Monte,9/26/2021,Fortaleza,5300,26500
+HL4379, Televisão ,2,755,William Mendonça,6/14/2022,Goiás,2500,5000
+HL1918, iPhone ,5,700,Thainá Binello,10/19/2021,São Paulo,5300,26500
+HL2714, Tablet ,1,456,Lucas Lemos,8/13/2022,Belo Horizonte,1600,1600
+HL1918, iPhone ,1,686,Stefan Nunes,1/19/2022,Porto Alegre,5300,5300
+HL8851, Notebook ,3,515,Mariana Baptista,10/6/2021,Porto Alegre,3500,10500
+HL8851, Notebook ,5,745,Vitor Campos,3/23/2022,Fortaleza,3500,17500
+HL7348, SmartWatch ,2,507,Maria Cardoso,3/18/2022,São Paulo,1400,2800
+HL2714, Tablet ,5,579,Patrícia Ferreira,7/23/2022,Porto Alegre,1600,8000
+HL1148, Câmera ,4,264,Gabriela Mello,4/11/2022,Fortaleza,2100,8400
+HL1918, iPhone ,4,295,Gustavo Aragão,3/6/2022,Rio de Janeiro,5300,21200
+HL1918, iPhone ,4,417,Lara Moreira,12/26/2021,Fortaleza,5300,21200
+HL1148, Câmera ,2,309,Hiaiune Valim,11/20/2021,São Paulo,2100,4200
+HL8851, Notebook ,3,231,Fabio Sepúlveda,9/17/2021,Salvador,3500,10500
+HL4379, Televisão ,2,257,Gabriel Rubim,10/11/2021,São Paulo,2500,5000
+HL7348, SmartWatch ,2,85,Bianca Allevato,2/9/2022,Salvador,1400,2800
+HL7348, SmartWatch ,4,114,Bruno Oliveira,2/26/2022,Salvador,1400,5600
+HL4379, Televisão ,4,650,Rebeca Taylor,5/9/2022,São Paulo,2500,10000
+HL1918, iPhone ,2,37,Ana Júnior,2/12/2022,Porto Alegre,5300,10600
+HL8851, Notebook ,5,491,Luíza Goulart,12/3/2021,Curitiba,3500,17500
+HL1918, iPhone ,1,200,David Vasconcelos,6/8/2022,Rio de Janeiro,5300,5300
+HL2714, Tablet ,2,151,Carolina Alfradique,4/19/2022,Curitiba,1600,3200
+HL1918, iPhone ,5,679,Samara Pinto,7/27/2022,Fortaleza,5300,26500
+HL1918, iPhone ,2,354,Joyce Medina,4/28/2022,São Paulo,5300,10600
+HL7348, SmartWatch ,4,737,Victor Oliveira,10/18/2021,Rio de Janeiro,1400,5600
+HL1918, iPhone ,3,108,Bruna Silveira,3/4/2022,Salvador,5300,15900
+HL2714, Tablet ,3,425,Leandro Melo,9/15/2021,Belo Horizonte,1600,4800
+HL8851, Notebook ,2,173,Clara Silveira,11/2/2021,Goiás,3500,7000
+HL1918, iPhone ,3,191,Daniel Valente,6/30/2022,São Paulo,5300,15900
+HL4379, Televisão ,1,376,João Rodrigues,3/22/2022,Salvador,2500,2500
+HL1918, iPhone ,1,626,Raissa Maia,4/30/2022,Recife,5300,5300
+HL4379, Televisão ,2,113,Bruno Mota,9/17/2021,São Paulo,2500,5000
+HL8851, Notebook ,4,715,Thiago Miura,12/21/2021,Fortaleza,3500,14000
+HL1918, iPhone ,4,152,Carolina Bernardes,2/3/2022,São Paulo,5300,21200
+HL1148, Câmera ,2,673,Rogério Gentile,5/30/2022,Belo Horizonte,2100,4200
+HL8851, Notebook ,3,131,Caio Vianna,8/27/2021,Salvador,3500,10500
+HL7348, SmartWatch ,3,382,Julia Aliani,2/25/2022,Belo Horizonte,1400,4200
+HL9962, Android ,3,631,Raphael Coelho,8/27/2021,São Paulo,3400,10200
+HL1918, iPhone ,5,281,Guido Monteiro,1/18/2022,São Paulo,5300,26500
+HL1148, Câmera ,1,554,Milena Alcoforado,11/27/2021,São Paulo,2100,2100
+HL1148, Câmera ,4,734,Victor Gomes,4/26/2022,Belo Horizonte,2100,8400
+HL4379, Televisão ,1,510,Maria Gasperi,10/6/2021,Rio de Janeiro,2500,2500
+HL8851, Notebook ,4,459,Lucas Monte,6/15/2022,Curitiba,3500,14000
+HL9962, Android ,4,552,Michelle Pereira,11/5/2021,Fortaleza,3400,13600
+HL8851, Notebook ,5,207,Diego Mello,6/8/2022,Salvador,3500,17500
+HL1148, Câmera ,2,310,Hygor Essaber,4/29/2022,Salvador,2100,4200
+HL1918, iPhone ,5,506,Marcos Nucci,2/9/2022,Curitiba,5300,26500
+HL4379, Televisão ,2,198,David Assumpção,7/30/2022,Goiás,2500,5000
+HL1918, iPhone ,4,590,Pedro Costa,8/4/2022,Salvador,5300,21200
+HL4379, Televisão ,4,223,Eduardo Veiga,10/14/2021,Recife,2500,10000
+HL8851, Notebook ,5,20,Alvaro Kranz,3/14/2022,Curitiba,3500,17500
+HL1918, iPhone ,2,451,Lucas Fontoura,12/21/2021,Salvador,5300,10600
+HL9962, Android ,2,612,Rachel Restum,5/11/2022,Rio de Janeiro,3400,6800
+HL4379, Televisão ,5,134,Camilla Cardeman,1/19/2022,Goiás,2500,12500
+HL4379, Televisão ,5,141,Carlos Azevedo,1/15/2022,Fortaleza,2500,12500
+HL1918, iPhone ,2,46,Anderson Cavalcanti,2/1/2022,Fortaleza,5300,10600
+HL4379, Televisão ,1,399,Julie Ferreira,9/13/2021,Goiás,2500,2500
+HL2714, Tablet ,1,230,Fabio Ramos,10/29/2021,Rio de Janeiro,1600,1600
+HL2714, Tablet ,5,488,Luã Sá,3/10/2022,Belo Horizonte,1600,8000
+HL4379, Televisão ,3,10,Alexandre Dantas,3/21/2022,Porto Alegre,2500,7500
+HL1918, iPhone ,5,33,Ana Felippe,12/14/2021,Salvador,5300,26500
+HL4379, Televisão ,4,432,Letícia Leal,7/27/2022,São Paulo,2500,10000
+HL1918, iPhone ,4,153,Carolina Brum,5/8/2022,Rio de Janeiro,5300,21200
+HL7348, SmartWatch ,1,433,Letícia Rodrigues,8/18/2021,Salvador,1400,1400
+HL8851, Notebook ,5,384,Julia Leig,11/29/2021,São Paulo,3500,17500
+HL8851, Notebook ,4,71,Beatriz Biase,8/25/2021,Fortaleza,3500,14000
+HL7348, SmartWatch ,2,187,Daniel Nauenberg,11/13/2021,Salvador,1400,2800
+HL4379, Televisão ,1,658,Rilson Guedes,9/17/2021,Salvador,2500,2500
+HL1918, iPhone ,4,262,Gabriela Aliani,1/4/2022,São Paulo,5300,21200
+HL4379, Televisão ,2,449,Lucas Costa,9/5/2021,Salvador,2500,5000
+HL1918, iPhone ,1,562,Natali Rangel,12/20/2021,Porto Alegre,5300,5300
+HL7348, SmartWatch ,2,172,Clara Bruno,3/31/2022,Fortaleza,1400,2800
+HL1918, iPhone ,4,325,Isabella Santos,8/24/2021,Curitiba,5300,21200
+HL1918, iPhone ,4,211,Douglas Rodrigues,10/8/2021,São Paulo,5300,21200
+HL1918, iPhone ,4,728,Vanessa Neves,4/1/2022,Curitiba,5300,21200
+HL2714, Tablet ,1,700,Thainá Binello,9/1/2021,Rio de Janeiro,1600,1600
+HL1918, iPhone ,3,732,Victor Firmino,8/21/2021,Porto Alegre,5300,15900
+HL2714, Tablet ,2,105,Bruna Ramos,2/20/2022,São Paulo,1600,3200
+HL1148, Câmera ,3,506,Marcos Nucci,3/28/2022,São Paulo,2100,6300
+HL4379, Televisão ,1,608,Priscila Carvalho,5/16/2022,Recife,2500,2500
+HL1918, iPhone ,1,671,Rodrigo Souza,8/14/2021,Salvador,5300,5300
+HL1918, iPhone ,5,305,Henrique Lencastre,8/29/2021,São Paulo,5300,26500
+HL1148, Câmera ,3,483,Luiza Johnson,12/13/2021,Salvador,2100,6300
+HL9962, Android ,2,635,Raphael Kurtz,7/29/2022,São Paulo,3400,6800
+HL1148, Câmera ,1,399,Julie Ferreira,12/2/2021,Salvador,2100,2100
+HL8851, Notebook ,5,559,Myllena Carneiro,10/7/2021,Goiás,3500,17500
+HL4379, Televisão ,3,491,Luíza Goulart,6/17/2022,Salvador,2500,7500
+HL4379, Televisão ,5,676,Ruan Gonçalves,10/29/2021,Curitiba,2500,12500
+HL1918, iPhone ,1,536,Matheus Delgado,2/27/2022,Fortaleza,5300,5300
+HL2714, Tablet ,3,464,Lucas Valim,10/7/2021,Recife,1600,4800
+HL1918, iPhone ,3,581,Paula Carneiro,6/2/2022,São Paulo,5300,15900
+HL1918, iPhone ,2,397,Juliana Silva,12/27/2021,Recife,5300,10600
+HL1918, iPhone ,1,400,Jéssica Netto,3/21/2022,Fortaleza,5300,5300
+HL4379, Televisão ,2,475,Luiz Freire,9/10/2021,Rio de Janeiro,2500,5000
+HL1918, iPhone ,5,87,Bianca Paz,6/29/2022,São Paulo,5300,26500
+HL1148, Câmera ,5,92,Brenno Santos,5/11/2022,São Paulo,2100,10500
+HL7348, SmartWatch ,3,574,Paloma Sperandei,12/8/2021,Porto Alegre,1400,4200
+HL8851, Notebook ,3,284,Guilherme Castilho,9/29/2021,Porto Alegre,3500,10500
+HL1148, Câmera ,3,603,Pedro Santos,3/31/2022,Belo Horizonte,2100,6300
+HL1918, iPhone ,4,584,Paulo Campos,9/11/2021,Curitiba,5300,21200
+HL4379, Televisão ,2,552,Michelle Pereira,12/6/2021,Salvador,2500,5000
+HL2714, Tablet ,5,699,Tayla Lima,10/16/2021,Fortaleza,1600,8000
+HL8851, Notebook ,5,552,Michelle Pereira,11/26/2021,Fortaleza,3500,17500
+HL7348, SmartWatch ,2,294,Gustavo Accardo,2/22/2022,São Paulo,1400,2800
+HL1918, iPhone ,1,335,Izabel Miura,7/14/2022,Goiás,5300,5300
+HL8851, Notebook ,5,514,Maria Motta,8/26/2021,Fortaleza,3500,17500
+HL4379, Televisão ,5,707,Thayane Resende,11/23/2021,São Paulo,2500,12500
+HL7348, SmartWatch ,5,516,Mariana Barrozo,3/27/2022,São Paulo,1400,7000
+HL4379, Televisão ,1,354,Joyce Medina,10/1/2021,Salvador,2500,2500
+HL2714, Tablet ,4,345,Jonatas Passos,8/8/2022,Porto Alegre,1600,6400
+HL1918, iPhone ,5,675,Rojane Lima,8/10/2022,Goiás,5300,26500
+HL4379, Televisão ,2,177,Cézar Santos,12/7/2021,Fortaleza,2500,5000
+HL7348, SmartWatch ,1,343,Jonas Gomes,6/15/2022,Porto Alegre,1400,1400
+HL4379, Televisão ,2,43,Ana Soledade,1/13/2022,Recife,2500,5000
+HL1918, iPhone ,5,432,Letícia Leal,4/7/2022,Recife,5300,26500
+HL9962, Android ,1,566,Natalia Marinho,2/1/2022,Fortaleza,3400,3400
+HL4379, Televisão ,1,299,Gustavo Guimarães,9/26/2021,Salvador,2500,2500
+HL1918, iPhone ,4,58,Antonio Bernhardt,5/23/2022,Fortaleza,5300,21200
+HL1918, iPhone ,4,485,Luiza Procaci,1/16/2022,Goiás,5300,21200
+HL4379, Televisão ,1,33,Ana Felippe,8/28/2021,Curitiba,2500,2500
+HL4379, Televisão ,5,159,Carolina Rocha,8/15/2021,Porto Alegre,2500,12500
+HL4379, Televisão ,3,486,Luiza Ribeiro,2/19/2022,São Paulo,2500,7500
+HL7348, SmartWatch ,1,699,Tayla Lima,11/9/2021,Rio de Janeiro,1400,1400
+HL1918, iPhone ,1,397,Juliana Silva,1/8/2022,Fortaleza,5300,5300
+HL1918, iPhone ,4,444,Lucas Assunção,9/17/2021,Fortaleza,5300,21200
+HL9962, Android ,2,43,Ana Soledade,2/14/2022,São Paulo,3400,6800
+HL9962, Android ,2,716,Thiago Nóbrega,5/2/2022,Belo Horizonte,3400,6800
+HL9962, Android ,2,229,Fabio Boccaletti,9/17/2021,Salvador,3400,6800
+HL1918, iPhone ,1,114,Bruno Oliveira,6/9/2022,Salvador,5300,5300
+HL8851, Notebook ,5,106,Bruna Rosa,8/29/2021,Porto Alegre,3500,17500
+HL1148, Câmera ,4,764,Yasser Calbucci,7/15/2022,Salvador,2100,8400
+HL8851, Notebook ,1,460,Lucas Neto,5/29/2022,Goiás,3500,3500
+HL1918, iPhone ,1,201,Debora Silva,11/10/2021,Salvador,5300,5300
+HL4379, Televisão ,1,299,Gustavo Guimarães,6/12/2022,Fortaleza,2500,2500
+HL7348, SmartWatch ,4,556,Milena Pereira,12/14/2021,Rio de Janeiro,1400,5600
+HL1918, iPhone ,1,414,Kim Ferreira,4/7/2022,Recife,5300,5300
+HL4379, Televisão ,4,616,Rafael Portela,11/6/2021,Belo Horizonte,2500,10000
+HL4379, Televisão ,2,548,Mayara Soares,10/27/2021,Rio de Janeiro,2500,5000
+HL8851, Notebook ,4,390,Juliana Correa,2/5/2022,São Paulo,3500,14000
+HL8851, Notebook ,2,422,Laura Araujo,6/9/2022,Porto Alegre,3500,7000
+HL7348, SmartWatch ,5,130,Caio Silva,6/22/2022,São Paulo,1400,7000
+HL4379, Televisão ,5,457,Lucas Lima,1/8/2022,Fortaleza,2500,12500
+HL7348, SmartWatch ,4,692,Sthefeson Barroso,11/1/2021,Curitiba,1400,5600
+HL1148, Câmera ,3,180,Dandara Reis,4/8/2022,Fortaleza,2100,6300
+HL4379, Televisão ,1,441,Lucas Almeida,3/6/2022,Fortaleza,2500,2500
+HL4379, Televisão ,5,673,Rogério Gentile,8/10/2022,Rio de Janeiro,2500,12500
+HL9962, Android ,4,42,Ana Silva,3/11/2022,Belo Horizonte,3400,13600
+HL9962, Android ,3,73,Beatriz Li,8/21/2021,Goiás,3400,10200
+HL9962, Android ,2,354,Joyce Medina,4/5/2022,Salvador,3400,6800
+HL1918, iPhone ,5,249,Gabriel Assis,10/23/2021,São Paulo,5300,26500
+HL2714, Tablet ,3,261,Gabriel Thoni,1/3/2022,Rio de Janeiro,1600,4800
+HL1918, iPhone ,3,613,Rachel Silva,1/15/2022,Curitiba,5300,15900
+HL1918, iPhone ,1,712,Thaís Ribeiro,7/1/2022,São Paulo,5300,5300
+HL1918, iPhone ,2,274,Giovanna Santos,7/3/2022,Fortaleza,5300,10600
+HL8851, Notebook ,3,701,Thais Rodrigues,3/28/2022,Porto Alegre,3500,10500
+HL2714, Tablet ,4,706,Thales Santos,1/27/2022,Rio de Janeiro,1600,6400
+HL1918, iPhone ,5,366,João Junior,9/1/2021,Porto Alegre,5300,26500
+HL9962, Android ,4,497,Manuela Ferreira,1/30/2022,São Paulo,3400,13600
+HL8851, Notebook ,1,718,Thiago Veloso,1/31/2022,São Paulo,3500,3500
+HL8851, Notebook ,4,517,Mariana Freire,8/2/2022,Curitiba,3500,14000
+HL7348, SmartWatch ,1,11,Alexandre Rodriguez,11/12/2021,Fortaleza,1400,1400
+HL4379, Televisão ,3,763,Yasmim Verly,2/6/2022,Porto Alegre,2500,7500
+HL8851, Notebook ,5,64,Arthur Pereira,6/10/2022,Goiás,3500,17500
+HL9962, Android ,3,708,Thayna Martins,2/7/2022,São Paulo,3400,10200
+HL8851, Notebook ,2,199,David Campelo,2/4/2022,Rio de Janeiro,3500,7000
+HL8851, Notebook ,2,453,Lucas Freitas,4/11/2022,Salvador,3500,7000
+HL4379, Televisão ,2,533,Mateus Maia,4/25/2022,Goiás,2500,5000
+HL4379, Televisão ,1,582,Paula Cavalcanti,1/4/2022,Rio de Janeiro,2500,2500
+HL1918, iPhone ,4,212,Dykson Silva,10/6/2021,Fortaleza,5300,21200
+HL1148, Câmera ,4,755,William Mendonça,4/19/2022,Rio de Janeiro,2100,8400
+HL8851, Notebook ,1,634,Raphael Guedes,1/12/2022,São Paulo,3500,3500
+HL1918, iPhone ,3,304,Helvio Pedrosa,8/29/2021,São Paulo,5300,15900
+HL8851, Notebook ,4,363,João Costa,12/23/2021,Belo Horizonte,3500,14000
+HL4379, Televisão ,1,752,Wen Santos,1/25/2022,Porto Alegre,2500,2500
+HL1148, Câmera ,1,391,Juliana Goes,12/9/2021,Salvador,2100,2100
+HL2714, Tablet ,1,101,Bruna Chein,9/29/2021,Fortaleza,1600,1600
+HL2714, Tablet ,4,230,Fabio Ramos,6/13/2022,Salvador,1600,6400
+HL1918, iPhone ,3,59,Antonio Manhães,1/29/2022,Rio de Janeiro,5300,15900
+HL2714, Tablet ,5,712,Thaís Ribeiro,4/30/2022,Goiás,1600,8000
+HL8851, Notebook ,5,386,Julia Penteado,5/5/2022,São Paulo,3500,17500
+HL1918, iPhone ,2,298,Gustavo Gomes,2/13/2022,Fortaleza,5300,10600
+HL8851, Notebook ,4,57,Anna Silva,2/21/2022,Salvador,3500,14000
+HL8851, Notebook ,4,584,Paulo Campos,1/30/2022,Salvador,3500,14000
+HL7348, SmartWatch ,1,152,Carolina Bernardes,5/19/2022,Rio de Janeiro,1400,1400
+HL1918, iPhone ,1,210,Diogo Ressurreição,2/9/2022,Salvador,5300,5300
+HL9962, Android ,2,46,Anderson Cavalcanti,1/16/2022,Salvador,3400,6800
+HL4379, Televisão ,2,562,Natali Rangel,4/2/2022,São Paulo,2500,5000
+HL2714, Tablet ,1,663,Roberto Nogueira,10/25/2021,São Paulo,1600,1600
+HL1918, iPhone ,2,548,Mayara Soares,10/8/2021,Curitiba,5300,10600
+HL1918, iPhone ,1,519,Mariana Sousa,8/8/2022,Salvador,5300,5300
+HL7348, SmartWatch ,5,200,David Vasconcelos,6/10/2022,Fortaleza,1400,7000
+HL4379, Televisão ,5,322,Isabela Teixeira,5/7/2022,Fortaleza,2500,12500
+HL9962, Android ,5,736,Victor Magalhães,1/22/2022,São Paulo,3400,17000
+HL9962, Android ,4,546,Matheus Tostes,3/7/2022,Rio de Janeiro,3400,13600
+HL1918, iPhone ,3,571,Nicolas Monteiro,5/15/2022,Goiás,5300,15900
+HL1918, iPhone ,3,44,Ananda Dias,5/10/2022,São Paulo,5300,15900
+HL9962, Android ,2,347,Jorge Fonseca,3/31/2022,Fortaleza,3400,6800
+HL1918, iPhone ,4,22,Amanda Braga,1/5/2022,Porto Alegre,5300,21200
+HL8851, Notebook ,3,321,Isabela Rodrigues,6/18/2022,Salvador,3500,10500
+HL8851, Notebook ,4,520,Mariane Ferreira,10/6/2021,Salvador,3500,14000
+HL4379, Televisão ,1,87,Bianca Paz,5/3/2022,Curitiba,2500,2500
+HL9962, Android ,2,413,Khaio Mesquita,7/13/2022,São Paulo,3400,6800
+HL1148, Câmera ,3,581,Paula Carneiro,8/25/2021,Recife,2100,6300
+HL4379, Televisão ,1,22,Amanda Braga,6/6/2022,Goiás,2500,2500
+HL4379, Televisão ,1,206,Diego Marchesi,3/10/2022,Salvador,2500,2500
+HL1918, iPhone ,1,730,Victor Corrêa,6/22/2022,Porto Alegre,5300,5300
+HL8851, Notebook ,3,762,Yasmim Bittencourt,10/25/2021,São Paulo,3500,10500
+HL4379, Televisão ,3,399,Julie Ferreira,2/28/2022,Porto Alegre,2500,7500
+HL1918, iPhone ,4,334,Izabel Lopes,6/3/2022,São Paulo,5300,21200
+HL8851, Notebook ,1,2,Adriana Passos,10/18/2021,Fortaleza,3500,3500
+HL1918, iPhone ,4,722,Thomáz Vannier,6/19/2022,Belo Horizonte,5300,21200
+HL7348, SmartWatch ,1,107,Bruna Silva,9/25/2021,Fortaleza,1400,1400
+HL2714, Tablet ,4,125,Caio Cardoso,9/19/2021,São Paulo,1600,6400
+HL2714, Tablet ,4,518,Mariana Miranda,4/3/2022,Curitiba,1600,6400
+HL4379, Televisão ,4,43,Ana Soledade,5/1/2022,Fortaleza,2500,10000
+HL9962, Android ,2,581,Paula Carneiro,11/26/2021,Belo Horizonte,3400,6800
+HL1918, iPhone ,5,32,Ana Carvalho,12/21/2021,Belo Horizonte,5300,26500
+HL8851, Notebook ,5,240,Fernanda Coutinho,12/31/2021,Fortaleza,3500,17500
+HL1148, Câmera ,3,356,João Abraçado,7/6/2022,Curitiba,2100,6300
+HL9962, Android ,1,157,Carolina Motta,2/10/2022,Recife,3400,3400
+HL1918, iPhone ,4,324,Isabella Rodrigues,1/25/2022,Salvador,5300,21200
+HL9962, Android ,4,160,Carolina Santos,11/12/2021,Goiás,3400,13600
+HL9962, Android ,3,473,Luiz Campista,9/7/2021,Salvador,3400,10200
+HL2714, Tablet ,4,613,Rachel Silva,7/16/2022,Recife,1600,6400
+HL1148, Câmera ,2,640,Raul Silveira,10/16/2021,Salvador,2100,4200
+HL7348, SmartWatch ,5,260,Gabriel Thome,9/10/2021,Recife,1400,7000
+HL4379, Televisão ,4,159,Carolina Rocha,9/15/2021,São Paulo,2500,10000
+HL8851, Notebook ,2,63,Arthur Fernandes,2/11/2022,Fortaleza,3500,7000
+HL1918, iPhone ,2,244,Fernanda Rubim,6/18/2022,São Paulo,5300,10600
+HL8851, Notebook ,5,603,Pedro Santos,8/15/2021,Recife,3500,17500
+HL4379, Televisão ,3,536,Matheus Delgado,7/22/2022,Curitiba,2500,7500
+HL8851, Notebook ,5,414,Kim Ferreira,5/17/2022,São Paulo,3500,17500
+HL2714, Tablet ,1,341,Joao Pereira,5/27/2022,Rio de Janeiro,1600,1600
+HL2714, Tablet ,4,640,Raul Silveira,6/20/2022,Porto Alegre,1600,6400
+HL8851, Notebook ,4,743,Vitor Arruda,4/9/2022,Rio de Janeiro,3500,14000
+HL9962, Android ,4,628,Raissa Pinheiro,4/24/2022,Fortaleza,3400,13600
+HL9962, Android ,2,368,João Luz,4/25/2022,Salvador,3400,6800
+HL4379, Televisão ,5,196,Danilo Mendonça,1/8/2022,Salvador,2500,12500
+HL4379, Televisão ,1,7,Adrielle Vieira,12/24/2021,Salvador,2500,2500
+HL4379, Televisão ,5,148,Carlos Silva,1/12/2022,Curitiba,2500,12500
+HL2714, Tablet ,5,172,Clara Bruno,12/7/2021,Curitiba,1600,8000
+HL4379, Televisão ,5,346,Jorge Carvalho,8/19/2021,Fortaleza,2500,12500
+HL1918, iPhone ,1,646,Raíssa Oros,6/19/2022,Goiás,5300,5300
+HL7348, SmartWatch ,5,666,Rodrigo Bruno,7/8/2022,Goiás,1400,7000
+HL9962, Android ,2,239,Fernanda Bhering,1/22/2022,Rio de Janeiro,3400,6800
+HL1918, iPhone ,1,534,Mateus Polastri,7/27/2022,São Paulo,5300,5300
+HL2714, Tablet ,3,213,Débora Lopes,3/7/2022,São Paulo,1600,4800
+HL1918, iPhone ,4,425,Leandro Melo,10/8/2021,São Paulo,5300,21200
+HL7348, SmartWatch ,2,253,Gabriel Pereira,4/10/2022,Fortaleza,1400,2800
+HL1148, Câmera ,1,434,Livia Codeceira,5/8/2022,São Paulo,2100,2100
+HL1148, Câmera ,2,299,Gustavo Guimarães,9/28/2021,São Paulo,2100,4200
+HL9962, Android ,2,491,Luíza Goulart,7/8/2022,Rio de Janeiro,3400,6800
+HL4379, Televisão ,2,613,Rachel Silva,2/14/2022,Fortaleza,2500,5000
+HL1148, Câmera ,1,22,Amanda Braga,10/24/2021,Recife,2100,2100
+HL1148, Câmera ,3,166,Caroline Delgado,1/21/2022,Salvador,2100,6300
+HL9962, Android ,2,366,João Junior,10/15/2021,Fortaleza,3400,6800
+HL4379, Televisão ,3,123,Caio Affonso,8/1/2022,Fortaleza,2500,7500
+HL8851, Notebook ,1,44,Ananda Dias,8/13/2021,Porto Alegre,3500,3500
+HL1918, iPhone ,3,164,Caroline Aquino,5/1/2022,Curitiba,5300,15900
+HL7348, SmartWatch ,2,200,David Vasconcelos,1/19/2022,Rio de Janeiro,1400,2800
+HL9962, Android ,2,61,Antônio Soares,11/18/2021,Rio de Janeiro,3400,6800
+HL4379, Televisão ,1,221,Eduardo Soares,9/25/2021,Goiás,2500,2500
+HL1918, iPhone ,3,516,Mariana Barrozo,2/9/2022,São Paulo,5300,15900
+HL7348, SmartWatch ,4,59,Antonio Manhães,11/23/2021,Salvador,1400,5600
+HL1918, iPhone ,2,564,Natalia Andrade,9/6/2021,São Paulo,5300,10600
+HL1918, iPhone ,1,166,Caroline Delgado,11/13/2021,Rio de Janeiro,5300,5300
+HL1918, iPhone ,4,234,Felipe Jorge,5/25/2022,Belo Horizonte,5300,21200
+HL1148, Câmera ,2,285,Guilherme Jordao,1/22/2022,Rio de Janeiro,2100,4200
+HL1918, iPhone ,1,306,Henrique Oliveira,8/16/2021,Salvador,5300,5300
+HL1918, iPhone ,1,411,Karine Barros,10/7/2021,Curitiba,5300,5300
+HL7348, SmartWatch ,5,729,Vanessa Rodrigues,7/17/2022,Rio de Janeiro,1400,7000
+HL8851, Notebook ,5,490,Luíza Garcia,2/24/2022,São Paulo,3500,17500
+HL4379, Televisão ,4,547,Maurício Dias,12/13/2021,Curitiba,2500,10000
+HL9962, Android ,1,29,Ana Almeida,2/8/2022,Recife,3400,3400
+HL1918, iPhone ,2,649,Rebeca Reis,5/25/2022,Goiás,5300,10600
+HL1918, iPhone ,2,90,Bianca Tatsch,6/23/2022,Recife,5300,10600
+HL4379, Televisão ,5,257,Gabriel Rubim,11/7/2021,Goiás,2500,12500
+HL4379, Televisão ,4,13,Aline Mello,2/3/2022,Recife,2500,10000
+HL1918, iPhone ,4,355,Joyce Souza,9/19/2021,Rio de Janeiro,5300,21200
+HL9962, Android ,5,663,Roberto Nogueira,6/6/2022,Rio de Janeiro,3400,17000
+HL1918, iPhone ,4,594,Pedro Jorge,8/15/2021,Recife,5300,21200
+HL9962, Android ,2,673,Rogério Gentile,10/11/2021,Rio de Janeiro,3400,6800
+HL9962, Android ,3,305,Henrique Lencastre,3/30/2022,Recife,3400,10200
+HL1918, iPhone ,2,640,Raul Silveira,1/26/2022,Fortaleza,5300,10600
+HL9962, Android ,3,603,Pedro Santos,6/2/2022,Rio de Janeiro,3400,10200
+HL1918, iPhone ,4,621,Rafaela Ferreira,12/24/2021,Salvador,5300,21200
+HL1918, iPhone ,2,36,Ana Gonzaga,5/6/2022,Porto Alegre,5300,10600
+HL4379, Televisão ,5,467,Luis Garcia,1/2/2022,Rio de Janeiro,2500,12500
+HL1918, iPhone ,1,419,Larissa Florim,10/1/2021,São Paulo,5300,5300
+HL9962, Android ,2,603,Pedro Santos,11/10/2021,Salvador,3400,6800
+HL4379, Televisão ,2,245,Fernanda Silva,5/11/2022,Rio de Janeiro,2500,5000
+HL2714, Tablet ,2,81,Bernardo Botelho,2/17/2022,Salvador,1600,3200
+HL9962, Android ,1,750,Wellington Duarte,5/14/2022,Rio de Janeiro,3400,3400
+HL4379, Televisão ,1,734,Victor Gomes,4/19/2022,Recife,2500,2500
+HL4379, Televisão ,2,497,Manuela Ferreira,12/4/2021,Rio de Janeiro,2500,5000
+HL7348, SmartWatch ,5,385,Julia Leite,7/31/2022,São Paulo,1400,7000
+HL4379, Televisão ,2,188,Daniel Ortiz,3/8/2022,Belo Horizonte,2500,5000
+HL9962, Android ,5,561,Mônica Rotolo,11/16/2021,Belo Horizonte,3400,17000
+HL9962, Android ,4,330,Iuri Barbosa,10/15/2021,Rio de Janeiro,3400,13600
+HL1918, iPhone ,2,201,Debora Silva,1/1/2022,São Paulo,5300,10600
+HL9962, Android ,5,486,Luiza Ribeiro,6/25/2022,Recife,3400,17000
+HL2714, Tablet ,3,665,Rodrigo Alves,7/3/2022,Fortaleza,1600,4800
+HL1148, Câmera ,4,46,Anderson Cavalcanti,6/7/2022,Rio de Janeiro,2100,8400
+HL1918, iPhone ,1,527,Marina Gama,5/20/2022,Rio de Janeiro,5300,5300
+HL4379, Televisão ,4,192,Daniela Andrada,3/28/2022,São Paulo,2500,10000
+HL4379, Televisão ,4,508,Maria Correa,10/7/2021,Salvador,2500,10000
+HL8851, Notebook ,1,403,Jéssica Teixeira,12/9/2021,Curitiba,3500,3500
+HL1918, iPhone ,5,638,Raphael Rezende,9/19/2021,Belo Horizonte,5300,26500
+HL4379, Televisão ,4,608,Priscila Carvalho,11/5/2021,São Paulo,2500,10000
+HL2714, Tablet ,1,191,Daniel Valente,9/11/2021,São Paulo,1600,1600
+HL4379, Televisão ,5,466,Lucas Wanderley,3/29/2022,Salvador,2500,12500
+HL8851, Notebook ,2,555,Milena Almeida,3/29/2022,Salvador,3500,7000
+HL7348, SmartWatch ,5,669,Rodrigo Ramos,1/20/2022,Rio de Janeiro,1400,7000
+HL1148, Câmera ,5,387,Julia Silva,11/3/2021,Fortaleza,2100,10500
+HL9962, Android ,1,579,Patrícia Ferreira,7/30/2022,Porto Alegre,3400,3400
+HL1918, iPhone ,2,213,Débora Lopes,4/22/2022,Recife,5300,10600
+HL7348, SmartWatch ,4,38,Ana Leite,1/1/2022,Rio de Janeiro,1400,5600
+HL4379, Televisão ,1,427,Lenon Fernandes,8/8/2022,Rio de Janeiro,2500,2500
+HL1918, iPhone ,4,203,Deysiane Bach,9/30/2021,São Paulo,5300,21200
+HL7348, SmartWatch ,2,90,Bianca Tatsch,10/11/2021,Salvador,1400,2800
+HL9962, Android ,5,391,Juliana Goes,9/29/2021,Fortaleza,3400,17000
+HL1918, iPhone ,5,335,Izabel Miura,4/9/2022,Rio de Janeiro,5300,26500
+HL1148, Câmera ,1,208,Diego Rodrigues,3/5/2022,Goiás,2100,2100
+HL8851, Notebook ,4,641,Ravena Bhering,6/19/2022,Fortaleza,3500,14000
+HL1148, Câmera ,5,204,Deysiane Medronho,6/14/2022,Fortaleza,2100,10500
+HL7348, SmartWatch ,3,46,Anderson Cavalcanti,7/2/2022,Belo Horizonte,1400,4200
+HL2714, Tablet ,3,283,Guilherme Barbosa,3/30/2022,Rio de Janeiro,1600,4800
+HL2714, Tablet ,1,664,Roberto Tiradentes,2/11/2022,São Paulo,1600,1600
+HL1918, iPhone ,3,81,Bernardo Botelho,10/11/2021,Recife,5300,15900
+HL1918, iPhone ,2,286,Guilherme Lima,10/30/2021,Salvador,5300,10600
+HL1918, iPhone ,3,399,Julie Ferreira,10/19/2021,São Paulo,5300,15900
+HL2714, Tablet ,4,517,Mariana Freire,9/10/2021,Fortaleza,1600,6400
+HL1918, iPhone ,1,172,Clara Bruno,8/7/2022,São Paulo,5300,5300
+HL1918, iPhone ,5,286,Guilherme Lima,6/29/2022,São Paulo,5300,26500
+HL7348, SmartWatch ,3,197,Danilo Rubim,11/24/2021,Goiás,1400,4200
+HL1918, iPhone ,2,297,Gustavo Erthal,9/21/2021,Belo Horizonte,5300,10600
+HL9962, Android ,4,34,Ana Fioretti,4/19/2022,Belo Horizonte,3400,13600
+HL7348, SmartWatch ,4,537,Matheus Figueiredo,10/27/2021,Salvador,1400,5600
+HL8851, Notebook ,3,325,Isabella Santos,1/1/2022,São Paulo,3500,10500
+HL1918, iPhone ,3,200,David Vasconcelos,2/13/2022,Rio de Janeiro,5300,15900
+HL4379, Televisão ,5,635,Raphael Kurtz,6/3/2022,Fortaleza,2500,12500
+HL1918, iPhone ,2,78,Beatriz Silva,8/29/2021,Rio de Janeiro,5300,10600
+HL4379, Televisão ,1,747,Viviane Cunha,1/14/2022,São Paulo,2500,2500
+HL7348, SmartWatch ,1,121,Bárbara Cavalcante,5/6/2022,São Paulo,1400,1400
+HL2714, Tablet ,3,27,Amanda Procaci,4/10/2022,Belo Horizonte,1600,4800
+HL7348, SmartWatch ,1,497,Manuela Ferreira,6/5/2022,Rio de Janeiro,1400,1400
+HL4379, Televisão ,5,134,Camilla Cardeman,7/9/2022,São Paulo,2500,12500
+HL4379, Televisão ,2,167,Caroline Pinto,7/11/2022,Fortaleza,2500,5000
+HL1918, iPhone ,4,197,Danilo Rubim,5/29/2022,Rio de Janeiro,5300,21200
+HL2714, Tablet ,4,544,Matheus Silva,12/16/2021,Salvador,1600,6400
+HL1918, iPhone ,3,604,Pedro Sena,12/28/2021,Curitiba,5300,15900
+HL1148, Câmera ,5,432,Letícia Leal,1/30/2022,Porto Alegre,2100,10500
+HL4379, Televisão ,5,727,Vanessa Bach,9/5/2021,Recife,2500,12500
+HL4379, Televisão ,1,481,Luiza Cavalcanti,11/22/2021,Fortaleza,2500,2500
+HL1918, iPhone ,1,14,Aline Morais,9/11/2021,Rio de Janeiro,5300,5300
+HL8851, Notebook ,5,311,Hércules Júnior,5/14/2022,Recife,3500,17500
+HL1918, iPhone ,1,426,Leandro Rodrigues,7/29/2022,Fortaleza,5300,5300
+HL8851, Notebook ,1,159,Carolina Rocha,11/27/2021,Salvador,3500,3500
+HL1918, iPhone ,3,155,Carolina Costa,3/2/2022,Belo Horizonte,5300,15900
+HL8851, Notebook ,4,342,Joao Silva,2/10/2022,São Paulo,3500,14000
+HL9962, Android ,5,229,Fabio Boccaletti,2/13/2022,Goiás,3400,17000
+HL1148, Câmera ,1,679,Samara Pinto,5/4/2022,Goiás,2100,2100
+HL1918, iPhone ,3,61,Antônio Soares,12/9/2021,Porto Alegre,5300,15900
+HL9962, Android ,2,278,Giuseppe Bhering,10/22/2021,Rio de Janeiro,3400,6800
+HL4379, Televisão ,1,11,Alexandre Rodriguez,8/9/2022,Curitiba,2500,2500
+HL4379, Televisão ,1,286,Guilherme Lima,6/9/2022,Salvador,2500,2500
+HL7348, SmartWatch ,3,526,Marina Delgado,3/24/2022,Rio de Janeiro,1400,4200
+HL4379, Televisão ,4,162,Carolina Siqueira,8/7/2022,Belo Horizonte,2500,10000
+HL1918, iPhone ,5,225,Elena Barreto,7/26/2022,Fortaleza,5300,26500
+HL1918, iPhone ,2,314,Igor Azevedo,1/11/2022,Belo Horizonte,5300,10600
+HL2714, Tablet ,4,57,Anna Silva,8/17/2021,Curitiba,1600,6400
+HL1148, Câmera ,5,81,Bernardo Botelho,1/11/2022,Curitiba,2100,10500
+HL4379, Televisão ,1,182,Daniel Araujo,6/7/2022,Salvador,2500,2500
+HL9962, Android ,5,246,Filipe Barros,6/16/2022,Curitiba,3400,17000
+HL7348, SmartWatch ,1,580,Paula Calbucci,6/14/2022,Salvador,1400,1400
+HL1918, iPhone ,3,674,Rogério Pereira,10/3/2021,Recife,5300,15900
+HL1918, iPhone ,5,202,Desirée Heimlich,2/22/2022,Goiás,5300,26500
+HL7348, SmartWatch ,2,385,Julia Leite,6/10/2022,Rio de Janeiro,1400,2800
+HL1918, iPhone ,4,702,Thales Andrade,4/10/2022,Fortaleza,5300,21200
+HL4379, Televisão ,2,495,Lívia Marques,4/24/2022,Fortaleza,2500,5000
+HL9962, Android ,2,453,Lucas Freitas,10/14/2021,Goiás,3400,6800
+HL8851, Notebook ,1,620,Rafaela Feio,12/25/2021,Salvador,3500,3500
+HL4379, Televisão ,1,596,Pedro Macckione,8/30/2021,Goiás,2500,2500
+HL4379, Televisão ,5,634,Raphael Guedes,3/7/2022,Rio de Janeiro,2500,12500
+HL4379, Televisão ,3,626,Raissa Maia,2/26/2022,Fortaleza,2500,7500
+HL4379, Televisão ,3,307,Henrique Silva,6/21/2022,São Paulo,2500,7500
+HL1918, iPhone ,3,536,Matheus Delgado,11/13/2021,Porto Alegre,5300,15900
+HL4379, Televisão ,5,551,Michelle Miura,9/16/2021,Salvador,2500,12500
+HL1918, iPhone ,4,411,Karine Barros,7/11/2022,Belo Horizonte,5300,21200
+HL1148, Câmera ,2,141,Carlos Azevedo,11/25/2021,Rio de Janeiro,2100,4200
+HL1918, iPhone ,5,478,Luiz Mendonça,5/3/2022,São Paulo,5300,26500
+HL2714, Tablet ,3,93,Breno Britto,11/5/2021,São Paulo,1600,4800
+HL9962, Android ,2,487,Lunna Vannier,9/24/2021,Goiás,3400,6800
+HL4379, Televisão ,3,32,Ana Carvalho,8/3/2022,Salvador,2500,7500
+HL1918, iPhone ,2,344,Jonatas Essaber,9/14/2021,Rio de Janeiro,5300,10600
+HL1918, iPhone ,3,586,Pedro Bitencourt,4/16/2022,Porto Alegre,5300,15900
+HL4379, Televisão ,4,67,Arthur Souza,10/13/2021,São Paulo,2500,10000
+HL1148, Câmera ,2,603,Pedro Santos,9/14/2021,Rio de Janeiro,2100,4200
+HL1148, Câmera ,2,362,João Castilho,9/19/2021,Salvador,2100,4200
+HL7348, SmartWatch ,1,228,Erick Soares,6/1/2022,Salvador,1400,1400
+HL1148, Câmera ,4,745,Vitor Campos,10/29/2021,São Paulo,2100,8400
+HL4379, Televisão ,1,209,Diogo Peixoto,10/22/2021,Fortaleza,2500,2500
+HL8851, Notebook ,1,712,Thaís Ribeiro,2/11/2022,São Paulo,3500,3500
+HL4379, Televisão ,5,329,Itai Puntel,3/27/2022,Fortaleza,2500,12500
+HL8851, Notebook ,4,120,Bruno Velucci,4/17/2022,Porto Alegre,3500,14000
+HL4379, Televisão ,3,140,Carlos Assis,10/12/2021,Curitiba,2500,7500
+HL7348, SmartWatch ,3,92,Brenno Santos,2/23/2022,Fortaleza,1400,4200
+HL1918, iPhone ,1,690,Stephanie Novak,10/3/2021,Salvador,5300,5300
+HL4379, Televisão ,1,590,Pedro Costa,6/12/2022,Belo Horizonte,2500,2500
+HL1148, Câmera ,3,546,Matheus Tostes,9/30/2021,São Paulo,2100,6300
+HL1918, iPhone ,2,413,Khaio Mesquita,11/26/2021,Recife,5300,10600
+HL9962, Android ,4,361,João Capitulo,4/25/2022,Goiás,3400,13600
+HL2714, Tablet ,5,534,Mateus Polastri,4/30/2022,Salvador,1600,8000
+HL8851, Notebook ,4,66,Arthur Rocha,2/4/2022,Belo Horizonte,3500,14000
+HL1918, iPhone ,1,319,Isabela Chagas,11/4/2021,Porto Alegre,5300,5300
+HL9962, Android ,4,500,Marcela Medeiros,10/27/2021,Salvador,3400,13600
+HL4379, Televisão ,4,463,Lucas Rodrigues,4/26/2022,Goiás,2500,10000
+HL1918, iPhone ,3,644,Raíssa Nimer,3/14/2022,Recife,5300,15900
+HL8851, Notebook ,2,485,Luiza Procaci,6/11/2022,Fortaleza,3500,7000
+HL8851, Notebook ,5,60,Antônio Oliveira,7/2/2022,Rio de Janeiro,3500,17500
+HL4379, Televisão ,4,482,Luiza Farias,3/6/2022,Porto Alegre,2500,10000
+HL1918, iPhone ,2,62,Anízio Carvalho,4/28/2022,Fortaleza,5300,10600
+HL4379, Televisão ,1,444,Lucas Assunção,11/4/2021,Recife,2500,2500
+HL7348, SmartWatch ,2,563,Natalia Accioly,3/30/2022,Belo Horizonte,1400,2800
+HL4379, Televisão ,5,253,Gabriel Pereira,5/25/2022,São Paulo,2500,12500
+HL7348, SmartWatch ,3,705,Thales Portillo,12/2/2021,Recife,1400,4200
+HL1148, Câmera ,4,598,Pedro Oliveira,8/27/2021,Salvador,2100,8400
+HL4379, Televisão ,2,654,Renan Nascimento,9/26/2021,Curitiba,2500,5000
+HL9962, Android ,2,376,João Rodrigues,2/19/2022,São Paulo,3400,6800
+HL2714, Tablet ,2,121,Bárbara Cavalcante,10/19/2021,Fortaleza,1600,3200
+HL1918, iPhone ,4,62,Anízio Carvalho,12/8/2021,Rio de Janeiro,5300,21200
+HL4379, Televisão ,5,646,Raíssa Oros,5/11/2022,Belo Horizonte,2500,12500
+HL4379, Televisão ,1,361,João Capitulo,11/29/2021,Goiás,2500,2500
+HL7348, SmartWatch ,5,697,Tadeu Sousa,8/18/2021,São Paulo,1400,7000
+HL1918, iPhone ,3,97,Breno Godoy,5/31/2022,São Paulo,5300,15900
+HL1148, Câmera ,1,739,Victor Zakhm,2/28/2022,Goiás,2100,2100
+HL1918, iPhone ,1,698,Tainah Nogueira,4/29/2022,Fortaleza,5300,5300
+HL1918, iPhone ,3,722,Thomáz Vannier,11/7/2021,São Paulo,5300,15900
+HL1148, Câmera ,4,35,Ana Gomes,9/8/2021,Curitiba,2100,8400
+HL4379, Televisão ,2,33,Ana Felippe,6/26/2022,Salvador,2500,5000
+HL4379, Televisão ,1,608,Priscila Carvalho,11/14/2021,Rio de Janeiro,2500,2500
+HL9962, Android ,1,255,Gabriel Ribeiro,5/16/2022,Fortaleza,3400,3400
+HL1148, Câmera ,3,7,Adrielle Vieira,1/16/2022,Curitiba,2100,6300
+HL4379, Televisão ,1,720,Thomáz Bôas,4/1/2022,São Paulo,2500,2500
+HL1148, Câmera ,1,636,Raphael Machado,11/24/2021,Porto Alegre,2100,2100
+HL8851, Notebook ,1,204,Deysiane Medronho,4/25/2022,Curitiba,3500,3500
+HL4379, Televisão ,1,412,Katharina Barros,12/10/2021,Belo Horizonte,2500,2500
+HL4379, Televisão ,5,460,Lucas Neto,8/25/2021,Goiás,2500,12500
+HL8851, Notebook ,4,515,Mariana Baptista,3/2/2022,Recife,3500,14000
+HL1148, Câmera ,1,337,Jeferson Costa,9/25/2021,Curitiba,2100,2100
+HL9962, Android ,3,613,Rachel Silva,12/24/2021,São Paulo,3400,10200
+HL4379, Televisão ,1,417,Lara Moreira,9/13/2021,Belo Horizonte,2500,2500
+HL1918, iPhone ,1,754,Wendela Veloso,6/14/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,2,70,Beatriz Almeida,5/23/2022,Salvador,5300,10600
+HL1918, iPhone ,1,134,Camilla Cardeman,5/29/2022,São Paulo,5300,5300
+HL1918, iPhone ,5,756,Willian Albino,2/15/2022,Curitiba,5300,26500
+HL1148, Câmera ,2,146,Carlos Mesquita,10/8/2021,Belo Horizonte,2100,4200
+HL4379, Televisão ,2,469,Luis Silva,8/24/2021,Curitiba,2500,5000
+HL1148, Câmera ,4,12,Aline Andrade,9/26/2021,Salvador,2100,8400
+HL1918, iPhone ,3,259,Gabriel Soares,1/23/2022,São Paulo,5300,15900
+HL4379, Televisão ,4,223,Eduardo Veiga,8/19/2021,Rio de Janeiro,2500,10000
+HL1918, iPhone ,1,152,Carolina Bernardes,2/3/2022,Belo Horizonte,5300,5300
+HL1918, iPhone ,3,499,Marcela Gasperi,3/4/2022,Belo Horizonte,5300,15900
+HL9962, Android ,4,472,Luiz Almeida,6/16/2022,Recife,3400,13600
+HL1148, Câmera ,5,41,Ana Monte,8/19/2021,São Paulo,2100,10500
+HL4379, Televisão ,4,546,Matheus Tostes,8/26/2021,Curitiba,2500,10000
+HL9962, Android ,2,509,Maria Costa,10/5/2021,Fortaleza,3400,6800
+HL9962, Android ,5,282,Guilherme Assis,5/6/2022,Fortaleza,3400,17000
+HL2714, Tablet ,5,708,Thayna Martins,5/5/2022,Salvador,1600,8000
+HL1918, iPhone ,1,295,Gustavo Aragão,12/5/2021,Curitiba,5300,5300
+HL4379, Televisão ,3,36,Ana Gonzaga,4/19/2022,Salvador,2500,7500
+HL1918, iPhone ,4,256,Gabriel Rocha,10/23/2021,Goiás,5300,21200
+HL9962, Android ,3,32,Ana Carvalho,4/7/2022,Curitiba,3400,10200
+HL4379, Televisão ,5,38,Ana Leite,12/3/2021,Fortaleza,2500,12500
+HL1148, Câmera ,5,114,Bruno Oliveira,11/5/2021,São Paulo,2100,10500
+HL7348, SmartWatch ,1,25,Amanda Gontijo,3/11/2022,São Paulo,1400,1400
+HL1148, Câmera ,1,751,Wen Braga,12/17/2021,Curitiba,2100,2100
+HL7348, SmartWatch ,1,312,Hércules Moreira,8/8/2022,Fortaleza,1400,1400
+HL8851, Notebook ,1,300,Gustavo Junior,10/25/2021,Belo Horizonte,3500,3500
+HL1918, iPhone ,5,118,Bruno Temporal,11/21/2021,Porto Alegre,5300,26500
+HL1148, Câmera ,4,244,Fernanda Rubim,2/13/2022,Fortaleza,2100,8400
+HL1918, iPhone ,5,54,André Alves,6/14/2022,São Paulo,5300,26500
+HL4379, Televisão ,3,248,Gabriel Almeida,2/13/2022,Salvador,2500,7500
+HL1918, iPhone ,1,507,Maria Cardoso,5/4/2022,Recife,5300,5300
+HL7348, SmartWatch ,4,516,Mariana Barrozo,7/8/2022,São Paulo,1400,5600
+HL1918, iPhone ,3,347,Jorge Fonseca,11/9/2021,Fortaleza,5300,15900
+HL1148, Câmera ,1,211,Douglas Rodrigues,10/11/2021,São Paulo,2100,2100
+HL8851, Notebook ,3,555,Milena Almeida,9/11/2021,Fortaleza,3500,10500
+HL7348, SmartWatch ,5,496,Lívia Tanaka,4/7/2022,São Paulo,1400,7000
+HL1148, Câmera ,3,416,Lais Candido,2/11/2022,Porto Alegre,2100,6300
+HL4379, Televisão ,5,56,Anna Maia,11/10/2021,Goiás,2500,12500
+HL4379, Televisão ,4,499,Marcela Gasperi,5/17/2022,São Paulo,2500,10000
+HL4379, Televisão ,3,187,Daniel Nauenberg,10/4/2021,São Paulo,2500,7500
+HL4379, Televisão ,4,355,Joyce Souza,10/12/2021,Fortaleza,2500,10000
+HL4379, Televisão ,5,230,Fabio Ramos,3/8/2022,Salvador,2500,12500
+HL4379, Televisão ,1,240,Fernanda Coutinho,11/12/2021,Rio de Janeiro,2500,2500
+HL9962, Android ,3,306,Henrique Oliveira,12/17/2021,Salvador,3400,10200
+HL1918, iPhone ,4,544,Matheus Silva,8/3/2022,Belo Horizonte,5300,21200
+HL1918, iPhone ,5,577,Patrícia Amaral,8/2/2022,Goiás,5300,26500
+HL1148, Câmera ,4,653,Renan Melo,2/13/2022,Fortaleza,2100,8400
+HL1918, iPhone ,3,285,Guilherme Jordao,7/2/2022,São Paulo,5300,15900
+HL4379, Televisão ,2,489,Luísa Fonseca,2/9/2022,Curitiba,2500,5000
+HL7348, SmartWatch ,3,418,Larissa Cruz,12/3/2021,Porto Alegre,1400,4200
+HL1918, iPhone ,1,177,Cézar Santos,6/16/2022,Fortaleza,5300,5300
+HL1918, iPhone ,2,479,Luiz Xavier,2/16/2022,Fortaleza,5300,10600
+HL2714, Tablet ,1,363,João Costa,4/24/2022,São Paulo,1600,1600
+HL1918, iPhone ,3,221,Eduardo Soares,3/8/2022,São Paulo,5300,15900
+HL1148, Câmera ,4,26,Amanda Machado,1/29/2022,Curitiba,2100,8400
+HL9962, Android ,5,720,Thomáz Bôas,9/18/2021,São Paulo,3400,17000
+HL7348, SmartWatch ,3,439,Luana Santana,6/14/2022,São Paulo,1400,4200
+HL1918, iPhone ,5,286,Guilherme Lima,2/14/2022,Porto Alegre,5300,26500
+HL4379, Televisão ,2,169,Cassio Faria,4/13/2022,Salvador,2500,5000
+HL1918, iPhone ,3,94,Breno Caputo,10/24/2021,Salvador,5300,15900
+HL1918, iPhone ,3,303,Helena Chafin,12/7/2021,Goiás,5300,15900
+HL1148, Câmera ,1,455,Lucas Lacerda,2/4/2022,São Paulo,2100,2100
+HL9962, Android ,1,187,Daniel Nauenberg,10/22/2021,Recife,3400,3400
+HL1148, Câmera ,4,759,Wilson Meirelles,4/11/2022,Rio de Janeiro,2100,8400
+HL1918, iPhone ,3,149,Carlos Souza,6/7/2022,Curitiba,5300,15900
+HL8851, Notebook ,2,59,Antonio Manhães,6/5/2022,São Paulo,3500,7000
+HL1918, iPhone ,3,147,Carlos Portela,4/11/2022,Rio de Janeiro,5300,15900
+HL4379, Televisão ,2,475,Luiz Freire,2/27/2022,Recife,2500,5000
+HL4379, Televisão ,1,327,Isabelle Firmino,1/5/2022,Fortaleza,2500,2500
+HL7348, SmartWatch ,3,313,Ian Almeida,9/20/2021,Porto Alegre,1400,4200
+HL7348, SmartWatch ,1,598,Pedro Oliveira,2/19/2022,Fortaleza,1400,1400
+HL9962, Android ,3,582,Paula Cavalcanti,4/13/2022,Porto Alegre,3400,10200
+HL1918, iPhone ,3,425,Leandro Melo,2/15/2022,Rio de Janeiro,5300,15900
+HL4379, Televisão ,5,48,Andre Nóbrega,3/5/2022,Goiás,2500,12500
+HL1148, Câmera ,5,347,Jorge Fonseca,6/11/2022,Porto Alegre,2100,10500
+HL1148, Câmera ,3,648,Rebeca Manhães,6/19/2022,São Paulo,2100,6300
+HL1148, Câmera ,2,546,Matheus Tostes,11/3/2021,São Paulo,2100,4200
+HL1148, Câmera ,4,88,Bianca Piero,8/9/2022,Goiás,2100,8400
+HL9962, Android ,1,632,Raphael Ferman,8/6/2022,São Paulo,3400,3400
+HL2714, Tablet ,2,610,Priscila Suzano,5/16/2022,Porto Alegre,1600,3200
+HL1148, Câmera ,1,196,Danilo Mendonça,5/15/2022,Belo Horizonte,2100,2100
+HL1918, iPhone ,4,358,João Alves,7/14/2022,Curitiba,5300,21200
+HL1148, Câmera ,3,340,Jessica Ferreira,5/5/2022,Rio de Janeiro,2100,6300
+HL1148, Câmera ,2,402,Jéssica Stefanelli,5/12/2022,São Paulo,2100,4200
+HL4379, Televisão ,2,587,Pedro Buraco,8/30/2021,Recife,2500,5000
+HL1918, iPhone ,2,719,Thomaz Ferreira,2/3/2022,Recife,5300,10600
+HL1918, iPhone ,3,136,Camilla Vieira,6/29/2022,São Paulo,5300,15900
+HL1918, iPhone ,3,95,Breno Costa,7/5/2022,São Paulo,5300,15900
+HL8851, Notebook ,3,117,Bruno Souza,10/3/2021,Porto Alegre,3500,10500
+HL1918, iPhone ,3,600,Pedro Rodrigues,12/3/2021,Fortaleza,5300,15900
+HL2714, Tablet ,3,338,Jeferson Sone,3/27/2022,Salvador,1600,4800
+HL1918, iPhone ,4,751,Wen Braga,3/3/2022,Belo Horizonte,5300,21200
+HL1918, iPhone ,4,541,Matheus Ramos,10/1/2021,Goiás,5300,21200
+HL2714, Tablet ,1,369,João Matheus,6/25/2022,Curitiba,1600,1600
+HL2714, Tablet ,5,52,Andressa Rotsztejn,6/23/2022,Rio de Janeiro,1600,8000
+HL7348, SmartWatch ,4,232,Felipe Cavalcanti,1/26/2022,Porto Alegre,1400,5600
+HL8851, Notebook ,5,376,João Rodrigues,6/2/2022,Rio de Janeiro,3500,17500
+HL4379, Televisão ,3,2,Adriana Passos,6/10/2022,São Paulo,2500,7500
+HL7348, SmartWatch ,5,257,Gabriel Rubim,4/19/2022,Rio de Janeiro,1400,7000
+HL1918, iPhone ,3,251,Gabriel Brito,12/20/2021,Belo Horizonte,5300,15900
+HL1918, iPhone ,5,242,Fernanda Figueiredo,12/20/2021,Salvador,5300,26500
+HL4379, Televisão ,1,472,Luiz Almeida,11/16/2021,São Paulo,2500,2500
+HL1918, iPhone ,4,693,Sthefeson Kohn,7/21/2022,Rio de Janeiro,5300,21200
+HL1918, iPhone ,4,452,Lucas Freire,4/14/2022,Recife,5300,21200
+HL4379, Televisão ,1,212,Dykson Silva,12/1/2021,Goiás,2500,2500
+HL4379, Televisão ,3,534,Mateus Polastri,1/13/2022,São Paulo,2500,7500
+HL7348, SmartWatch ,4,345,Jonatas Passos,7/9/2022,Belo Horizonte,1400,5600
+HL1918, iPhone ,5,167,Caroline Pinto,12/28/2021,Recife,5300,26500
+HL1918, iPhone ,1,256,Gabriel Rocha,11/18/2021,Belo Horizonte,5300,5300
+HL8851, Notebook ,2,9,Alex Fernandes,4/5/2022,São Paulo,3500,7000
+HL8851, Notebook ,3,527,Marina Gama,11/7/2021,Salvador,3500,10500
+HL1918, iPhone ,4,299,Gustavo Guimarães,4/21/2022,São Paulo,5300,21200
+HL4379, Televisão ,1,502,Marcelo Guadagnino,11/2/2021,São Paulo,2500,2500
+HL8851, Notebook ,5,187,Daniel Nauenberg,8/20/2021,Salvador,3500,17500
+HL9962, Android ,5,461,Lucas Reis,3/21/2022,São Paulo,3400,17000
+HL1918, iPhone ,4,183,Daniel Cardoso,4/5/2022,Recife,5300,21200
+HL8851, Notebook ,5,284,Guilherme Castilho,7/18/2022,Rio de Janeiro,3500,17500
+HL7348, SmartWatch ,5,141,Carlos Azevedo,6/26/2022,Fortaleza,1400,7000
+HL7348, SmartWatch ,4,477,Luiz Marinho,8/31/2021,Salvador,1400,5600
+HL4379, Televisão ,3,211,Douglas Rodrigues,6/24/2022,Porto Alegre,2500,7500
+HL1918, iPhone ,5,645,Raíssa Oliveira,11/22/2021,Recife,5300,26500
+HL9962, Android ,4,75,Beatriz Rocha,7/17/2022,Belo Horizonte,3400,13600
+HL1918, iPhone ,1,334,Izabel Lopes,4/12/2022,Curitiba,5300,5300
+HL4379, Televisão ,5,579,Patrícia Ferreira,9/11/2021,Rio de Janeiro,2500,12500
+HL7348, SmartWatch ,5,436,Livia Cozendey,6/11/2022,Recife,1400,7000
+HL8851, Notebook ,3,81,Bernardo Botelho,3/23/2022,Curitiba,3500,10500
+HL9962, Android ,5,178,Cícero Lima,7/3/2022,Rio de Janeiro,3400,17000
+HL1918, iPhone ,3,543,Matheus Sapir,8/24/2021,Recife,5300,15900
+HL8851, Notebook ,4,518,Mariana Miranda,8/27/2021,Rio de Janeiro,3500,14000
+HL1918, iPhone ,5,650,Rebeca Taylor,9/16/2021,Rio de Janeiro,5300,26500
+HL4379, Televisão ,1,6,Adrielle Gabriel,7/18/2022,Belo Horizonte,2500,2500
+HL1918, iPhone ,5,679,Samara Pinto,2/3/2022,Recife,5300,26500
+HL8851, Notebook ,1,403,Jéssica Teixeira,5/3/2022,Rio de Janeiro,3500,3500
+HL1148, Câmera ,5,29,Ana Almeida,1/27/2022,Recife,2100,10500
+HL9962, Android ,1,303,Helena Chafin,3/17/2022,Salvador,3400,3400
+HL8851, Notebook ,5,309,Hiaiune Valim,6/13/2022,Curitiba,3500,17500
+HL8851, Notebook ,1,168,Caroll Johnson,3/17/2022,Belo Horizonte,3500,3500
+HL7348, SmartWatch ,3,461,Lucas Reis,10/20/2021,Porto Alegre,1400,4200
+HL7348, SmartWatch ,4,171,Chan Santos,12/24/2021,Recife,1400,5600
+HL1148, Câmera ,5,14,Aline Morais,8/12/2022,Fortaleza,2100,10500
+HL4379, Televisão ,5,609,Priscila Garcia,11/21/2021,Porto Alegre,2500,12500
+HL8851, Notebook ,3,657,Rilson Dias,4/26/2022,São Paulo,3500,10500
+HL9962, Android ,5,624,Rafaela Rodrigues,5/29/2022,Goiás,3400,17000
+HL9962, Android ,5,422,Laura Araujo,12/31/2021,Salvador,3400,17000
+HL1918, iPhone ,1,156,Carolina Figueiredo,5/4/2022,Rio de Janeiro,5300,5300
+HL7348, SmartWatch ,3,544,Matheus Silva,2/8/2022,São Paulo,1400,4200
+HL1918, iPhone ,4,194,Daniela Rosa,7/10/2022,Curitiba,5300,21200
+HL8851, Notebook ,3,293,Guilherme Vianna,10/8/2021,Fortaleza,3500,10500
+HL2714, Tablet ,3,33,Ana Felippe,5/15/2022,Curitiba,1600,4800
+HL7348, SmartWatch ,1,428,Leonardo Faria,1/31/2022,Porto Alegre,1400,1400
+HL4379, Televisão ,3,722,Thomáz Vannier,10/9/2021,Rio de Janeiro,2500,7500
+HL1918, iPhone ,3,276,Giulia Lopes,6/22/2022,Rio de Janeiro,5300,15900
+HL8851, Notebook ,5,626,Raissa Maia,1/27/2022,Curitiba,3500,17500
+HL9962, Android ,5,2,Adriana Passos,9/4/2021,São Paulo,3400,17000
+HL1918, iPhone ,3,745,Vitor Campos,9/20/2021,Salvador,5300,15900
+HL2714, Tablet ,4,7,Adrielle Vieira,1/23/2022,Curitiba,1600,6400
+HL1918, iPhone ,3,94,Breno Caputo,10/12/2021,Rio de Janeiro,5300,15900
+HL9962, Android ,3,395,Juliana Mesquita,11/22/2021,Salvador,3400,10200
+HL1148, Câmera ,3,88,Bianca Piero,12/8/2021,São Paulo,2100,6300
+HL7348, SmartWatch ,3,617,Rafael Ramos,5/17/2022,Rio de Janeiro,1400,4200
+HL2714, Tablet ,3,273,Giovana Vilela,8/26/2021,Fortaleza,1600,4800
+HL1918, iPhone ,5,92,Brenno Santos,5/7/2022,Rio de Janeiro,5300,26500
+HL8851, Notebook ,1,626,Raissa Maia,8/19/2021,Salvador,3500,3500
+HL4379, Televisão ,1,357,João Aires,8/23/2021,São Paulo,2500,2500
+HL1148, Câmera ,2,27,Amanda Procaci,4/9/2022,Goiás,2100,4200
+HL7348, SmartWatch ,2,763,Yasmim Verly,10/27/2021,Recife,1400,2800
+HL9962, Android ,4,415,Kimberly Sad,12/26/2021,São Paulo,3400,13600
+HL1918, iPhone ,2,719,Thomaz Ferreira,7/27/2022,Salvador,5300,10600
+HL1148, Câmera ,3,659,Roberta Nogueira,4/10/2022,São Paulo,2100,6300
+HL2714, Tablet ,1,58,Antonio Bernhardt,6/2/2022,Porto Alegre,1600,1600
+HL4379, Televisão ,1,681,Sandy Moreira,7/21/2022,Curitiba,2500,2500
+HL1918, iPhone ,5,309,Hiaiune Valim,10/15/2021,Salvador,5300,26500
+HL1918, iPhone ,2,397,Juliana Silva,8/13/2021,São Paulo,5300,10600
+HL4379, Televisão ,2,244,Fernanda Rubim,10/12/2021,Curitiba,2500,5000
+HL1148, Câmera ,1,540,Matheus Moraes,11/29/2021,Curitiba,2100,2100
+HL1918, iPhone ,3,671,Rodrigo Souza,5/13/2022,São Paulo,5300,15900
+HL1918, iPhone ,1,451,Lucas Fontoura,3/7/2022,Salvador,5300,5300
+HL8851, Notebook ,3,78,Beatriz Silva,3/16/2022,São Paulo,3500,10500
+HL4379, Televisão ,3,444,Lucas Assunção,6/30/2022,Fortaleza,2500,7500
+HL1918, iPhone ,5,459,Lucas Monte,12/24/2021,São Paulo,5300,26500
+HL8851, Notebook ,2,304,Helvio Pedrosa,2/13/2022,Recife,3500,7000
+HL7348, SmartWatch ,5,535,Matheus Afonso,8/22/2021,São Paulo,1400,7000
+HL8851, Notebook ,3,241,Fernanda Ferreira,6/8/2022,Rio de Janeiro,3500,10500
+HL1148, Câmera ,3,346,Jorge Carvalho,3/11/2022,Rio de Janeiro,2100,6300
+HL9962, Android ,2,719,Thomaz Ferreira,12/12/2021,Curitiba,3400,6800
+HL2714, Tablet ,5,212,Dykson Silva,10/1/2021,Recife,1600,8000
+HL1918, iPhone ,4,158,Carolina Rachide,8/5/2022,São Paulo,5300,21200
+HL1918, iPhone ,2,420,Larissa Jesus,11/23/2021,Goiás,5300,10600
+HL1918, iPhone ,3,163,Carolina Vasconcelos,4/15/2022,Goiás,5300,15900
+HL2714, Tablet ,3,105,Bruna Ramos,3/15/2022,São Paulo,1600,4800
+HL7348, SmartWatch ,3,761,Wilson Vianna,1/12/2022,Salvador,1400,4200
+HL4379, Televisão ,5,499,Marcela Gasperi,9/17/2021,Rio de Janeiro,2500,12500
+HL1918, iPhone ,1,533,Mateus Maia,1/8/2022,Recife,5300,5300
+HL4379, Televisão ,1,88,Bianca Piero,5/5/2022,Goiás,2500,2500
+HL4379, Televisão ,4,102,Bruna Franco,10/7/2021,Belo Horizonte,2500,10000
+HL4379, Televisão ,1,641,Ravena Bhering,8/13/2022,Curitiba,2500,2500
+HL9962, Android ,1,579,Patrícia Ferreira,1/23/2022,São Paulo,3400,3400
+HL1918, iPhone ,4,622,Rafaela Gomes,3/20/2022,Fortaleza,5300,21200
+HL1918, iPhone ,1,515,Mariana Baptista,3/12/2022,Rio de Janeiro,5300,5300
+HL2714, Tablet ,4,514,Maria Motta,5/7/2022,Belo Horizonte,1600,6400
+HL8851, Notebook ,4,58,Antonio Bernhardt,11/4/2021,Porto Alegre,3500,14000
+HL1918, iPhone ,5,12,Aline Andrade,9/7/2021,São Paulo,5300,26500
+HL4379, Televisão ,4,139,Carlos Araujo,5/9/2022,Recife,2500,10000
+HL2714, Tablet ,1,526,Marina Delgado,10/28/2021,Porto Alegre,1600,1600
+HL9962, Android ,2,50,Andressa Chou,7/12/2022,Goiás,3400,6800
+HL1918, iPhone ,3,716,Thiago Nóbrega,1/4/2022,São Paulo,5300,15900
+HL9962, Android ,3,693,Sthefeson Kohn,2/16/2022,Salvador,3400,10200
+HL2714, Tablet ,5,88,Bianca Piero,8/2/2022,Salvador,1600,8000
+HL1918, iPhone ,5,62,Anízio Carvalho,3/8/2022,Goiás,5300,26500
+HL7348, SmartWatch ,4,559,Myllena Carneiro,11/19/2021,Salvador,1400,5600
+HL1918, iPhone ,2,687,Stefan Santos,7/16/2022,Salvador,5300,10600
+HL4379, Televisão ,3,707,Thayane Resende,11/11/2021,Rio de Janeiro,2500,7500
+HL7348, SmartWatch ,2,534,Mateus Polastri,4/11/2022,Rio de Janeiro,1400,2800
+HL1918, iPhone ,3,609,Priscila Garcia,5/17/2022,Belo Horizonte,5300,15900
+HL2714, Tablet ,3,603,Pedro Santos,6/28/2022,Fortaleza,1600,4800
+HL1148, Câmera ,1,207,Diego Mello,8/4/2022,São Paulo,2100,2100
+HL1918, iPhone ,1,421,Larissa Vasconcellos,6/13/2022,Salvador,5300,5300
+HL2714, Tablet ,1,89,Bianca Procaci,7/8/2022,Rio de Janeiro,1600,1600
+HL1918, iPhone ,5,45,Anderson Barreto,10/21/2021,Rio de Janeiro,5300,26500
+HL2714, Tablet ,3,205,Diego Barros,11/3/2021,Salvador,1600,4800
+HL8851, Notebook ,4,251,Gabriel Brito,12/17/2021,Porto Alegre,3500,14000
+HL1148, Câmera ,5,146,Carlos Mesquita,10/5/2021,Rio de Janeiro,2100,10500
+HL8851, Notebook ,5,90,Bianca Tatsch,11/4/2021,São Paulo,3500,17500
+HL4379, Televisão ,3,52,Andressa Rotsztejn,12/3/2021,São Paulo,2500,7500
+HL1918, iPhone ,1,655,Renan Nucci,2/13/2022,São Paulo,5300,5300
+HL9962, Android ,3,9,Alex Fernandes,6/28/2022,Curitiba,3400,10200
+HL1918, iPhone ,1,51,Andressa Nóbrega,9/15/2021,Recife,5300,5300
+HL1918, iPhone ,5,531,Marina Perdomo,3/20/2022,Fortaleza,5300,26500
+HL8851, Notebook ,2,405,Jônatas Soares,9/6/2021,Fortaleza,3500,7000
+HL4379, Televisão ,5,410,Karina Camara,1/8/2022,Salvador,2500,12500
+HL4379, Televisão ,5,278,Giuseppe Bhering,12/16/2021,Fortaleza,2500,12500
+HL1148, Câmera ,1,319,Isabela Chagas,5/31/2022,São Paulo,2100,2100
+HL1918, iPhone ,5,51,Andressa Nóbrega,7/31/2022,Belo Horizonte,5300,26500
+HL1918, iPhone ,4,162,Carolina Siqueira,7/11/2022,Curitiba,5300,21200
+HL8851, Notebook ,1,687,Stefan Santos,9/12/2021,Salvador,3500,3500
+HL4379, Televisão ,5,340,Jessica Ferreira,7/17/2022,São Paulo,2500,12500
+HL2714, Tablet ,4,127,Caio Ferreira,3/4/2022,Rio de Janeiro,1600,6400
+HL1918, iPhone ,2,542,Matheus Santos,2/14/2022,Salvador,5300,10600
+HL1148, Câmera ,1,518,Mariana Miranda,2/11/2022,São Paulo,2100,2100
+HL1918, iPhone ,2,459,Lucas Monte,6/28/2022,Goiás,5300,10600
+HL9962, Android ,5,500,Marcela Medeiros,12/21/2021,Rio de Janeiro,3400,17000
+HL4379, Televisão ,2,153,Carolina Brum,5/1/2022,Salvador,2500,5000
+HL4379, Televisão ,5,392,Juliana Guimarães,11/3/2021,São Paulo,2500,12500
+HL4379, Televisão ,1,197,Danilo Rubim,4/13/2022,Rio de Janeiro,2500,2500
+HL4379, Televisão ,3,197,Danilo Rubim,1/3/2022,Fortaleza,2500,7500
+HL1918, iPhone ,4,259,Gabriel Soares,8/30/2021,São Paulo,5300,21200
+HL1148, Câmera ,3,690,Stephanie Novak,1/8/2022,Curitiba,2100,6300
+HL1148, Câmera ,2,285,Guilherme Jordao,7/15/2022,Salvador,2100,4200
+HL1148, Câmera ,2,583,Paula Isbelle,11/20/2021,Curitiba,2100,4200
+HL1918, iPhone ,4,434,Livia Codeceira,11/30/2021,Rio de Janeiro,5300,21200
+HL4379, Televisão ,1,394,Juliana Huon,8/6/2022,Curitiba,2500,2500
+HL1148, Câmera ,3,511,Maria Junior,11/17/2021,São Paulo,2100,6300
+HL9962, Android ,2,58,Antonio Bernhardt,4/26/2022,Recife,3400,6800
+HL7348, SmartWatch ,1,685,Silvio Provenzano,2/7/2022,Fortaleza,1400,1400
+HL2714, Tablet ,1,9,Alex Fernandes,1/22/2022,Curitiba,1600,1600
+HL8851, Notebook ,5,552,Michelle Pereira,1/13/2022,Salvador,3500,17500
+HL2714, Tablet ,4,734,Victor Gomes,12/21/2021,Fortaleza,1600,6400
+HL1148, Câmera ,3,725,Ulisses Filho,7/26/2022,Porto Alegre,2100,6300
+HL1918, iPhone ,3,334,Izabel Lopes,1/11/2022,Curitiba,5300,15900
+HL1918, iPhone ,3,31,Ana Campos,7/8/2022,São Paulo,5300,15900
+HL1918, iPhone ,4,337,Jeferson Costa,8/12/2022,Fortaleza,5300,21200
+HL1918, iPhone ,3,106,Bruna Rosa,12/25/2021,São Paulo,5300,15900
+HL4379, Televisão ,4,513,Maria Moita,11/19/2021,Curitiba,2500,10000
+HL1918, iPhone ,5,531,Marina Perdomo,8/5/2022,Recife,5300,26500
+HL7348, SmartWatch ,1,558,Morgana Correa,10/15/2021,São Paulo,1400,1400
+HL4379, Televisão ,4,239,Fernanda Bhering,6/6/2022,Recife,2500,10000
+HL1918, iPhone ,4,378,João Siqueira,2/27/2022,Curitiba,5300,21200
+HL4379, Televisão ,2,40,Ana Miura,3/20/2022,Belo Horizonte,2500,5000
+HL1918, iPhone ,3,142,Carlos Barbosa,10/28/2021,Fortaleza,5300,15900
+HL4379, Televisão ,5,736,Victor Magalhães,8/16/2021,Goiás,2500,12500
+HL7348, SmartWatch ,2,392,Juliana Guimarães,9/12/2021,Salvador,1400,2800
+HL9962, Android ,1,749,Vivianne Rodrigues,2/13/2022,São Paulo,3400,3400
+HL9962, Android ,1,763,Yasmim Verly,7/8/2022,Porto Alegre,3400,3400
+HL8851, Notebook ,1,80,Bernardo Borges,10/1/2021,São Paulo,3500,3500
+HL8851, Notebook ,3,550,Michelle Figueiredo,3/26/2022,Rio de Janeiro,3500,10500
+HL1148, Câmera ,5,83,Bernardo Ribeiro,3/24/2022,Salvador,2100,10500
+HL1918, iPhone ,3,199,David Campelo,8/17/2021,Salvador,5300,15900
+HL1148, Câmera ,3,654,Renan Nascimento,1/7/2022,São Paulo,2100,6300
+HL1918, iPhone ,5,736,Victor Magalhães,8/18/2021,Salvador,5300,26500
+HL9962, Android ,3,138,Carla Zakhm,9/16/2021,Fortaleza,3400,10200
+HL8851, Notebook ,2,38,Ana Leite,4/26/2022,São Paulo,3500,7000
+HL8851, Notebook ,2,277,Giulia Pessanha,3/9/2022,Belo Horizonte,3500,7000
+HL7348, SmartWatch ,3,679,Samara Pinto,3/8/2022,Belo Horizonte,1400,4200
+HL4379, Televisão ,5,116,Bruno Silva,11/17/2021,Recife,2500,12500
+HL1918, iPhone ,5,585,Pedro Ayres,8/11/2022,Curitiba,5300,26500
+HL8851, Notebook ,2,763,Yasmim Verly,12/5/2021,São Paulo,3500,7000
+HL2714, Tablet ,2,28,Amanda Roberto,1/27/2022,São Paulo,1600,3200
+HL7348, SmartWatch ,2,561,Mônica Rotolo,1/25/2022,Rio de Janeiro,1400,2800
+HL1918, iPhone ,2,157,Carolina Motta,6/8/2022,Recife,5300,10600
+HL1918, iPhone ,2,13,Aline Mello,9/22/2021,São Paulo,5300,10600
+HL4379, Televisão ,4,382,Julia Aliani,8/7/2022,Recife,2500,10000
+HL4379, Televisão ,1,271,Gabrielle Viríssimo,4/25/2022,Fortaleza,2500,2500
+HL4379, Televisão ,3,491,Luíza Goulart,11/27/2021,Salvador,2500,7500
+HL1148, Câmera ,3,341,Joao Pereira,6/2/2022,São Paulo,2100,6300
+HL2714, Tablet ,3,407,Júlia Almeida,12/11/2021,Rio de Janeiro,1600,4800
+HL4379, Televisão ,4,639,Raul Junqueira,6/19/2022,Goiás,2500,10000
+HL4379, Televisão ,4,130,Caio Silva,5/28/2022,Belo Horizonte,2500,10000
+HL9962, Android ,5,74,Beatriz Perdomo,3/20/2022,Recife,3400,17000
+HL1918, iPhone ,2,337,Jeferson Costa,11/6/2021,Porto Alegre,5300,10600
+HL4379, Televisão ,2,131,Caio Vianna,10/4/2021,Salvador,2500,5000
+HL7348, SmartWatch ,1,559,Myllena Carneiro,5/10/2022,Belo Horizonte,1400,1400
+HL9962, Android ,4,238,Felipe Paulo,4/20/2022,Salvador,3400,13600
+HL9962, Android ,2,410,Karina Camara,3/8/2022,Goiás,3400,6800
+HL1918, iPhone ,5,421,Larissa Vasconcellos,8/1/2022,Goiás,5300,26500
+HL2714, Tablet ,4,451,Lucas Fontoura,11/26/2021,São Paulo,1600,6400
+HL2714, Tablet ,5,181,Daniel Alcoforado,6/7/2022,Salvador,1600,8000
+HL1148, Câmera ,1,460,Lucas Neto,4/20/2022,Fortaleza,2100,2100
+HL9962, Android ,3,381,Juan Fernandes,4/29/2022,Belo Horizonte,3400,10200
+HL1148, Câmera ,2,500,Marcela Medeiros,4/7/2022,Recife,2100,4200
+HL9962, Android ,2,222,Eduardo Vargas,4/8/2022,Recife,3400,6800
+HL8851, Notebook ,2,576,Patrick Silva,12/11/2021,São Paulo,3500,7000
+HL1918, iPhone ,5,170,Catarina Teixeira,10/6/2021,Curitiba,5300,26500
+HL7348, SmartWatch ,3,399,Julie Ferreira,2/7/2022,Salvador,1400,4200
+HL2714, Tablet ,2,751,Wen Braga,3/20/2022,Rio de Janeiro,1600,3200
+HL1148, Câmera ,4,637,Raphael Mattos,9/20/2021,Belo Horizonte,2100,8400
+HL2714, Tablet ,3,228,Erick Soares,5/30/2022,Fortaleza,1600,4800
+HL1918, iPhone ,1,68,Audir Franco,5/10/2022,Goiás,5300,5300
+HL1148, Câmera ,5,474,Luiz Conceição,8/21/2021,Fortaleza,2100,10500
+HL9962, Android ,5,715,Thiago Miura,5/1/2022,Goiás,3400,17000
+HL8851, Notebook ,3,675,Rojane Lima,6/29/2022,Porto Alegre,3500,10500
+HL8851, Notebook ,2,172,Clara Bruno,8/4/2022,Rio de Janeiro,3500,7000
+HL4379, Televisão ,5,462,Lucas Rocha,3/15/2022,Rio de Janeiro,2500,12500
+HL4379, Televisão ,1,512,Maria Mello,4/26/2022,São Paulo,2500,2500
+HL1918, iPhone ,3,21,Amanda Amaral,3/31/2022,São Paulo,5300,15900
+HL7348, SmartWatch ,3,549,Melissa Nucci,7/8/2022,Rio de Janeiro,1400,4200
+HL4379, Televisão ,1,222,Eduardo Vargas,1/9/2022,Recife,2500,2500
+HL1918, iPhone ,4,580,Paula Calbucci,8/14/2021,Rio de Janeiro,5300,21200
+HL2714, Tablet ,2,49,Andre Sampaio,2/8/2022,São Paulo,1600,3200
+HL9962, Android ,5,418,Larissa Cruz,3/17/2022,São Paulo,3400,17000
+HL1148, Câmera ,3,107,Bruna Silva,1/1/2022,Rio de Janeiro,2100,6300
+HL1918, iPhone ,1,425,Leandro Melo,12/28/2021,Rio de Janeiro,5300,5300
+HL1918, iPhone ,1,177,Cézar Santos,3/1/2022,Rio de Janeiro,5300,5300
+HL9962, Android ,3,300,Gustavo Junior,5/16/2022,Belo Horizonte,3400,10200
+HL9962, Android ,3,263,Gabriela Cavalcanti,5/8/2022,Fortaleza,3400,10200
+HL2714, Tablet ,4,613,Rachel Silva,4/19/2022,Fortaleza,1600,6400
+HL8851, Notebook ,4,2,Adriana Passos,2/20/2022,Goiás,3500,14000
+HL7348, SmartWatch ,4,244,Fernanda Rubim,5/23/2022,Salvador,1400,5600
+HL2714, Tablet ,1,720,Thomáz Bôas,1/5/2022,Curitiba,1600,1600
+HL1918, iPhone ,1,323,Isabella Montanholi,10/3/2021,Rio de Janeiro,5300,5300
+HL2714, Tablet ,1,427,Lenon Fernandes,7/30/2022,Porto Alegre,1600,1600
+HL1148, Câmera ,5,342,Joao Silva,10/28/2021,Fortaleza,2100,10500
+HL7348, SmartWatch ,3,31,Ana Campos,1/2/2022,Recife,1400,4200
+HL1918, iPhone ,1,165,Caroline Cavalcanti,5/25/2022,São Paulo,5300,5300
+HL9962, Android ,1,258,Gabriel Silva,9/21/2021,Recife,3400,3400
+HL4379, Televisão ,2,377,João Silva,10/22/2021,São Paulo,2500,5000
+HL4379, Televisão ,1,291,Guilherme Santos,2/27/2022,Fortaleza,2500,2500
+HL4379, Televisão ,2,538,Matheus Gomes,6/14/2022,Rio de Janeiro,2500,5000
+HL2714, Tablet ,3,467,Luis Garcia,10/18/2021,Salvador,1600,4800
+HL8851, Notebook ,2,56,Anna Maia,1/31/2022,Curitiba,3500,7000
+HL1918, iPhone ,2,140,Carlos Assis,1/30/2022,São Paulo,5300,10600
+HL2714, Tablet ,4,116,Bruno Silva,11/26/2021,Rio de Janeiro,1600,6400
+HL7348, SmartWatch ,2,274,Giovanna Santos,12/9/2021,São Paulo,1400,2800
+HL8851, Notebook ,3,459,Lucas Monte,6/5/2022,Goiás,3500,10500
+HL4379, Televisão ,4,146,Carlos Mesquita,3/11/2022,São Paulo,2500,10000
+HL2714, Tablet ,4,256,Gabriel Rocha,2/10/2022,Recife,1600,6400
+HL4379, Televisão ,4,379,João Tabet,3/5/2022,Rio de Janeiro,2500,10000
+HL1148, Câmera ,2,176,Célio Xavier,11/4/2021,Belo Horizonte,2100,4200
+HL1148, Câmera ,1,294,Gustavo Accardo,12/20/2021,Fortaleza,2100,2100
+HL4379, Televisão ,1,737,Victor Oliveira,4/19/2022,Porto Alegre,2500,2500
+HL9962, Android ,1,319,Isabela Chagas,2/22/2022,Salvador,3400,3400
+HL1918, iPhone ,2,131,Caio Vianna,4/19/2022,Rio de Janeiro,5300,10600
+HL1918, iPhone ,1,328,Isabelle Gonçalves,6/7/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,2,586,Pedro Bitencourt,9/14/2021,Rio de Janeiro,5300,10600
+HL8851, Notebook ,4,587,Pedro Buraco,3/5/2022,Porto Alegre,3500,14000
+HL1918, iPhone ,3,498,Manuela Merege,7/30/2022,São Paulo,5300,15900
+HL1918, iPhone ,2,688,Stela Mendonça,10/10/2021,São Paulo,5300,10600
+HL9962, Android ,5,572,Nina Magalhães,6/1/2022,São Paulo,3400,17000
+HL2714, Tablet ,3,763,Yasmim Verly,7/19/2022,São Paulo,1600,4800
+HL4379, Televisão ,5,228,Erick Soares,9/1/2021,Curitiba,2500,12500
+HL9962, Android ,2,527,Marina Gama,1/20/2022,Fortaleza,3400,6800
+HL1918, iPhone ,4,444,Lucas Assunção,1/19/2022,São Paulo,5300,21200
+HL8851, Notebook ,2,619,Rafael Wajnsztok,5/13/2022,São Paulo,3500,7000
+HL9962, Android ,2,188,Daniel Ortiz,3/3/2022,Salvador,3400,6800
+HL7348, SmartWatch ,5,713,Thiago Costa,4/18/2022,Rio de Janeiro,1400,7000
+HL2714, Tablet ,4,137,Camille Silva,3/28/2022,Fortaleza,1600,6400
+HL1918, iPhone ,5,178,Cícero Lima,8/17/2021,Salvador,5300,26500
+HL4379, Televisão ,3,454,Lucas Junior,4/5/2022,São Paulo,2500,7500
+HL7348, SmartWatch ,3,228,Erick Soares,4/11/2022,São Paulo,1400,4200
+HL4379, Televisão ,3,402,Jéssica Stefanelli,2/19/2022,Recife,2500,7500
+HL9962, Android ,1,639,Raul Junqueira,6/11/2022,Porto Alegre,3400,3400
+HL4379, Televisão ,3,144,Carlos Galvão,5/8/2022,Salvador,2500,7500
+HL4379, Televisão ,3,546,Matheus Tostes,7/28/2022,Rio de Janeiro,2500,7500
+HL7348, SmartWatch ,5,211,Douglas Rodrigues,4/29/2022,Fortaleza,1400,7000
+HL4379, Televisão ,4,726,Ulisses Quinto,3/9/2022,São Paulo,2500,10000
+HL2714, Tablet ,2,740,Victoria Mazza,9/28/2021,São Paulo,1600,3200
+HL8851, Notebook ,2,387,Julia Silva,1/18/2022,Rio de Janeiro,3500,7000
+HL2714, Tablet ,4,208,Diego Rodrigues,3/4/2022,Belo Horizonte,1600,6400
+HL4379, Televisão ,5,660,Roberta Pimenta,10/22/2021,Goiás,2500,12500
+HL1148, Câmera ,5,289,Guilherme Monteiro,7/30/2022,Belo Horizonte,2100,10500
+HL1918, iPhone ,1,709,Thays Castro,3/18/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,4,750,Wellington Duarte,12/1/2021,Recife,5300,21200
+HL1918, iPhone ,4,500,Marcela Medeiros,1/7/2022,Fortaleza,5300,21200
+HL1918, iPhone ,5,92,Brenno Santos,10/27/2021,Recife,5300,26500
+HL8851, Notebook ,2,448,Lucas Coelho,2/28/2022,São Paulo,3500,7000
+HL1148, Câmera ,5,565,Natalia Guedes,1/28/2022,Porto Alegre,2100,10500
+HL9962, Android ,1,131,Caio Vianna,3/26/2022,Fortaleza,3400,3400
+HL4379, Televisão ,1,687,Stefan Santos,6/4/2022,Recife,2500,2500
+HL9962, Android ,2,547,Maurício Dias,1/8/2022,Rio de Janeiro,3400,6800
+HL8851, Notebook ,2,156,Carolina Figueiredo,1/1/2022,Salvador,3500,7000
+HL1148, Câmera ,5,287,Guilherme Marchesi,8/20/2021,São Paulo,2100,10500
+HL9962, Android ,5,449,Lucas Costa,6/5/2022,Salvador,3400,17000
+HL1148, Câmera ,2,284,Guilherme Castilho,10/22/2021,São Paulo,2100,4200
+HL2714, Tablet ,5,653,Renan Melo,3/29/2022,Fortaleza,1600,8000
+HL7348, SmartWatch ,1,663,Roberto Nogueira,9/4/2021,Curitiba,1400,1400
+HL4379, Televisão ,2,401,Jéssica Resinente,7/29/2022,Fortaleza,2500,5000
+HL2714, Tablet ,3,505,Marcelo Rosa,8/18/2021,Salvador,1600,4800
+HL1918, iPhone ,5,701,Thais Rodrigues,10/29/2021,Porto Alegre,5300,26500
+HL2714, Tablet ,4,275,Giselia Thiele,6/16/2022,Curitiba,1600,6400
+HL1918, iPhone ,4,478,Luiz Mendonça,11/29/2021,Curitiba,5300,21200
+HL1918, iPhone ,5,632,Raphael Ferman,1/17/2022,São Paulo,5300,26500
+HL1918, iPhone ,4,100,Bruna Brandao,9/30/2021,Salvador,5300,21200
+HL8851, Notebook ,2,741,Victoria Tavares,5/16/2022,São Paulo,3500,7000
+HL1148, Câmera ,2,752,Wen Santos,12/18/2021,Fortaleza,2100,4200
+HL7348, SmartWatch ,1,695,Sylvio Bernhardt,2/25/2022,Curitiba,1400,1400
+HL1918, iPhone ,1,365,João Guadagnino,9/4/2021,Fortaleza,5300,5300
+HL1148, Câmera ,2,360,João Bach,5/6/2022,Salvador,2100,4200
+HL4379, Televisão ,3,305,Henrique Lencastre,4/22/2022,Goiás,2500,7500
+HL7348, SmartWatch ,4,11,Alexandre Rodriguez,9/10/2021,Rio de Janeiro,1400,5600
+HL7348, SmartWatch ,2,231,Fabio Sepúlveda,6/10/2022,Salvador,1400,2800
+HL7348, SmartWatch ,4,293,Guilherme Vianna,7/23/2022,Rio de Janeiro,1400,5600
+HL1148, Câmera ,1,47,Anderson Martins,9/28/2021,Belo Horizonte,2100,2100
+HL1918, iPhone ,3,749,Vivianne Rodrigues,1/25/2022,Curitiba,5300,15900
+HL9962, Android ,4,168,Caroll Johnson,11/16/2021,São Paulo,3400,13600
+HL1918, iPhone ,4,391,Juliana Goes,7/11/2022,Fortaleza,5300,21200
+HL7348, SmartWatch ,3,608,Priscila Carvalho,12/12/2021,Rio de Janeiro,1400,4200
+HL1148, Câmera ,4,286,Guilherme Lima,8/4/2022,Goiás,2100,8400
+HL2714, Tablet ,5,372,João Oliveira,6/9/2022,Fortaleza,1600,8000
+HL4379, Televisão ,5,727,Vanessa Bach,8/24/2021,Salvador,2500,12500
+HL2714, Tablet ,1,540,Matheus Moraes,12/23/2021,Curitiba,1600,1600
+HL4379, Televisão ,4,460,Lucas Neto,11/9/2021,Fortaleza,2500,10000
+HL1918, iPhone ,2,725,Ulisses Filho,5/2/2022,Fortaleza,5300,10600
+HL1148, Câmera ,4,267,Gabrielle Figueiredo,3/7/2022,São Paulo,2100,8400
+HL9962, Android ,2,533,Mateus Maia,2/12/2022,Curitiba,3400,6800
+HL7348, SmartWatch ,3,27,Amanda Procaci,4/12/2022,Rio de Janeiro,1400,4200
+HL1148, Câmera ,4,321,Isabela Rodrigues,1/31/2022,São Paulo,2100,8400
+HL1918, iPhone ,3,112,Bruno Freitas,8/21/2021,São Paulo,5300,15900
+HL9962, Android ,1,407,Júlia Almeida,5/26/2022,Belo Horizonte,3400,3400
+HL9962, Android ,4,608,Priscila Carvalho,2/12/2022,Fortaleza,3400,13600
+HL8851, Notebook ,2,44,Ananda Dias,2/16/2022,Curitiba,3500,7000
+HL1148, Câmera ,4,595,Pedro Lyra,4/6/2022,Rio de Janeiro,2100,8400
+HL2714, Tablet ,1,535,Matheus Afonso,6/14/2022,Salvador,1600,1600
+HL1918, iPhone ,3,352,José Seixas,7/15/2022,São Paulo,5300,15900
+HL8851, Notebook ,5,387,Julia Silva,5/20/2022,São Paulo,3500,17500
+HL7348, SmartWatch ,2,355,Joyce Souza,1/17/2022,Rio de Janeiro,1400,2800
+HL1918, iPhone ,3,193,Daniela Pereira,7/14/2022,Fortaleza,5300,15900
+HL9962, Android ,4,69,Barbara Procaci,2/10/2022,Salvador,3400,13600
+HL1918, iPhone ,2,544,Matheus Silva,12/1/2021,São Paulo,5300,10600
+HL9962, Android ,2,293,Guilherme Vianna,5/8/2022,São Paulo,3400,6800
+HL1148, Câmera ,1,324,Isabella Rodrigues,4/6/2022,Curitiba,2100,2100
+HL1148, Câmera ,5,551,Michelle Miura,4/16/2022,São Paulo,2100,10500
+HL8851, Notebook ,4,59,Antonio Manhães,5/7/2022,Fortaleza,3500,14000
+HL1148, Câmera ,5,88,Bianca Piero,9/5/2021,Salvador,2100,10500
+HL8851, Notebook ,4,496,Lívia Tanaka,1/11/2022,Goiás,3500,14000
+HL4379, Televisão ,3,649,Rebeca Reis,1/17/2022,Rio de Janeiro,2500,7500
+HL1148, Câmera ,2,631,Raphael Coelho,2/26/2022,São Paulo,2100,4200
+HL1918, iPhone ,1,82,Bernardo Nauenberg,7/31/2022,São Paulo,5300,5300
+HL4379, Televisão ,5,315,Igor Lima,1/31/2022,São Paulo,2500,12500
+HL4379, Televisão ,4,375,João Ribeiro,11/4/2021,São Paulo,2500,10000
+HL9962, Android ,3,536,Matheus Delgado,12/8/2021,São Paulo,3400,10200
+HL1918, iPhone ,5,218,Eduardo Peluzo,1/18/2022,Salvador,5300,26500
+HL1918, iPhone ,2,759,Wilson Meirelles,1/22/2022,Salvador,5300,10600
+HL4379, Televisão ,4,708,Thayna Martins,7/12/2022,Porto Alegre,2500,10000
+HL7348, SmartWatch ,2,590,Pedro Costa,6/12/2022,Goiás,1400,2800
+HL4379, Televisão ,4,419,Larissa Florim,12/14/2021,Curitiba,2500,10000
+HL8851, Notebook ,2,161,Carolina Silva,12/31/2021,São Paulo,3500,7000
+HL2714, Tablet ,5,529,Marina Mesquita,7/5/2022,Recife,1600,8000
+HL4379, Televisão ,5,50,Andressa Chou,6/9/2022,Curitiba,2500,12500
+HL2714, Tablet ,2,157,Carolina Motta,3/26/2022,Belo Horizonte,1600,3200
+HL2714, Tablet ,3,190,Daniel Terra,1/19/2022,Fortaleza,1600,4800
+HL4379, Televisão ,3,102,Bruna Franco,12/8/2021,Recife,2500,7500
+HL4379, Televisão ,2,550,Michelle Figueiredo,6/30/2022,São Paulo,2500,5000
+HL1148, Câmera ,3,359,João Araujo,8/1/2022,Curitiba,2100,6300
+HL4379, Televisão ,4,293,Guilherme Vianna,8/16/2021,São Paulo,2500,10000
+HL1148, Câmera ,4,482,Luiza Farias,12/27/2021,Recife,2100,8400
+HL9962, Android ,3,595,Pedro Lyra,6/9/2022,Fortaleza,3400,10200
+HL7348, SmartWatch ,4,659,Roberta Nogueira,6/6/2022,Recife,1400,5600
+HL1918, iPhone ,1,205,Diego Barros,3/8/2022,Recife,5300,5300
+HL1918, iPhone ,5,341,Joao Pereira,9/26/2021,Recife,5300,26500
+HL1918, iPhone ,5,26,Amanda Machado,6/18/2022,São Paulo,5300,26500
+HL1918, iPhone ,2,570,Natália Appel,8/31/2021,Salvador,5300,10600
+HL7348, SmartWatch ,2,654,Renan Nascimento,10/21/2021,Curitiba,1400,2800
+HL4379, Televisão ,2,734,Victor Gomes,2/21/2022,Goiás,2500,5000
+HL1148, Câmera ,4,681,Sandy Moreira,10/23/2021,São Paulo,2100,8400
+HL1918, iPhone ,4,397,Juliana Silva,8/20/2021,Curitiba,5300,21200
+HL7348, SmartWatch ,4,241,Fernanda Ferreira,5/11/2022,Fortaleza,1400,5600
+HL9962, Android ,5,697,Tadeu Sousa,12/4/2021,Rio de Janeiro,3400,17000
+HL7348, SmartWatch ,3,160,Carolina Santos,9/23/2021,Fortaleza,1400,4200
+HL2714, Tablet ,4,447,Lucas Chagas,4/4/2022,Fortaleza,1600,6400
+HL2714, Tablet ,4,658,Rilson Guedes,5/9/2022,Goiás,1600,6400
+HL1148, Câmera ,4,172,Clara Bruno,1/1/2022,Fortaleza,2100,8400
+HL1918, iPhone ,4,329,Itai Puntel,5/3/2022,Salvador,5300,21200
+HL8851, Notebook ,1,578,Patrícia Fernandes,1/24/2022,Rio de Janeiro,3500,3500
+HL9962, Android ,5,82,Bernardo Nauenberg,8/13/2022,Belo Horizonte,3400,17000
+HL1148, Câmera ,5,681,Sandy Moreira,2/13/2022,Rio de Janeiro,2100,10500
+HL4379, Televisão ,1,31,Ana Campos,5/8/2022,São Paulo,2500,2500
+HL4379, Televisão ,1,412,Katharina Barros,2/4/2022,Porto Alegre,2500,2500
+HL4379, Televisão ,3,501,Marcelo Borges,6/5/2022,Rio de Janeiro,2500,7500
+HL8851, Notebook ,5,55,Anna Figueiredo,2/15/2022,Salvador,3500,17500
+HL7348, SmartWatch ,5,597,Pedro Martins,11/2/2021,Goiás,1400,7000
+HL8851, Notebook ,3,91,Brenno Miranda,4/19/2022,Salvador,3500,10500
+HL1918, iPhone ,4,762,Yasmim Bittencourt,3/4/2022,São Paulo,5300,21200
+HL1918, iPhone ,2,487,Lunna Vannier,1/13/2022,Rio de Janeiro,5300,10600
+HL4379, Televisão ,5,407,Júlia Almeida,9/5/2021,São Paulo,2500,12500
+HL4379, Televisão ,4,278,Giuseppe Bhering,2/4/2022,Belo Horizonte,2500,10000
+HL1918, iPhone ,2,405,Jônatas Soares,5/13/2022,Fortaleza,5300,10600
+HL4379, Televisão ,2,643,Raísa Rodrigues,9/9/2021,Rio de Janeiro,2500,5000
+HL1148, Câmera ,2,241,Fernanda Ferreira,1/17/2022,São Paulo,2100,4200
+HL4379, Televisão ,5,171,Chan Santos,4/16/2022,Rio de Janeiro,2500,12500
+HL4379, Televisão ,3,224,Elaine Santos,8/2/2022,Rio de Janeiro,2500,7500
+HL9962, Android ,2,489,Luísa Fonseca,5/3/2022,São Paulo,3400,6800
+HL7348, SmartWatch ,4,653,Renan Melo,1/9/2022,Salvador,1400,5600
+HL1918, iPhone ,4,368,João Luz,4/3/2022,Fortaleza,5300,21200
+HL4379, Televisão ,4,137,Camille Silva,1/30/2022,Fortaleza,2500,10000
+HL2714, Tablet ,4,177,Cézar Santos,11/23/2021,Fortaleza,1600,6400
+HL8851, Notebook ,3,153,Carolina Brum,6/21/2022,São Paulo,3500,10500
+HL9962, Android ,5,569,Nathan Morelli,9/18/2021,Fortaleza,3400,17000
+HL1148, Câmera ,3,199,David Campelo,9/10/2021,Rio de Janeiro,2100,6300
+HL9962, Android ,2,165,Caroline Cavalcanti,1/25/2022,Curitiba,3400,6800
+HL1918, iPhone ,3,730,Victor Corrêa,3/17/2022,São Paulo,5300,15900
+HL4379, Televisão ,5,327,Isabelle Firmino,1/24/2022,Curitiba,2500,12500
+HL2714, Tablet ,5,740,Victoria Mazza,4/27/2022,Rio de Janeiro,1600,8000
+HL4379, Televisão ,3,84,Bernardo Souza,8/1/2022,Salvador,2500,7500
+HL1918, iPhone ,5,50,Andressa Chou,1/19/2022,Salvador,5300,26500
+HL1918, iPhone ,3,583,Paula Isbelle,4/1/2022,São Paulo,5300,15900
+HL9962, Android ,5,340,Jessica Ferreira,5/6/2022,Fortaleza,3400,17000
+HL8851, Notebook ,3,728,Vanessa Neves,3/21/2022,Rio de Janeiro,3500,10500
+HL1148, Câmera ,5,755,William Mendonça,6/24/2022,Salvador,2100,10500
+HL2714, Tablet ,1,333,Ives Teixeira,9/11/2021,São Paulo,1600,1600
+HL1148, Câmera ,3,689,Stephanie Gonçalves,5/17/2022,Rio de Janeiro,2100,6300
+HL7348, SmartWatch ,3,419,Larissa Florim,2/18/2022,Fortaleza,1400,4200
+HL1148, Câmera ,5,72,Beatriz Cavalcanti,5/23/2022,Salvador,2100,10500
+HL8851, Notebook ,5,698,Tainah Nogueira,10/16/2021,Porto Alegre,3500,17500
+HL9962, Android ,2,237,Felipe Mendonça,1/24/2022,Rio de Janeiro,3400,6800
+HL1918, iPhone ,4,104,Bruna Londero,2/2/2022,Rio de Janeiro,5300,21200
+HL7348, SmartWatch ,3,695,Sylvio Bernhardt,2/15/2022,Fortaleza,1400,4200
+HL1918, iPhone ,3,761,Wilson Vianna,7/9/2022,Rio de Janeiro,5300,15900
+HL4379, Televisão ,1,635,Raphael Kurtz,2/9/2022,Rio de Janeiro,2500,2500
+HL4379, Televisão ,5,541,Matheus Ramos,1/27/2022,Fortaleza,2500,12500
+HL4379, Televisão ,2,672,Roger Rosa,9/27/2021,São Paulo,2500,5000
+HL4379, Televisão ,5,165,Caroline Cavalcanti,10/7/2021,Goiás,2500,12500
+HL1918, iPhone ,3,75,Beatriz Rocha,3/13/2022,Fortaleza,5300,15900
+HL1918, iPhone ,5,755,William Mendonça,6/28/2022,Salvador,5300,26500
+HL9962, Android ,1,444,Lucas Assunção,9/9/2021,Rio de Janeiro,3400,3400
+HL4379, Televisão ,1,128,Caio Moraes,10/14/2021,Rio de Janeiro,2500,2500
+HL2714, Tablet ,5,9,Alex Fernandes,5/7/2022,Rio de Janeiro,1600,8000
+HL1918, iPhone ,3,462,Lucas Rocha,12/6/2021,São Paulo,5300,15900
+HL1148, Câmera ,1,345,Jonatas Passos,3/1/2022,Curitiba,2100,2100
+HL2714, Tablet ,3,171,Chan Santos,11/28/2021,Belo Horizonte,1600,4800
+HL8851, Notebook ,1,716,Thiago Nóbrega,2/11/2022,São Paulo,3500,3500
+HL8851, Notebook ,2,495,Lívia Marques,1/1/2022,Porto Alegre,3500,7000
+HL7348, SmartWatch ,4,375,João Ribeiro,9/24/2021,Salvador,1400,5600
+HL4379, Televisão ,5,587,Pedro Buraco,6/21/2022,São Paulo,2500,12500
+HL1918, iPhone ,1,458,Lucas Machado,12/15/2021,Salvador,5300,5300
+HL8851, Notebook ,2,127,Caio Ferreira,4/10/2022,Rio de Janeiro,3500,7000
+HL4379, Televisão ,3,394,Juliana Huon,6/22/2022,Porto Alegre,2500,7500
+HL1918, iPhone ,4,750,Wellington Duarte,4/8/2022,Curitiba,5300,21200
+HL4379, Televisão ,4,251,Gabriel Brito,8/5/2022,Goiás,2500,10000
+HL9962, Android ,1,471,Luis Villanova,10/16/2021,São Paulo,3400,3400
+HL2714, Tablet ,2,311,Hércules Júnior,5/29/2022,Fortaleza,1600,3200
+HL9962, Android ,5,36,Ana Gonzaga,8/16/2021,Rio de Janeiro,3400,17000
+HL4379, Televisão ,1,721,Thomáz Rodriguez,3/28/2022,Goiás,2500,2500
+HL1918, iPhone ,2,82,Bernardo Nauenberg,12/16/2021,Rio de Janeiro,5300,10600
+HL7348, SmartWatch ,2,698,Tainah Nogueira,11/12/2021,São Paulo,1400,2800
+HL4379, Televisão ,2,16,Allan Guedes,4/12/2022,Curitiba,2500,5000
+HL1918, iPhone ,3,263,Gabriela Cavalcanti,5/31/2022,Porto Alegre,5300,15900
+HL4379, Televisão ,5,422,Laura Araujo,9/10/2021,São Paulo,2500,12500
+HL9962, Android ,3,90,Bianca Tatsch,6/16/2022,São Paulo,3400,10200
+HL1918, iPhone ,5,23,Amanda Delgado,10/8/2021,Recife,5300,26500
+HL8851, Notebook ,4,74,Beatriz Perdomo,6/5/2022,Fortaleza,3500,14000
+HL8851, Notebook ,4,225,Elena Barreto,1/27/2022,Goiás,3500,14000
+HL1148, Câmera ,4,488,Luã Sá,5/26/2022,Salvador,2100,8400
+HL4379, Televisão ,1,286,Guilherme Lima,3/3/2022,Fortaleza,2500,2500
+HL1918, iPhone ,2,437,Lorena Carvalho,10/10/2021,Goiás,5300,10600
+HL2714, Tablet ,2,735,Victor Lira,7/31/2022,Porto Alegre,1600,3200
+HL1918, iPhone ,4,210,Diogo Ressurreição,4/8/2022,Rio de Janeiro,5300,21200
+HL1918, iPhone ,4,544,Matheus Silva,2/10/2022,Salvador,5300,21200
+HL1918, iPhone ,3,212,Dykson Silva,5/24/2022,Salvador,5300,15900
+HL4379, Televisão ,1,367,João Júnior,1/17/2022,Porto Alegre,2500,2500
+HL1918, iPhone ,1,226,Eric Carvalho,9/9/2021,Recife,5300,5300
+HL1918, iPhone ,5,580,Paula Calbucci,1/15/2022,São Paulo,5300,26500
+HL4379, Televisão ,2,435,Livia Corrêa,2/17/2022,Rio de Janeiro,2500,5000
+HL1918, iPhone ,1,430,Leticia Mesquita,4/3/2022,São Paulo,5300,5300
+HL8851, Notebook ,3,725,Ulisses Filho,2/11/2022,São Paulo,3500,10500
+HL4379, Televisão ,2,554,Milena Alcoforado,9/6/2021,Fortaleza,2500,5000
+HL7348, SmartWatch ,5,92,Brenno Santos,11/17/2021,São Paulo,1400,7000
+HL9962, Android ,3,95,Breno Costa,11/28/2021,Salvador,3400,10200
+HL1148, Câmera ,2,608,Priscila Carvalho,7/3/2022,São Paulo,2100,4200
+HL1148, Câmera ,1,443,Lucas Araújo,5/5/2022,Salvador,2100,2100
+HL8851, Notebook ,4,596,Pedro Macckione,6/21/2022,Goiás,3500,14000
+HL1918, iPhone ,2,492,Luíza Melo,4/27/2022,Salvador,5300,10600
+HL1918, iPhone ,5,158,Carolina Rachide,10/22/2021,Goiás,5300,26500
+HL1918, iPhone ,4,531,Marina Perdomo,8/22/2021,Rio de Janeiro,5300,21200
+HL8851, Notebook ,2,539,Matheus Miranda,11/12/2021,Rio de Janeiro,3500,7000
+HL7348, SmartWatch ,4,544,Matheus Silva,9/29/2021,Rio de Janeiro,1400,5600
+HL1918, iPhone ,5,52,Andressa Rotsztejn,1/28/2022,São Paulo,5300,26500
+HL1148, Câmera ,3,666,Rodrigo Bruno,9/2/2021,Fortaleza,2100,6300
+HL7348, SmartWatch ,3,728,Vanessa Neves,3/14/2022,São Paulo,1400,4200
+HL2714, Tablet ,3,474,Luiz Conceição,10/22/2021,Fortaleza,1600,4800
+HL7348, SmartWatch ,2,495,Lívia Marques,4/11/2022,Salvador,1400,2800
+HL7348, SmartWatch ,5,295,Gustavo Aragão,5/10/2022,Curitiba,1400,7000
+HL1918, iPhone ,4,666,Rodrigo Bruno,11/5/2021,São Paulo,5300,21200
+HL7348, SmartWatch ,3,238,Felipe Paulo,9/25/2021,Goiás,1400,4200
+HL4379, Televisão ,1,75,Beatriz Rocha,5/27/2022,São Paulo,2500,2500
+HL1918, iPhone ,1,494,Lázaro Villanova,1/18/2022,Salvador,5300,5300
+HL1918, iPhone ,5,599,Pedro Pereira,2/17/2022,Porto Alegre,5300,26500
+HL1918, iPhone ,4,614,Rafael Carneiro,7/15/2022,Curitiba,5300,21200
+HL1918, iPhone ,1,686,Stefan Nunes,11/3/2021,Recife,5300,5300
+HL9962, Android ,5,161,Carolina Silva,12/22/2021,Salvador,3400,17000
+HL8851, Notebook ,3,729,Vanessa Rodrigues,3/11/2022,Fortaleza,3500,10500
+HL7348, SmartWatch ,3,427,Lenon Fernandes,5/12/2022,Goiás,1400,4200
+HL8851, Notebook ,3,464,Lucas Valim,10/12/2021,Curitiba,3500,10500
+HL1918, iPhone ,3,146,Carlos Mesquita,2/13/2022,Recife,5300,15900
+HL9962, Android ,1,67,Arthur Souza,4/3/2022,São Paulo,3400,3400
+HL9962, Android ,5,354,Joyce Medina,5/28/2022,Curitiba,3400,17000
+HL9962, Android ,5,733,Victor Franco,3/31/2022,São Paulo,3400,17000
+HL1918, iPhone ,1,652,Renan Freire,9/3/2021,Curitiba,5300,5300
+HL7348, SmartWatch ,3,217,Eduardo Pacheco,10/25/2021,Goiás,1400,4200
+HL4379, Televisão ,4,15,Allan Candido,9/15/2021,Goiás,2500,10000
+HL1918, iPhone ,1,189,Daniel Sousa,5/12/2022,Goiás,5300,5300
+HL1918, iPhone ,3,1,Adriana Carneiro,12/6/2021,Rio de Janeiro,5300,15900
+HL1918, iPhone ,1,30,Ana Bôas,3/27/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,5,351,José Marques,3/9/2022,Rio de Janeiro,5300,26500
+HL4379, Televisão ,3,473,Luiz Campista,8/27/2021,Goiás,2500,7500
+HL1918, iPhone ,3,66,Arthur Rocha,9/20/2021,Rio de Janeiro,5300,15900
+HL4379, Televisão ,1,492,Luíza Melo,11/1/2021,São Paulo,2500,2500
+HL1148, Câmera ,3,639,Raul Junqueira,11/24/2021,Recife,2100,6300
+HL1918, iPhone ,1,762,Yasmim Bittencourt,6/27/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,5,735,Victor Lira,3/28/2022,Rio de Janeiro,5300,26500
+HL7348, SmartWatch ,1,377,João Silva,11/27/2021,Rio de Janeiro,1400,1400
+HL4379, Televisão ,5,581,Paula Carneiro,6/24/2022,Rio de Janeiro,2500,12500
+HL1148, Câmera ,2,725,Ulisses Filho,3/3/2022,Salvador,2100,4200
+HL9962, Android ,4,51,Andressa Nóbrega,1/13/2022,São Paulo,3400,13600
+HL7348, SmartWatch ,3,743,Vitor Arruda,12/19/2021,Recife,1400,4200
+HL1918, iPhone ,3,23,Amanda Delgado,1/27/2022,Recife,5300,15900
+HL4379, Televisão ,4,192,Daniela Andrada,1/26/2022,Rio de Janeiro,2500,10000
+HL8851, Notebook ,4,160,Carolina Santos,7/2/2022,Salvador,3500,14000
+HL2714, Tablet ,5,484,Luiza Marques,2/17/2022,Fortaleza,1600,8000
+HL1148, Câmera ,3,672,Roger Rosa,11/9/2021,Rio de Janeiro,2100,6300
+HL4379, Televisão ,2,230,Fabio Ramos,8/18/2021,São Paulo,2500,5000
+HL1918, iPhone ,2,621,Rafaela Ferreira,12/25/2021,Belo Horizonte,5300,10600
+HL1148, Câmera ,3,341,Joao Pereira,10/24/2021,Rio de Janeiro,2100,6300
+HL4379, Televisão ,4,217,Eduardo Pacheco,7/6/2022,Fortaleza,2500,10000
+HL4379, Televisão ,2,222,Eduardo Vargas,5/7/2022,Salvador,2500,5000
+HL4379, Televisão ,1,93,Breno Britto,12/23/2021,Fortaleza,2500,2500
+HL9962, Android ,2,618,Rafael Rocha,10/20/2021,Rio de Janeiro,3400,6800
+HL1918, iPhone ,3,645,Raíssa Oliveira,6/7/2022,Goiás,5300,15900
+HL1918, iPhone ,2,695,Sylvio Bernhardt,9/24/2021,Recife,5300,10600
+HL4379, Televisão ,4,615,Rafael Guimarães,6/22/2022,Goiás,2500,10000
+HL2714, Tablet ,5,137,Camille Silva,4/27/2022,Recife,1600,8000
+HL4379, Televisão ,3,1,Adriana Carneiro,10/2/2021,São Paulo,2500,7500
+HL8851, Notebook ,5,228,Erick Soares,8/21/2021,Belo Horizonte,3500,17500
+HL4379, Televisão ,5,717,Thiago Veiga,8/27/2021,Rio de Janeiro,2500,12500
+HL1918, iPhone ,3,538,Matheus Gomes,12/5/2021,Salvador,5300,15900
+HL7348, SmartWatch ,4,694,Sthefeson Pereira,4/26/2022,São Paulo,1400,5600
+HL2714, Tablet ,1,616,Rafael Portela,9/5/2021,São Paulo,1600,1600
+HL8851, Notebook ,4,705,Thales Portillo,8/24/2021,Fortaleza,3500,14000
+HL8851, Notebook ,5,401,Jéssica Resinente,1/1/2022,Belo Horizonte,3500,17500
+HL1148, Câmera ,4,120,Bruno Velucci,11/14/2021,Recife,2100,8400
+HL1148, Câmera ,2,712,Thaís Ribeiro,1/26/2022,Recife,2100,4200
+HL1918, iPhone ,1,336,Jackson Derossi,11/4/2021,Goiás,5300,5300
+HL9962, Android ,2,302,Hanna Fonseca,12/20/2021,Belo Horizonte,3400,6800
+HL4379, Televisão ,1,525,Marina Correa,10/4/2021,Goiás,2500,2500
+HL4379, Televisão ,3,678,Rubens Netto,12/25/2021,São Paulo,2500,7500
+HL4379, Televisão ,3,511,Maria Junior,9/22/2021,Goiás,2500,7500
+HL1918, iPhone ,3,524,Marina Cormack,10/19/2021,Fortaleza,5300,15900
+HL1918, iPhone ,4,610,Priscila Suzano,3/3/2022,Salvador,5300,21200
+HL4379, Televisão ,4,482,Luiza Farias,5/5/2022,São Paulo,2500,10000
+HL4379, Televisão ,4,199,David Campelo,9/19/2021,Porto Alegre,2500,10000
+HL4379, Televisão ,1,534,Mateus Polastri,12/14/2021,Porto Alegre,2500,2500
+HL1918, iPhone ,5,107,Bruna Silva,11/15/2021,São Paulo,5300,26500
+HL9962, Android ,5,84,Bernardo Souza,1/25/2022,Fortaleza,3400,17000
+HL9962, Android ,1,212,Dykson Silva,10/23/2021,Curitiba,3400,3400
+HL4379, Televisão ,3,562,Natali Rangel,8/6/2022,São Paulo,2500,7500
+HL8851, Notebook ,3,154,Carolina Carneiro,1/13/2022,Belo Horizonte,3500,10500
+HL8851, Notebook ,4,505,Marcelo Rosa,12/17/2021,Curitiba,3500,14000
+HL7348, SmartWatch ,3,635,Raphael Kurtz,2/20/2022,Rio de Janeiro,1400,4200
+HL1918, iPhone ,3,176,Célio Xavier,12/27/2021,Rio de Janeiro,5300,15900
+HL1918, iPhone ,3,408,Júlio Fraga,4/12/2022,Rio de Janeiro,5300,15900
+HL7348, SmartWatch ,5,527,Marina Gama,10/14/2021,Recife,1400,7000
+HL7348, SmartWatch ,2,385,Julia Leite,9/2/2021,Salvador,1400,2800
+HL1918, iPhone ,2,607,Platini Heimlich,10/3/2021,Salvador,5300,10600
+HL1148, Câmera ,3,431,Letícia Araujo,9/21/2021,Fortaleza,2100,6300
+HL1918, iPhone ,2,521,Mariane Racy,8/8/2022,Belo Horizonte,5300,10600
+HL4379, Televisão ,1,530,Marina Miranda,6/29/2022,Fortaleza,2500,2500
+HL4379, Televisão ,2,540,Matheus Moraes,3/29/2022,Salvador,2500,5000
+HL1918, iPhone ,4,370,João Menezes,1/28/2022,Rio de Janeiro,5300,21200
+HL2714, Tablet ,3,678,Rubens Netto,2/1/2022,São Paulo,1600,4800
+HL4379, Televisão ,4,98,Breno Quinto,11/10/2021,Curitiba,2500,10000
+HL8851, Notebook ,2,239,Fernanda Bhering,4/12/2022,São Paulo,3500,7000
+HL2714, Tablet ,3,203,Deysiane Bach,3/22/2022,Belo Horizonte,1600,4800
+HL4379, Televisão ,4,621,Rafaela Ferreira,6/12/2022,São Paulo,2500,10000
+HL4379, Televisão ,2,701,Thais Rodrigues,6/14/2022,São Paulo,2500,5000
+HL2714, Tablet ,5,629,Raissa Sales,6/15/2022,Goiás,1600,8000
+HL7348, SmartWatch ,3,294,Gustavo Accardo,12/7/2021,Fortaleza,1400,4200
+HL1918, iPhone ,4,308,Henrique Villanova,5/6/2022,Porto Alegre,5300,21200
+HL1148, Câmera ,5,705,Thales Portillo,8/27/2021,Belo Horizonte,2100,10500
+HL7348, SmartWatch ,3,382,Julia Aliani,5/16/2022,Goiás,1400,4200
+HL2714, Tablet ,5,648,Rebeca Manhães,7/16/2022,Porto Alegre,1600,8000
+HL4379, Televisão ,5,589,Pedro Conceição,9/10/2021,Curitiba,2500,12500
+HL4379, Televisão ,4,269,Gabrielle Silva,10/28/2021,São Paulo,2500,10000
+HL7348, SmartWatch ,5,617,Rafael Ramos,8/4/2022,Belo Horizonte,1400,7000
+HL8851, Notebook ,3,688,Stela Mendonça,4/4/2022,Rio de Janeiro,3500,10500
+HL2714, Tablet ,1,585,Pedro Ayres,2/12/2022,Salvador,1600,1600
+HL9962, Android ,5,417,Lara Moreira,9/6/2021,Rio de Janeiro,3400,17000
+HL4379, Televisão ,3,379,João Tabet,7/16/2022,São Paulo,2500,7500
+HL4379, Televisão ,4,173,Clara Silveira,1/28/2022,Salvador,2500,10000
+HL4379, Televisão ,2,196,Danilo Mendonça,8/10/2022,Curitiba,2500,5000
+HL4379, Televisão ,2,270,Gabrielle Vasconcelos,12/8/2021,Salvador,2500,5000
+HL8851, Notebook ,3,720,Thomáz Bôas,3/23/2022,Curitiba,3500,10500
+HL1918, iPhone ,5,495,Lívia Marques,9/6/2021,Goiás,5300,26500
+HL4379, Televisão ,2,401,Jéssica Resinente,5/21/2022,Recife,2500,5000
+HL1918, iPhone ,1,691,Stephanie Oliveira,3/23/2022,Rio de Janeiro,5300,5300
+HL4379, Televisão ,5,468,Luis Oliveira,7/11/2022,Recife,2500,12500
+HL9962, Android ,4,690,Stephanie Novak,11/13/2021,Porto Alegre,3400,13600
+HL1148, Câmera ,5,633,Raphael Filho,9/23/2021,São Paulo,2100,10500
+HL4379, Televisão ,3,265,Gabriella Sagrillo,3/18/2022,Belo Horizonte,2500,7500
+HL1148, Câmera ,1,379,João Tabet,8/28/2021,Belo Horizonte,2100,2100
+HL4379, Televisão ,1,436,Livia Cozendey,5/22/2022,Fortaleza,2500,2500
+HL2714, Tablet ,5,495,Lívia Marques,7/5/2022,Fortaleza,1600,8000
+HL2714, Tablet ,1,435,Livia Corrêa,7/17/2022,Salvador,1600,1600
+HL7348, SmartWatch ,1,665,Rodrigo Alves,9/3/2021,Rio de Janeiro,1400,1400
+HL1918, iPhone ,2,727,Vanessa Bach,11/21/2021,Recife,5300,10600
+HL7348, SmartWatch ,4,733,Victor Franco,3/16/2022,Salvador,1400,5600
+HL1918, iPhone ,5,110,Bruno Barcessat,11/9/2021,São Paulo,5300,26500
+HL8851, Notebook ,2,209,Diogo Peixoto,12/30/2021,Curitiba,3500,7000
+HL4379, Televisão ,2,359,João Araujo,12/17/2021,Salvador,2500,5000
+HL1918, iPhone ,2,639,Raul Junqueira,6/5/2022,Curitiba,5300,10600
+HL1918, iPhone ,1,146,Carlos Mesquita,10/2/2021,Goiás,5300,5300
+HL4379, Televisão ,5,573,Norman Jimbo,7/27/2022,São Paulo,2500,12500
+HL1918, iPhone ,4,460,Lucas Neto,9/24/2021,Recife,5300,21200
+HL9962, Android ,1,635,Raphael Kurtz,4/28/2022,Curitiba,3400,3400
+HL9962, Android ,1,597,Pedro Martins,11/25/2021,São Paulo,3400,3400
+HL9962, Android ,3,266,Gabrielle Costa,8/11/2022,Goiás,3400,10200
+HL8851, Notebook ,1,563,Natalia Accioly,10/14/2021,Fortaleza,3500,3500
+HL9962, Android ,3,300,Gustavo Junior,11/15/2021,São Paulo,3400,10200
+HL8851, Notebook ,3,102,Bruna Franco,1/28/2022,Fortaleza,3500,10500
+HL7348, SmartWatch ,2,278,Giuseppe Bhering,12/23/2021,Salvador,1400,2800
+HL7348, SmartWatch ,3,489,Luísa Fonseca,4/10/2022,Salvador,1400,4200
+HL7348, SmartWatch ,1,373,João Pedrazza,8/30/2021,Porto Alegre,1400,1400
+HL9962, Android ,4,198,David Assumpção,11/21/2021,Recife,3400,13600
+HL1918, iPhone ,3,439,Luana Santana,9/4/2021,Curitiba,5300,15900
+HL1918, iPhone ,3,293,Guilherme Vianna,3/29/2022,Recife,5300,15900
+HL8851, Notebook ,2,19,Alon Pestana,8/29/2021,São Paulo,3500,7000
+HL1148, Câmera ,5,394,Juliana Huon,6/18/2022,Belo Horizonte,2100,10500
+HL1918, iPhone ,5,505,Marcelo Rosa,7/12/2022,Porto Alegre,5300,26500
+HL1148, Câmera ,1,206,Diego Marchesi,4/1/2022,Recife,2100,2100
+HL1918, iPhone ,1,711,Thaís Pereira,7/17/2022,Curitiba,5300,5300
+HL4379, Televisão ,3,254,Gabriel Puntel,1/16/2022,Salvador,2500,7500
+HL1918, iPhone ,4,318,Isabel Mesquita,10/29/2021,Recife,5300,21200
+HL1148, Câmera ,5,494,Lázaro Villanova,2/18/2022,Recife,2100,10500
+HL1918, iPhone ,2,487,Lunna Vannier,3/18/2022,Fortaleza,5300,10600
+HL9962, Android ,3,420,Larissa Jesus,12/16/2021,Goiás,3400,10200
+HL1918, iPhone ,4,133,Camila Sobral,7/31/2022,Rio de Janeiro,5300,21200
+HL4379, Televisão ,1,720,Thomáz Bôas,10/6/2021,São Paulo,2500,2500
+HL1918, iPhone ,4,36,Ana Gonzaga,7/27/2022,Fortaleza,5300,21200
+HL7348, SmartWatch ,1,60,Antônio Oliveira,9/15/2021,Fortaleza,1400,1400
+HL9962, Android ,5,582,Paula Cavalcanti,1/7/2022,Porto Alegre,3400,17000
+HL8851, Notebook ,3,90,Bianca Tatsch,3/1/2022,Goiás,3500,10500
+HL4379, Televisão ,5,361,João Capitulo,12/21/2021,São Paulo,2500,12500
+HL1148, Câmera ,3,692,Sthefeson Barroso,4/28/2022,Rio de Janeiro,2100,6300
+HL1918, iPhone ,5,717,Thiago Veiga,3/27/2022,Fortaleza,5300,26500
+HL7348, SmartWatch ,1,434,Livia Codeceira,3/9/2022,São Paulo,1400,1400
+HL1918, iPhone ,3,160,Carolina Santos,7/27/2022,São Paulo,5300,15900
+HL1918, iPhone ,2,227,Eric Neves,4/29/2022,Fortaleza,5300,10600
+HL4379, Televisão ,5,761,Wilson Vianna,2/26/2022,São Paulo,2500,12500
+HL9962, Android ,1,424,Leandro Ferreira,5/10/2022,Salvador,3400,3400
+HL1148, Câmera ,3,261,Gabriel Thoni,5/25/2022,Fortaleza,2100,6300
+HL7348, SmartWatch ,5,516,Mariana Barrozo,9/9/2021,Belo Horizonte,1400,7000
+HL7348, SmartWatch ,3,27,Amanda Procaci,6/28/2022,Rio de Janeiro,1400,4200
+HL4379, Televisão ,2,242,Fernanda Figueiredo,12/11/2021,Fortaleza,2500,5000
+HL7348, SmartWatch ,2,36,Ana Gonzaga,2/21/2022,Salvador,1400,2800
+HL2714, Tablet ,2,646,Raíssa Oros,4/30/2022,Goiás,1600,3200
+HL4379, Televisão ,1,556,Milena Pereira,2/11/2022,Rio de Janeiro,2500,2500
+HL1148, Câmera ,2,253,Gabriel Pereira,9/30/2021,Belo Horizonte,2100,4200
+HL1148, Câmera ,5,493,Lázaro Nascimento,7/16/2022,Salvador,2100,10500
+HL4379, Televisão ,2,578,Patrícia Fernandes,5/17/2022,Salvador,2500,5000
+HL4379, Televisão ,5,147,Carlos Portela,11/22/2021,Rio de Janeiro,2500,12500
+HL4379, Televisão ,4,520,Mariane Ferreira,3/18/2022,São Paulo,2500,10000
+HL4379, Televisão ,1,280,Glenda Santos,8/14/2021,Salvador,2500,2500
+HL4379, Televisão ,2,131,Caio Vianna,8/23/2021,Rio de Janeiro,2500,5000
+HL8851, Notebook ,1,61,Antônio Soares,3/15/2022,Salvador,3500,3500
+HL1918, iPhone ,3,523,Marina Aragão,10/16/2021,Salvador,5300,15900
+HL1918, iPhone ,4,226,Eric Carvalho,7/21/2022,São Paulo,5300,21200
+HL4379, Televisão ,3,411,Karine Barros,1/18/2022,Fortaleza,2500,7500
+HL9962, Android ,1,650,Rebeca Taylor,4/19/2022,São Paulo,3400,3400
+HL4379, Televisão ,5,247,Fillipe Almeida,6/16/2022,Salvador,2500,12500
+HL7348, SmartWatch ,5,511,Maria Junior,3/20/2022,São Paulo,1400,7000
+HL7348, SmartWatch ,3,25,Amanda Gontijo,9/23/2021,Salvador,1400,4200
+HL8851, Notebook ,5,615,Rafael Guimarães,2/22/2022,Salvador,3500,17500
+HL1918, iPhone ,3,489,Luísa Fonseca,3/13/2022,São Paulo,5300,15900
+HL9962, Android ,1,164,Caroline Aquino,7/27/2022,Recife,3400,3400
+HL1918, iPhone ,3,509,Maria Costa,12/4/2021,Fortaleza,5300,15900
+HL4379, Televisão ,2,535,Matheus Afonso,7/15/2022,Fortaleza,2500,5000
+HL1918, iPhone ,4,506,Marcos Nucci,5/6/2022,Rio de Janeiro,5300,21200
+HL9962, Android ,3,471,Luis Villanova,8/4/2022,Rio de Janeiro,3400,10200
+HL2714, Tablet ,2,542,Matheus Santos,4/24/2022,São Paulo,1600,3200
+HL2714, Tablet ,3,671,Rodrigo Souza,3/14/2022,Salvador,1600,4800
+HL1918, iPhone ,4,32,Ana Carvalho,3/29/2022,Goiás,5300,21200
+HL4379, Televisão ,4,569,Nathan Morelli,10/8/2021,Goiás,2500,10000
+HL7348, SmartWatch ,2,364,João Fonseca,9/1/2021,Salvador,1400,2800
+HL2714, Tablet ,4,713,Thiago Costa,1/21/2022,Goiás,1600,6400
+HL9962, Android ,4,174,Clarissa Santos,7/6/2022,Salvador,3400,13600
+HL8851, Notebook ,3,547,Maurício Dias,3/6/2022,Salvador,3500,10500
+HL1918, iPhone ,4,254,Gabriel Puntel,4/2/2022,Curitiba,5300,21200
+HL9962, Android ,5,658,Rilson Guedes,12/14/2021,Rio de Janeiro,3400,17000
+HL1918, iPhone ,5,563,Natalia Accioly,10/5/2021,Fortaleza,5300,26500
+HL8851, Notebook ,2,705,Thales Portillo,8/22/2021,Fortaleza,3500,7000
+HL2714, Tablet ,5,677,Ruan Lopes,2/22/2022,Salvador,1600,8000
+HL1918, iPhone ,2,165,Caroline Cavalcanti,12/15/2021,Goiás,5300,10600
+HL8851, Notebook ,5,618,Rafael Rocha,2/15/2022,Curitiba,3500,17500
+HL7348, SmartWatch ,1,352,José Seixas,12/8/2021,São Paulo,1400,1400
+HL7348, SmartWatch ,1,378,João Siqueira,4/1/2022,Salvador,1400,1400
+HL2714, Tablet ,2,98,Breno Quinto,11/25/2021,São Paulo,1600,3200
+HL1918, iPhone ,3,165,Caroline Cavalcanti,4/25/2022,São Paulo,5300,15900
+HL8851, Notebook ,4,179,Cícero Ramos,9/10/2021,Curitiba,3500,14000
+HL1148, Câmera ,2,149,Carlos Souza,4/10/2022,Belo Horizonte,2100,4200
+HL8851, Notebook ,3,697,Tadeu Sousa,11/4/2021,São Paulo,3500,10500
+HL9962, Android ,3,349,José Fonseca,5/7/2022,Recife,3400,10200
+HL1918, iPhone ,1,255,Gabriel Ribeiro,6/3/2022,Rio de Janeiro,5300,5300
+HL7348, SmartWatch ,4,111,Bruno Ferreira,3/27/2022,Salvador,1400,5600
+HL4379, Televisão ,1,551,Michelle Miura,11/27/2021,Fortaleza,2500,2500
+HL9962, Android ,2,673,Rogério Gentile,3/25/2022,Porto Alegre,3400,6800
+HL4379, Televisão ,2,116,Bruno Silva,2/28/2022,Porto Alegre,2500,5000
+HL4379, Televisão ,5,754,Wendela Veloso,7/21/2022,Fortaleza,2500,12500
+HL4379, Televisão ,4,186,Daniel Monteiro,7/12/2022,Rio de Janeiro,2500,10000
+HL4379, Televisão ,1,705,Thales Portillo,12/30/2021,São Paulo,2500,2500
+HL2714, Tablet ,5,577,Patrícia Amaral,4/22/2022,Salvador,1600,8000
+HL1918, iPhone ,1,115,Bruno Salomão,9/22/2021,Fortaleza,5300,5300
+HL1148, Câmera ,2,492,Luíza Melo,1/18/2022,Rio de Janeiro,2100,4200
+HL8851, Notebook ,3,624,Rafaela Rodrigues,8/13/2022,Fortaleza,3500,10500
+HL9962, Android ,1,240,Fernanda Coutinho,6/20/2022,Rio de Janeiro,3400,3400
+HL1918, iPhone ,3,192,Daniela Andrada,1/19/2022,Recife,5300,15900
+HL2714, Tablet ,2,459,Lucas Monte,6/25/2022,Curitiba,1600,3200
+HL9962, Android ,1,720,Thomáz Bôas,2/22/2022,Porto Alegre,3400,3400
+HL1918, iPhone ,5,456,Lucas Lemos,10/8/2021,Porto Alegre,5300,26500
+HL1918, iPhone ,1,678,Rubens Netto,6/20/2022,Porto Alegre,5300,5300
+HL1918, iPhone ,2,516,Mariana Barrozo,7/29/2022,Porto Alegre,5300,10600
+HL4379, Televisão ,4,168,Caroll Johnson,6/9/2022,Fortaleza,2500,10000
+HL2714, Tablet ,2,103,Bruna Gomes,6/7/2022,São Paulo,1600,3200
+HL1918, iPhone ,5,600,Pedro Rodrigues,11/30/2021,São Paulo,5300,26500
+HL1918, iPhone ,2,677,Ruan Lopes,6/22/2022,São Paulo,5300,10600
+HL2714, Tablet ,5,685,Silvio Provenzano,5/14/2022,Recife,1600,8000
+HL1918, iPhone ,1,705,Thales Portillo,5/23/2022,Recife,5300,5300
+HL1918, iPhone ,3,683,Sarah Souza,2/12/2022,Goiás,5300,15900
+HL2714, Tablet ,4,417,Lara Moreira,11/12/2021,Curitiba,1600,6400
+HL7348, SmartWatch ,4,517,Mariana Freire,4/11/2022,Rio de Janeiro,1400,5600
+HL1918, iPhone ,5,272,Gabrielle Wanderley,7/22/2022,Rio de Janeiro,5300,26500
+HL1918, iPhone ,5,122,Bárbara Lima,9/7/2021,Curitiba,5300,26500
+HL8851, Notebook ,2,636,Raphael Machado,12/17/2021,Fortaleza,3500,7000
+HL1918, iPhone ,2,199,David Campelo,11/21/2021,Rio de Janeiro,5300,10600
+HL4379, Televisão ,2,720,Thomáz Bôas,5/29/2022,Belo Horizonte,2500,5000
+HL2714, Tablet ,5,59,Antonio Manhães,11/12/2021,Fortaleza,1600,8000
+HL4379, Televisão ,5,566,Natalia Marinho,9/7/2021,Recife,2500,12500
+HL4379, Televisão ,2,598,Pedro Oliveira,6/1/2022,Fortaleza,2500,5000
+HL7348, SmartWatch ,5,96,Breno Farias,10/30/2021,Salvador,1400,7000
+HL1148, Câmera ,4,133,Camila Sobral,1/5/2022,Salvador,2100,8400
+HL8851, Notebook ,4,131,Caio Vianna,1/14/2022,São Paulo,3500,14000
+HL1918, iPhone ,4,577,Patrícia Amaral,11/26/2021,São Paulo,5300,21200
+HL7348, SmartWatch ,3,758,Wilson Farias,7/18/2022,Fortaleza,1400,4200
+HL1918, iPhone ,2,36,Ana Gonzaga,2/26/2022,Fortaleza,5300,10600
+HL9962, Android ,5,705,Thales Portillo,2/10/2022,Rio de Janeiro,3400,17000
+HL1918, iPhone ,4,600,Pedro Rodrigues,4/21/2022,Belo Horizonte,5300,21200
+HL7348, SmartWatch ,2,434,Livia Codeceira,11/29/2021,Fortaleza,1400,2800
+HL7348, SmartWatch ,2,171,Chan Santos,7/5/2022,Fortaleza,1400,2800
+HL8851, Notebook ,1,89,Bianca Procaci,1/11/2022,Salvador,3500,3500
+HL4379, Televisão ,2,606,Philipe Morete,9/16/2021,São Paulo,2500,5000
+HL4379, Televisão ,3,391,Juliana Goes,10/8/2021,Porto Alegre,2500,7500
+HL4379, Televisão ,5,528,Marina Marins,12/14/2021,Recife,2500,12500
+HL1918, iPhone ,5,250,Gabriel Azevedo,11/25/2021,Rio de Janeiro,5300,26500
+HL9962, Android ,1,81,Bernardo Botelho,8/4/2022,Salvador,3400,3400
+HL2714, Tablet ,5,501,Marcelo Borges,8/12/2022,Porto Alegre,1600,8000
+HL1148, Câmera ,3,250,Gabriel Azevedo,10/29/2021,Fortaleza,2100,6300
+HL9962, Android ,2,631,Raphael Coelho,2/8/2022,Fortaleza,3400,6800
+HL2714, Tablet ,1,72,Beatriz Cavalcanti,7/15/2022,Fortaleza,1600,1600
+HL7348, SmartWatch ,4,226,Eric Carvalho,8/11/2022,São Paulo,1400,5600
+HL4379, Televisão ,2,78,Beatriz Silva,3/26/2022,Fortaleza,2500,5000
+HL8851, Notebook ,2,461,Lucas Reis,3/18/2022,Fortaleza,3500,7000
+HL4379, Televisão ,3,5,Adrielle Forte,4/6/2022,Rio de Janeiro,2500,7500
+HL4379, Televisão ,1,726,Ulisses Quinto,1/10/2022,Porto Alegre,2500,2500
+HL9962, Android ,2,614,Rafael Carneiro,4/21/2022,Belo Horizonte,3400,6800
+HL7348, SmartWatch ,3,584,Paulo Campos,6/8/2022,Rio de Janeiro,1400,4200
+HL2714, Tablet ,2,526,Marina Delgado,2/25/2022,Belo Horizonte,1600,3200
+HL2714, Tablet ,1,398,Juliana Souza,12/16/2021,Salvador,1600,1600
+HL7348, SmartWatch ,5,385,Julia Leite,8/4/2022,Salvador,1400,7000
+HL4379, Televisão ,4,359,João Araujo,11/23/2021,Salvador,2500,10000
+HL1148, Câmera ,3,21,Amanda Amaral,7/28/2022,Salvador,2100,6300
+HL2714, Tablet ,5,61,Antônio Soares,10/21/2021,Goiás,1600,8000
+HL1918, iPhone ,2,315,Igor Lima,8/8/2022,Goiás,5300,10600
+HL1148, Câmera ,5,222,Eduardo Vargas,9/27/2021,São Paulo,2100,10500
+HL1918, iPhone ,1,574,Paloma Sperandei,8/21/2021,Goiás,5300,5300
+HL4379, Televisão ,1,674,Rogério Pereira,7/1/2022,Salvador,2500,2500
+HL4379, Televisão ,5,49,Andre Sampaio,3/14/2022,Recife,2500,12500
+HL1918, iPhone ,3,204,Deysiane Medronho,11/18/2021,Rio de Janeiro,5300,15900
+HL8851, Notebook ,5,544,Matheus Silva,10/19/2021,Fortaleza,3500,17500
+HL1918, iPhone ,2,621,Rafaela Ferreira,4/27/2022,Rio de Janeiro,5300,10600
+HL1918, iPhone ,3,629,Raissa Sales,4/14/2022,Goiás,5300,15900
+HL4379, Televisão ,1,452,Lucas Freire,5/15/2022,São Paulo,2500,2500
+HL8851, Notebook ,2,604,Pedro Sena,12/4/2021,Rio de Janeiro,3500,7000
+HL1918, iPhone ,2,395,Juliana Mesquita,2/12/2022,Recife,5300,10600
+HL8851, Notebook ,1,604,Pedro Sena,6/26/2022,Recife,3500,3500
+HL2714, Tablet ,4,396,Juliana Pacheco,3/19/2022,São Paulo,1600,6400
+HL7348, SmartWatch ,1,606,Philipe Morete,1/11/2022,São Paulo,1400,1400
+HL9962, Android ,3,614,Rafael Carneiro,10/3/2021,Salvador,3400,10200
+HL9962, Android ,1,647,Raíza Lopes,4/20/2022,Salvador,3400,3400
+HL9962, Android ,4,324,Isabella Rodrigues,2/19/2022,Salvador,3400,13600
+HL9962, Android ,5,550,Michelle Figueiredo,12/14/2021,Salvador,3400,17000
+HL8851, Notebook ,3,639,Raul Junqueira,1/3/2022,Rio de Janeiro,3500,10500
+HL4379, Televisão ,4,596,Pedro Macckione,3/18/2022,São Paulo,2500,10000
+HL8851, Notebook ,4,760,Wilson Miranda,11/14/2021,Goiás,3500,14000
+HL4379, Televisão ,2,127,Caio Ferreira,6/30/2022,São Paulo,2500,5000
+HL7348, SmartWatch ,5,221,Eduardo Soares,6/2/2022,Salvador,1400,7000
+HL1918, iPhone ,1,744,Vitor Boccaletti,9/1/2021,Rio de Janeiro,5300,5300
+HL1918, iPhone ,5,452,Lucas Freire,8/5/2022,Fortaleza,5300,26500
+HL1148, Câmera ,4,80,Bernardo Borges,8/8/2022,Salvador,2100,8400
+HL4379, Televisão ,2,612,Rachel Restum,4/20/2022,Belo Horizonte,2500,5000
+HL1918, iPhone ,3,480,Luiza Cabral,12/14/2021,Belo Horizonte,5300,15900
+HL8851, Notebook ,1,35,Ana Gomes,6/13/2022,São Paulo,3500,3500
+HL4379, Televisão ,5,409,Júlio Freire,2/22/2022,São Paulo,2500,12500
+HL1918, iPhone ,4,210,Diogo Ressurreição,9/27/2021,Recife,5300,21200
+HL1918, iPhone ,1,424,Leandro Ferreira,12/25/2021,Rio de Janeiro,5300,5300
+HL1918, iPhone ,4,272,Gabrielle Wanderley,7/8/2022,Goiás,5300,21200
+HL9962, Android ,4,586,Pedro Bitencourt,9/11/2021,Salvador,3400,13600
+HL2714, Tablet ,4,127,Caio Ferreira,5/20/2022,Rio de Janeiro,1600,6400
+HL1918, iPhone ,5,442,Lucas Aragão,1/17/2022,São Paulo,5300,26500
+HL4379, Televisão ,1,534,Mateus Polastri,3/16/2022,Fortaleza,2500,2500
+HL1148, Câmera ,1,626,Raissa Maia,7/14/2022,Goiás,2100,2100
+HL1918, iPhone ,2,722,Thomáz Vannier,10/11/2021,Rio de Janeiro,5300,10600
+HL1918, iPhone ,3,516,Mariana Barrozo,6/10/2022,Fortaleza,5300,15900
+HL1918, iPhone ,1,747,Viviane Cunha,9/15/2021,Curitiba,5300,5300
+HL9962, Android ,3,175,Cláudio Aragão,10/8/2021,Porto Alegre,3400,10200
+HL2714, Tablet ,1,531,Marina Perdomo,5/4/2022,Fortaleza,1600,1600
+HL1148, Câmera ,3,218,Eduardo Peluzo,6/30/2022,Rio de Janeiro,2100,6300
+HL1918, iPhone ,4,466,Lucas Wanderley,3/18/2022,Goiás,5300,21200
+HL7348, SmartWatch ,4,551,Michelle Miura,2/21/2022,Goiás,1400,5600
+HL8851, Notebook ,5,54,André Alves,3/23/2022,Rio de Janeiro,3500,17500
+HL1918, iPhone ,5,207,Diego Mello,7/18/2022,São Paulo,5300,26500
+HL4379, Televisão ,3,415,Kimberly Sad,6/10/2022,São Paulo,2500,7500
+HL9962, Android ,2,588,Pedro Cardoso,5/21/2022,Fortaleza,3400,6800
+HL4379, Televisão ,5,126,Caio Fernandes,2/2/2022,Belo Horizonte,2500,12500
+HL1148, Câmera ,1,400,Jéssica Netto,7/4/2022,Porto Alegre,2100,2100
+HL1918, iPhone ,4,154,Carolina Carneiro,6/28/2022,Rio de Janeiro,5300,21200
+HL2714, Tablet ,5,433,Letícia Rodrigues,9/24/2021,São Paulo,1600,8000
+HL9962, Android ,1,534,Mateus Polastri,3/7/2022,Fortaleza,3400,3400
+HL8851, Notebook ,2,473,Luiz Campista,9/17/2021,Rio de Janeiro,3500,7000
+HL9962, Android ,4,561,Mônica Rotolo,2/15/2022,Rio de Janeiro,3400,13600
+HL1918, iPhone ,4,704,Thales Gouvêa,2/26/2022,São Paulo,5300,21200
+HL9962, Android ,2,516,Mariana Barrozo,3/10/2022,Belo Horizonte,3400,6800
+HL7348, SmartWatch ,4,538,Matheus Gomes,7/29/2022,São Paulo,1400,5600
+HL1918, iPhone ,4,622,Rafaela Gomes,5/31/2022,Curitiba,5300,21200
+HL4379, Televisão ,2,264,Gabriela Mello,5/28/2022,Goiás,2500,5000
+HL1918, iPhone ,3,693,Sthefeson Kohn,3/25/2022,São Paulo,5300,15900
+HL1918, iPhone ,5,346,Jorge Carvalho,5/13/2022,São Paulo,5300,26500
+HL1918, iPhone ,1,248,Gabriel Almeida,1/16/2022,Belo Horizonte,5300,5300
+HL4379, Televisão ,3,450,Lucas Destri,11/9/2021,São Paulo,2500,7500
+HL9962, Android ,1,317,Isabel Leite,5/15/2022,Goiás,3400,3400
+HL1918, iPhone ,1,517,Mariana Freire,4/10/2022,São Paulo,5300,5300
+HL1918, iPhone ,5,326,Isabella Scalabrin,10/14/2021,Rio de Janeiro,5300,26500
+HL4379, Televisão ,3,18,Alon Palmeira,5/17/2022,Fortaleza,2500,7500
+HL1918, iPhone ,3,73,Beatriz Li,8/1/2022,Salvador,5300,15900
+HL7348, SmartWatch ,2,501,Marcelo Borges,4/16/2022,Belo Horizonte,1400,2800
+HL1918, iPhone ,3,509,Maria Costa,3/19/2022,Belo Horizonte,5300,15900
+HL1918, iPhone ,3,371,João Monteiro,3/6/2022,Goiás,5300,15900
+HL1918, iPhone ,1,444,Lucas Assunção,4/10/2022,São Paulo,5300,5300
+HL1918, iPhone ,4,387,Julia Silva,3/22/2022,São Paulo,5300,21200
+HL8851, Notebook ,2,525,Marina Correa,5/1/2022,Rio de Janeiro,3500,7000
+HL4379, Televisão ,3,89,Bianca Procaci,9/9/2021,Fortaleza,2500,7500
+HL1918, iPhone ,4,416,Lais Candido,4/18/2022,São Paulo,5300,21200
+HL7348, SmartWatch ,3,726,Ulisses Quinto,5/10/2022,São Paulo,1400,4200
+HL4379, Televisão ,4,506,Marcos Nucci,9/18/2021,Salvador,2500,10000
+HL8851, Notebook ,2,325,Isabella Santos,1/8/2022,Goiás,3500,7000
+HL1918, iPhone ,2,425,Leandro Melo,12/28/2021,Salvador,5300,10600
+HL1918, iPhone ,5,642,Raísa Berto,11/1/2021,Fortaleza,5300,26500
+HL4379, Televisão ,5,706,Thales Santos,7/9/2022,Porto Alegre,2500,12500
+HL1148, Câmera ,2,553,Miguel Carneiro,5/27/2022,Goiás,2100,4200
+HL4379, Televisão ,1,677,Ruan Lopes,11/4/2021,Salvador,2500,2500
+HL1148, Câmera ,1,213,Débora Lopes,10/28/2021,Recife,2100,2100
+HL9962, Android ,3,530,Marina Miranda,2/6/2022,Goiás,3400,10200
+HL1918, iPhone ,2,31,Ana Campos,6/25/2022,Rio de Janeiro,5300,10600
+HL2714, Tablet ,1,657,Rilson Dias,4/20/2022,Curitiba,1600,1600
+HL1918, iPhone ,3,683,Sarah Souza,11/18/2021,Rio de Janeiro,5300,15900
+HL9962, Android ,1,757,Wilson Brandão,12/26/2021,Recife,3400,3400
+HL1148, Câmera ,2,540,Matheus Moraes,11/22/2021,Rio de Janeiro,2100,4200
+HL8851, Notebook ,3,476,Luiz Limp,8/1/2022,Salvador,3500,10500
+HL4379, Televisão ,4,141,Carlos Azevedo,11/20/2021,São Paulo,2500,10000
+HL1918, iPhone ,2,207,Diego Mello,8/30/2021,São Paulo,5300,10600
+HL4379, Televisão ,3,335,Izabel Miura,10/14/2021,Rio de Janeiro,2500,7500
+HL1918, iPhone ,1,512,Maria Mello,10/6/2021,Rio de Janeiro,5300,5300
+HL1918, iPhone ,2,305,Henrique Lencastre,11/27/2021,São Paulo,5300,10600
+HL2714, Tablet ,3,716,Thiago Nóbrega,12/9/2021,São Paulo,1600,4800
+HL4379, Televisão ,3,391,Juliana Goes,5/28/2022,São Paulo,2500,7500
+HL7348, SmartWatch ,3,258,Gabriel Silva,10/23/2021,Curitiba,1400,4200
+HL9962, Android ,1,506,Marcos Nucci,2/21/2022,Belo Horizonte,3400,3400
+HL1918, iPhone ,2,669,Rodrigo Ramos,9/5/2021,Salvador,5300,10600
+HL9962, Android ,5,504,Marcelo Pereira,12/4/2021,Curitiba,3400,17000
+HL4379, Televisão ,4,571,Nicolas Monteiro,1/28/2022,Fortaleza,2500,10000
+HL7348, SmartWatch ,3,734,Victor Gomes,1/17/2022,Salvador,1400,4200
+HL8851, Notebook ,1,254,Gabriel Puntel,4/28/2022,Fortaleza,3500,3500
+HL1918, iPhone ,2,323,Isabella Montanholi,12/2/2021,Goiás,5300,10600
+HL1918, iPhone ,4,88,Bianca Piero,7/25/2022,Fortaleza,5300,21200
+HL1148, Câmera ,3,743,Vitor Arruda,2/18/2022,Rio de Janeiro,2100,6300
+HL8851, Notebook ,3,632,Raphael Ferman,12/15/2021,Rio de Janeiro,3500,10500
+HL2714, Tablet ,1,541,Matheus Ramos,9/19/2021,Rio de Janeiro,1600,1600
+HL2714, Tablet ,2,26,Amanda Machado,4/16/2022,Salvador,1600,3200
+HL2714, Tablet ,1,703,Thales Fanara,11/12/2021,São Paulo,1600,1600
+HL9962, Android ,3,621,Rafaela Ferreira,8/19/2021,Curitiba,3400,10200
+HL4379, Televisão ,2,676,Ruan Gonçalves,12/25/2021,São Paulo,2500,5000
+HL1148, Câmera ,5,526,Marina Delgado,4/3/2022,São Paulo,2100,10500
+HL1918, iPhone ,3,131,Caio Vianna,3/19/2022,Porto Alegre,5300,15900
+HL4379, Televisão ,4,715,Thiago Miura,4/5/2022,São Paulo,2500,10000
+HL4379, Televisão ,3,134,Camilla Cardeman,7/10/2022,Rio de Janeiro,2500,7500
+HL1918, iPhone ,4,300,Gustavo Junior,10/27/2021,São Paulo,5300,21200
+HL9962, Android ,5,23,Amanda Delgado,2/18/2022,Porto Alegre,3400,17000
+HL1918, iPhone ,5,497,Manuela Ferreira,9/3/2021,Goiás,5300,26500
+HL1918, iPhone ,2,240,Fernanda Coutinho,2/16/2022,Fortaleza,5300,10600
+HL8851, Notebook ,3,580,Paula Calbucci,11/4/2021,São Paulo,3500,10500
+HL2714, Tablet ,5,33,Ana Felippe,4/15/2022,Goiás,1600,8000
+HL1918, iPhone ,3,47,Anderson Martins,6/15/2022,Curitiba,5300,15900
+HL2714, Tablet ,3,606,Philipe Morete,11/22/2021,São Paulo,1600,4800
+HL7348, SmartWatch ,1,386,Julia Penteado,6/7/2022,Fortaleza,1400,1400
+HL1918, iPhone ,2,510,Maria Gasperi,9/25/2021,Goiás,5300,10600
+HL1148, Câmera ,2,384,Julia Leig,8/6/2022,São Paulo,2100,4200
+HL1918, iPhone ,3,177,Cézar Santos,12/1/2021,Goiás,5300,15900
+HL1918, iPhone ,2,519,Mariana Sousa,3/6/2022,Curitiba,5300,10600
+HL4379, Televisão ,4,582,Paula Cavalcanti,4/3/2022,Goiás,2500,10000
+HL9962, Android ,4,229,Fabio Boccaletti,6/6/2022,Porto Alegre,3400,13600
+HL1148, Câmera ,2,721,Thomáz Rodriguez,10/30/2021,Fortaleza,2100,4200
+HL1148, Câmera ,2,520,Mariane Ferreira,6/14/2022,Salvador,2100,4200
+HL4379, Televisão ,4,392,Juliana Guimarães,2/24/2022,Belo Horizonte,2500,10000
+HL1918, iPhone ,5,608,Priscila Carvalho,1/20/2022,Salvador,5300,26500
+HL7348, SmartWatch ,1,546,Matheus Tostes,11/10/2021,São Paulo,1400,1400
+HL1918, iPhone ,1,343,Jonas Gomes,8/3/2022,São Paulo,5300,5300
+HL7348, SmartWatch ,3,374,João Peçanha,3/5/2022,Rio de Janeiro,1400,4200
+HL4379, Televisão ,3,458,Lucas Machado,3/5/2022,Goiás,2500,7500
+HL1918, iPhone ,4,340,Jessica Ferreira,6/19/2022,Belo Horizonte,5300,21200
+HL9962, Android ,3,649,Rebeca Reis,1/19/2022,São Paulo,3400,10200
+HL4379, Televisão ,1,639,Raul Junqueira,2/23/2022,Goiás,2500,2500
+HL1918, iPhone ,1,331,Iuri Neto,5/3/2022,Belo Horizonte,5300,5300
+HL1918, iPhone ,3,220,Eduardo Silva,8/29/2021,Salvador,5300,15900
+HL4379, Televisão ,3,420,Larissa Jesus,12/31/2021,Curitiba,2500,7500
+HL8851, Notebook ,1,93,Breno Britto,6/27/2022,Belo Horizonte,3500,3500
+HL1918, iPhone ,1,750,Wellington Duarte,7/20/2022,Rio de Janeiro,5300,5300
+HL2714, Tablet ,4,633,Raphael Filho,4/24/2022,Salvador,1600,6400
+HL2714, Tablet ,4,342,Joao Silva,5/5/2022,Porto Alegre,1600,6400
+HL4379, Televisão ,3,349,José Fonseca,8/20/2021,Goiás,2500,7500
+HL1148, Câmera ,3,732,Victor Firmino,9/23/2021,Fortaleza,2100,6300
+HL1918, iPhone ,4,577,Patrícia Amaral,7/21/2022,Porto Alegre,5300,21200
+HL1148, Câmera ,1,43,Ana Soledade,1/23/2022,São Paulo,2100,2100
+HL1148, Câmera ,1,490,Luíza Garcia,10/14/2021,Rio de Janeiro,2100,2100
+HL9962, Android ,1,354,Joyce Medina,8/6/2022,São Paulo,3400,3400
+HL9962, Android ,3,55,Anna Figueiredo,6/8/2022,Fortaleza,3400,10200
+HL1918, iPhone ,2,653,Renan Melo,6/20/2022,Curitiba,5300,10600
+HL2714, Tablet ,3,490,Luíza Garcia,11/12/2021,Salvador,1600,4800
+HL9962, Android ,5,629,Raissa Sales,7/22/2022,Salvador,3400,17000
+HL4379, Televisão ,2,306,Henrique Oliveira,9/11/2021,Recife,2500,5000
+HL1918, iPhone ,1,529,Marina Mesquita,1/31/2022,Recife,5300,5300
+HL1918, iPhone ,2,600,Pedro Rodrigues,1/14/2022,Recife,5300,10600
+HL1918, iPhone ,5,276,Giulia Lopes,6/23/2022,Recife,5300,26500
+HL1918, iPhone ,5,719,Thomaz Ferreira,2/24/2022,Fortaleza,5300,26500
+HL9962, Android ,4,575,Paola Abreu,2/16/2022,Recife,3400,13600
+HL8851, Notebook ,2,171,Chan Santos,5/11/2022,Fortaleza,3500,7000
+HL1918, iPhone ,3,392,Juliana Guimarães,8/5/2022,Salvador,5300,15900
+HL2714, Tablet ,4,568,Nathan Cunha,11/30/2021,Recife,1600,6400
+HL1918, iPhone ,5,717,Thiago Veiga,10/15/2021,Rio de Janeiro,5300,26500
+HL1918, iPhone ,4,41,Ana Monte,3/6/2022,Porto Alegre,5300,21200
+HL4379, Televisão ,2,413,Khaio Mesquita,5/16/2022,São Paulo,2500,5000
+HL1148, Câmera ,1,514,Maria Motta,2/16/2022,Belo Horizonte,2100,2100
+HL1918, iPhone ,4,275,Giselia Thiele,2/21/2022,São Paulo,5300,21200
+HL9962, Android ,3,371,João Monteiro,4/19/2022,São Paulo,3400,10200
+HL1148, Câmera ,4,638,Raphael Rezende,11/5/2021,Rio de Janeiro,2100,8400
+HL1918, iPhone ,1,653,Renan Melo,3/12/2022,Salvador,5300,5300
+HL7348, SmartWatch ,2,391,Juliana Goes,2/21/2022,Rio de Janeiro,1400,2800
+HL4379, Televisão ,2,244,Fernanda Rubim,6/28/2022,São Paulo,2500,5000
+HL1148, Câmera ,4,397,Juliana Silva,11/28/2021,Salvador,2100,8400
+HL1918, iPhone ,3,146,Carlos Mesquita,1/3/2022,Salvador,5300,15900
+HL8851, Notebook ,5,420,Larissa Jesus,12/8/2021,Curitiba,3500,17500
+HL4379, Televisão ,2,275,Giselia Thiele,4/9/2022,Fortaleza,2500,5000
+HL1148, Câmera ,1,420,Larissa Jesus,11/7/2021,Belo Horizonte,2100,2100
+HL2714, Tablet ,2,250,Gabriel Azevedo,9/23/2021,Belo Horizonte,1600,3200
+HL2714, Tablet ,2,694,Sthefeson Pereira,10/23/2021,Rio de Janeiro,1600,3200
+HL4379, Televisão ,2,457,Lucas Lima,4/7/2022,Curitiba,2500,5000
+HL4379, Televisão ,4,642,Raísa Berto,12/20/2021,Salvador,2500,10000
+HL1148, Câmera ,1,138,Carla Zakhm,11/17/2021,Salvador,2100,2100
+HL4379, Televisão ,4,481,Luiza Cavalcanti,2/19/2022,São Paulo,2500,10000
+HL4379, Televisão ,5,325,Isabella Santos,7/16/2022,Rio de Janeiro,2500,12500
+HL4379, Televisão ,5,583,Paula Isbelle,12/27/2021,São Paulo,2500,12500
+HL4379, Televisão ,2,451,Lucas Fontoura,7/9/2022,São Paulo,2500,5000
+HL1148, Câmera ,3,265,Gabriella Sagrillo,12/26/2021,São Paulo,2100,6300
+HL1918, iPhone ,3,319,Isabela Chagas,7/21/2022,São Paulo,5300,15900
+HL1148, Câmera ,3,588,Pedro Cardoso,12/11/2021,Belo Horizonte,2100,6300
+HL8851, Notebook ,5,136,Camilla Vieira,4/6/2022,Porto Alegre,3500,17500
+HL7348, SmartWatch ,2,123,Caio Affonso,8/18/2021,Salvador,1400,2800
+HL7348, SmartWatch ,2,640,Raul Silveira,4/10/2022,Belo Horizonte,1400,2800
+HL8851, Notebook ,4,380,Juan Barbosa,7/5/2022,Rio de Janeiro,3500,14000
+HL4379, Televisão ,2,576,Patrick Silva,9/5/2021,Rio de Janeiro,2500,5000
+HL4379, Televisão ,4,60,Antônio Oliveira,8/3/2022,Rio de Janeiro,2500,10000
+HL2714, Tablet ,4,92,Brenno Santos,1/15/2022,Rio de Janeiro,1600,6400
+HL9962, Android ,1,420,Larissa Jesus,10/5/2021,São Paulo,3400,3400
+HL4379, Televisão ,3,612,Rachel Restum,6/5/2022,Rio de Janeiro,2500,7500
+HL4379, Televisão ,3,111,Bruno Ferreira,10/7/2021,São Paulo,2500,7500
+HL1918, iPhone ,2,569,Nathan Morelli,6/9/2022,Recife,5300,10600
+HL4379, Televisão ,3,280,Glenda Santos,3/27/2022,Curitiba,2500,7500
+HL1148, Câmera ,5,220,Eduardo Silva,1/23/2022,Belo Horizonte,2100,10500
+HL7348, SmartWatch ,1,615,Rafael Guimarães,3/1/2022,Rio de Janeiro,1400,1400
+HL4379, Televisão ,4,27,Amanda Procaci,5/30/2022,Salvador,2500,10000
+HL9962, Android ,4,363,João Costa,4/21/2022,São Paulo,3400,13600
+HL1918, iPhone ,3,426,Leandro Rodrigues,3/8/2022,Salvador,5300,15900
+HL1918, iPhone ,1,538,Matheus Gomes,7/22/2022,São Paulo,5300,5300
+HL4379, Televisão ,2,335,Izabel Miura,3/19/2022,Fortaleza,2500,5000
+HL9962, Android ,3,487,Lunna Vannier,2/17/2022,Salvador,3400,10200
+HL8851, Notebook ,4,533,Mateus Maia,10/21/2021,Fortaleza,3500,14000
+HL1148, Câmera ,4,387,Julia Silva,12/18/2021,Porto Alegre,2100,8400
+HL7348, SmartWatch ,2,625,Rafaella Mello,8/24/2021,Curitiba,1400,2800
+HL1918, iPhone ,2,12,Aline Andrade,12/31/2021,Porto Alegre,5300,10600
+HL1918, iPhone ,2,690,Stephanie Novak,7/3/2022,Porto Alegre,5300,10600
+HL4379, Televisão ,2,542,Matheus Santos,1/14/2022,Fortaleza,2500,5000
+HL1918, iPhone ,1,65,Arthur Portela,3/6/2022,Fortaleza,5300,5300
+HL8851, Notebook ,3,666,Rodrigo Bruno,3/16/2022,Salvador,3500,10500
+HL1918, iPhone ,1,399,Julie Ferreira,11/30/2021,Porto Alegre,5300,5300
+HL4379, Televisão ,3,249,Gabriel Assis,12/12/2021,São Paulo,2500,7500
+HL1918, iPhone ,1,469,Luis Silva,3/11/2022,Salvador,5300,5300
+HL1918, iPhone ,2,306,Henrique Oliveira,9/19/2021,Belo Horizonte,5300,10600
+HL9962, Android ,2,580,Paula Calbucci,7/29/2022,São Paulo,3400,6800
+HL1918, iPhone ,1,285,Guilherme Jordao,3/28/2022,Rio de Janeiro,5300,5300
+HL9962, Android ,5,100,Bruna Brandao,8/27/2021,São Paulo,3400,17000
+HL1918, iPhone ,2,649,Rebeca Reis,6/14/2022,Fortaleza,5300,10600
+HL7348, SmartWatch ,5,660,Roberta Pimenta,1/7/2022,Salvador,1400,7000
+HL9962, Android ,3,333,Ives Teixeira,10/20/2021,Rio de Janeiro,3400,10200
+HL1918, iPhone ,5,177,Cézar Santos,11/18/2021,Goiás,5300,26500
+HL2714, Tablet ,4,511,Maria Junior,4/3/2022,São Paulo,1600,6400
+HL9962, Android ,4,141,Carlos Azevedo,2/27/2022,São Paulo,3400,13600
+HL4379, Televisão ,3,182,Daniel Araujo,4/12/2022,Rio de Janeiro,2500,7500
+HL4379, Televisão ,3,17,Alon Guedes,11/17/2021,São Paulo,2500,7500
+HL7348, SmartWatch ,3,310,Hygor Essaber,10/16/2021,Goiás,1400,4200
+HL7348, SmartWatch ,4,599,Pedro Pereira,11/8/2021,São Paulo,1400,5600
+HL9962, Android ,3,35,Ana Gomes,3/7/2022,Salvador,3400,10200
+HL2714, Tablet ,1,589,Pedro Conceição,2/5/2022,São Paulo,1600,1600
+HL4379, Televisão ,4,38,Ana Leite,1/6/2022,Recife,2500,10000
+HL8851, Notebook ,5,469,Luis Silva,5/17/2022,Recife,3500,17500
+HL1148, Câmera ,2,168,Caroll Johnson,8/14/2021,Curitiba,2100,4200
+HL1918, iPhone ,4,348,José Carvalho,12/12/2021,São Paulo,5300,21200
+HL2714, Tablet ,2,87,Bianca Paz,3/26/2022,Salvador,1600,3200
+HL8851, Notebook ,4,222,Eduardo Vargas,3/13/2022,Rio de Janeiro,3500,14000
+HL1918, iPhone ,1,399,Julie Ferreira,9/13/2021,Fortaleza,5300,5300
+HL1918, iPhone ,3,383,Julia Figueiredo,7/25/2022,Fortaleza,5300,15900
+HL2714, Tablet ,3,171,Chan Santos,10/1/2021,São Paulo,1600,4800
+HL9962, Android ,1,709,Thays Castro,4/4/2022,Rio de Janeiro,3400,3400
+HL1918, iPhone ,4,356,João Abraçado,7/17/2022,São Paulo,5300,21200
+HL2714, Tablet ,4,530,Marina Miranda,9/17/2021,Porto Alegre,1600,6400
+HL1918, iPhone ,1,312,Hércules Moreira,8/23/2021,Fortaleza,5300,5300
+HL9962, Android ,2,532,Mateus Franco,3/11/2022,Salvador,3400,6800
+HL9962, Android ,3,734,Victor Gomes,7/1/2022,Fortaleza,3400,10200
+HL1918, iPhone ,1,550,Michelle Figueiredo,8/31/2021,Rio de Janeiro,5300,5300
+HL1918, iPhone ,5,500,Marcela Medeiros,5/12/2022,São Paulo,5300,26500
+HL4379, Televisão ,3,222,Eduardo Vargas,9/13/2021,São Paulo,2500,7500
+HL1918, iPhone ,5,318,Isabel Mesquita,3/28/2022,Salvador,5300,26500
+HL9962, Android ,4,461,Lucas Reis,1/10/2022,Salvador,3400,13600
+HL4379, Televisão ,4,480,Luiza Cabral,12/18/2021,Rio de Janeiro,2500,10000
+HL1148, Câmera ,1,598,Pedro Oliveira,5/21/2022,Curitiba,2100,2100
+HL1918, iPhone ,5,489,Luísa Fonseca,4/23/2022,São Paulo,5300,26500
+HL2714, Tablet ,1,87,Bianca Paz,4/27/2022,Salvador,1600,1600
+HL8851, Notebook ,4,45,Anderson Barreto,3/1/2022,Rio de Janeiro,3500,14000
+HL1918, iPhone ,1,311,Hércules Júnior,9/12/2021,Salvador,5300,5300
+HL7348, SmartWatch ,4,750,Wellington Duarte,3/24/2022,Rio de Janeiro,1400,5600
+HL1918, iPhone ,2,650,Rebeca Taylor,1/19/2022,Salvador,5300,10600
+HL8851, Notebook ,4,670,Rodrigo Silva,9/2/2021,Salvador,3500,14000
+HL8851, Notebook ,2,705,Thales Portillo,11/28/2021,Salvador,3500,7000
+HL4379, Televisão ,5,454,Lucas Junior,5/25/2022,Recife,2500,12500
+HL1918, iPhone ,4,393,Juliana Hollander,9/4/2021,São Paulo,5300,21200
+HL2714, Tablet ,1,200,David Vasconcelos,3/8/2022,São Paulo,1600,1600
+HL1148, Câmera ,4,449,Lucas Costa,11/17/2021,São Paulo,2100,8400
+HL7348, SmartWatch ,3,335,Izabel Miura,11/27/2021,Salvador,1400,4200
+HL7348, SmartWatch ,1,573,Norman Jimbo,7/7/2022,Goiás,1400,1400
+HL1918, iPhone ,2,28,Amanda Roberto,11/3/2021,São Paulo,5300,10600
+HL4379, Televisão ,3,553,Miguel Carneiro,7/19/2022,Fortaleza,2500,7500
+HL8851, Notebook ,3,164,Caroline Aquino,10/18/2021,Fortaleza,3500,10500
+HL7348, SmartWatch ,3,8,Alessandra Martins,4/1/2022,São Paulo,1400,4200
+HL7348, SmartWatch ,3,738,Victor Soares,4/16/2022,Recife,1400,4200
+HL8851, Notebook ,5,128,Caio Moraes,11/9/2021,Curitiba,3500,17500
+HL7348, SmartWatch ,4,302,Hanna Fonseca,6/15/2022,Rio de Janeiro,1400,5600
+HL1918, iPhone ,1,379,João Tabet,2/15/2022,Belo Horizonte,5300,5300
+HL7348, SmartWatch ,4,551,Michelle Miura,2/19/2022,Salvador,1400,5600
+HL1918, iPhone ,2,293,Guilherme Vianna,9/6/2021,Porto Alegre,5300,10600
+HL1148, Câmera ,4,144,Carlos Galvão,9/10/2021,Curitiba,2100,8400
+HL1918, iPhone ,2,495,Lívia Marques,3/20/2022,São Paulo,5300,10600
+HL1918, iPhone ,5,253,Gabriel Pereira,4/10/2022,Rio de Janeiro,5300,26500
+HL8851, Notebook ,1,406,Jônatas Tanaka,11/19/2021,São Paulo,3500,3500
+HL1918, iPhone ,3,499,Marcela Gasperi,5/30/2022,São Paulo,5300,15900
+HL1148, Câmera ,4,33,Ana Felippe,7/25/2022,Porto Alegre,2100,8400
+HL1148, Câmera ,2,106,Bruna Rosa,7/20/2022,Fortaleza,2100,4200
+HL9962, Android ,3,38,Ana Leite,5/30/2022,Salvador,3400,10200
+HL9962, Android ,2,43,Ana Soledade,11/28/2021,São Paulo,3400,6800
+HL4379, Televisão ,3,117,Bruno Souza,12/30/2021,Rio de Janeiro,2500,7500
+HL7348, SmartWatch ,1,676,Ruan Gonçalves,3/12/2022,Salvador,1400,1400
+HL4379, Televisão ,3,324,Isabella Rodrigues,9/16/2021,Goiás,2500,7500
+HL1918, iPhone ,4,273,Giovana Vilela,8/29/2021,São Paulo,5300,21200
+HL1918, iPhone ,5,174,Clarissa Santos,9/11/2021,Recife,5300,26500
+HL9962, Android ,2,464,Lucas Valim,10/4/2021,Salvador,3400,6800
+HL9962, Android ,4,737,Victor Oliveira,3/11/2022,São Paulo,3400,13600
+HL8851, Notebook ,3,337,Jeferson Costa,10/23/2021,Fortaleza,3500,10500
+HL1918, iPhone ,4,348,José Carvalho,5/16/2022,Curitiba,5300,21200
+HL9962, Android ,3,763,Yasmim Verly,7/28/2022,São Paulo,3400,10200
+HL1148, Câmera ,1,677,Ruan Lopes,10/16/2021,Salvador,2100,2100
+HL1918, iPhone ,4,495,Lívia Marques,8/22/2021,Rio de Janeiro,5300,21200
+HL8851, Notebook ,4,450,Lucas Destri,12/29/2021,Curitiba,3500,14000
+HL1918, iPhone ,1,440,Luana Santos,5/11/2022,Belo Horizonte,5300,5300
+HL1918, iPhone ,2,62,Anízio Carvalho,12/1/2021,Porto Alegre,5300,10600
+HL2714, Tablet ,4,185,Daniel Felippe,2/18/2022,São Paulo,1600,6400
+HL1918, iPhone ,2,388,Julia Teixeira,9/14/2021,Rio de Janeiro,5300,10600
+HL9962, Android ,1,622,Rafaela Gomes,4/5/2022,Fortaleza,3400,3400
+HL8851, Notebook ,1,129,Caio Moura,3/3/2022,Curitiba,3500,3500
+HL4379, Televisão ,2,599,Pedro Pereira,12/15/2021,Salvador,2500,5000
+HL1918, iPhone ,3,453,Lucas Freitas,4/8/2022,Curitiba,5300,15900
+HL7348, SmartWatch ,5,613,Rachel Silva,5/29/2022,Salvador,1400,7000
+HL4379, Televisão ,1,634,Raphael Guedes,4/12/2022,Curitiba,2500,2500
+HL1148, Câmera ,3,116,Bruno Silva,6/20/2022,Rio de Janeiro,2100,6300
+HL4379, Televisão ,5,428,Leonardo Faria,1/28/2022,Salvador,2500,12500
+HL2714, Tablet ,1,604,Pedro Sena,2/7/2022,Salvador,1600,1600
+HL4379, Televisão ,5,63,Arthur Fernandes,8/24/2021,Goiás,2500,12500
+HL4379, Televisão ,2,380,Juan Barbosa,10/9/2021,Porto Alegre,2500,5000
+HL2714, Tablet ,5,224,Elaine Santos,3/12/2022,Rio de Janeiro,1600,8000
+HL4379, Televisão ,2,453,Lucas Freitas,12/29/2021,Rio de Janeiro,2500,5000
+HL1148, Câmera ,1,472,Luiz Almeida,9/18/2021,São Paulo,2100,2100
+HL9962, Android ,4,175,Cláudio Aragão,7/1/2022,São Paulo,3400,13600
+HL8851, Notebook ,3,690,Stephanie Novak,5/15/2022,Rio de Janeiro,3500,10500
+HL4379, Televisão ,1,437,Lorena Carvalho,8/28/2021,Rio de Janeiro,2500,2500
+HL2714, Tablet ,1,243,Fernanda Junior,2/21/2022,Salvador,1600,1600
+HL2714, Tablet ,5,118,Bruno Temporal,9/7/2021,São Paulo,1600,8000
+HL1918, iPhone ,5,281,Guido Monteiro,4/18/2022,Recife,5300,26500
+HL1918, iPhone ,3,747,Viviane Cunha,10/21/2021,São Paulo,5300,15900
+HL7348, SmartWatch ,2,517,Mariana Freire,6/11/2022,Fortaleza,1400,2800
+HL9962, Android ,1,692,Sthefeson Barroso,3/9/2022,São Paulo,3400,3400
+HL2714, Tablet ,1,640,Raul Silveira,8/8/2022,São Paulo,1600,1600
+HL1148, Câmera ,5,414,Kim Ferreira,8/15/2021,Salvador,2100,10500
+HL1148, Câmera ,5,176,Célio Xavier,4/21/2022,São Paulo,2100,10500
+HL4379, Televisão ,4,570,Natália Appel,11/16/2021,São Paulo,2500,10000
+HL2714, Tablet ,1,408,Júlio Fraga,4/9/2022,Salvador,1600,1600
+HL1148, Câmera ,1,333,Ives Teixeira,11/4/2021,Fortaleza,2100,2100
+HL9962, Android ,5,480,Luiza Cabral,4/5/2022,Curitiba,3400,17000
+HL1918, iPhone ,3,176,Célio Xavier,6/19/2022,Salvador,5300,15900
+HL4379, Televisão ,5,384,Julia Leig,2/2/2022,Porto Alegre,2500,12500
+HL9962, Android ,1,642,Raísa Berto,10/4/2021,Recife,3400,3400
+HL1918, iPhone ,2,530,Marina Miranda,10/12/2021,Salvador,5300,10600
+HL1148, Câmera ,3,365,João Guadagnino,10/9/2021,São Paulo,2100,6300
+HL9962, Android ,2,551,Michelle Miura,12/2/2021,Belo Horizonte,3400,6800
+HL4379, Televisão ,3,7,Adrielle Vieira,10/29/2021,Recife,2500,7500
+HL8851, Notebook ,1,599,Pedro Pereira,3/1/2022,Salvador,3500,3500
+HL9962, Android ,1,670,Rodrigo Silva,3/16/2022,Curitiba,3400,3400
+HL4379, Televisão ,3,700,Thainá Binello,3/10/2022,Recife,2500,7500
+HL9962, Android ,4,497,Manuela Ferreira,5/30/2022,Belo Horizonte,3400,13600
+HL1918, iPhone ,5,660,Roberta Pimenta,9/23/2021,Curitiba,5300,26500
+HL9962, Android ,4,232,Felipe Cavalcanti,7/27/2022,São Paulo,3400,13600
+HL4379, Televisão ,2,672,Roger Rosa,12/30/2021,Belo Horizonte,2500,5000
+HL1918, iPhone ,1,184,Daniel Costa,12/4/2021,Porto Alegre,5300,5300
+HL1918, iPhone ,4,226,Eric Carvalho,12/27/2021,São Paulo,5300,21200
+HL9962, Android ,5,566,Natalia Marinho,6/14/2022,Fortaleza,3400,17000
+HL1918, iPhone ,2,466,Lucas Wanderley,9/19/2021,Salvador,5300,10600
+HL1918, iPhone ,1,739,Victor Zakhm,12/14/2021,Recife,5300,5300
+HL1918, iPhone ,1,98,Breno Quinto,6/13/2022,Rio de Janeiro,5300,5300
+HL8851, Notebook ,3,274,Giovanna Santos,4/5/2022,São Paulo,3500,10500
+HL1918, iPhone ,1,233,Felipe Freitas,9/30/2021,Salvador,5300,5300
+HL2714, Tablet ,3,676,Ruan Gonçalves,10/22/2021,Rio de Janeiro,1600,4800
+HL9962, Android ,1,252,Gabriel Garcia,7/23/2022,Recife,3400,3400
+HL8851, Notebook ,2,604,Pedro Sena,3/27/2022,São Paulo,3500,7000
+HL1918, iPhone ,4,151,Carolina Alfradique,4/30/2022,Porto Alegre,5300,21200
+HL9962, Android ,1,754,Wendela Veloso,9/29/2021,Rio de Janeiro,3400,3400
+HL9962, Android ,5,122,Bárbara Lima,3/31/2022,São Paulo,3400,17000
+HL7348, SmartWatch ,3,212,Dykson Silva,2/6/2022,São Paulo,1400,4200
+HL4379, Televisão ,3,675,Rojane Lima,1/5/2022,Salvador,2500,7500
+HL1918, iPhone ,1,617,Rafael Ramos,3/15/2022,São Paulo,5300,5300
+HL4379, Televisão ,2,749,Vivianne Rodrigues,2/1/2022,Rio de Janeiro,2500,5000
+HL9962, Android ,3,728,Vanessa Neves,6/13/2022,Goiás,3400,10200
+HL4379, Televisão ,3,38,Ana Leite,5/22/2022,Fortaleza,2500,7500
+HL1918, iPhone ,3,392,Juliana Guimarães,6/2/2022,São Paulo,5300,15900
+HL4379, Televisão ,4,110,Bruno Barcessat,11/18/2021,Porto Alegre,2500,10000
+HL4379, Televisão ,1,73,Beatriz Li,8/10/2022,Porto Alegre,2500,2500
+HL8851, Notebook ,5,554,Milena Alcoforado,2/5/2022,Recife,3500,17500
+HL9962, Android ,5,524,Marina Cormack,6/7/2022,Fortaleza,3400,17000
+HL7348, SmartWatch ,3,551,Michelle Miura,11/8/2021,Rio de Janeiro,1400,4200
+HL1918, iPhone ,4,165,Caroline Cavalcanti,7/30/2022,Belo Horizonte,5300,21200
+HL2714, Tablet ,4,64,Arthur Pereira,3/6/2022,Recife,1600,6400
+HL1918, iPhone ,3,248,Gabriel Almeida,7/30/2022,São Paulo,5300,15900
+HL1918, iPhone ,4,216,Eduardo Nunes,4/1/2022,Salvador,5300,21200
+HL1918, iPhone ,1,234,Felipe Jorge,6/30/2022,Rio de Janeiro,5300,5300
+HL8851, Notebook ,1,52,Andressa Rotsztejn,10/20/2021,Salvador,3500,3500
+HL7348, SmartWatch ,2,493,Lázaro Nascimento,8/21/2021,São Paulo,1400,2800
+HL1918, iPhone ,5,508,Maria Correa,4/27/2022,Fortaleza,5300,26500
+HL1918, iPhone ,1,692,Sthefeson Barroso,4/10/2022,Curitiba,5300,5300
+HL1918, iPhone ,2,682,Sandy Ribeiro,6/13/2022,Salvador,5300,10600
+HL9962, Android ,2,218,Eduardo Peluzo,4/14/2022,São Paulo,3400,6800
+HL8851, Notebook ,3,619,Rafael Wajnsztok,1/29/2022,Salvador,3500,10500
+HL4379, Televisão ,4,196,Danilo Mendonça,3/28/2022,Curitiba,2500,10000
+HL4379, Televisão ,3,151,Carolina Alfradique,4/29/2022,Curitiba,2500,7500
+HL7348, SmartWatch ,3,739,Victor Zakhm,8/23/2021,Curitiba,1400,4200
+HL4379, Televisão ,5,161,Carolina Silva,3/26/2022,São Paulo,2500,12500
+HL1148, Câmera ,3,397,Juliana Silva,2/7/2022,São Paulo,2100,6300
+HL4379, Televisão ,5,512,Maria Mello,8/20/2021,São Paulo,2500,12500
+HL7348, SmartWatch ,5,520,Mariane Ferreira,11/2/2021,Belo Horizonte,1400,7000
+HL4379, Televisão ,4,464,Lucas Valim,11/16/2021,Rio de Janeiro,2500,10000
+HL4379, Televisão ,5,283,Guilherme Barbosa,2/6/2022,Salvador,2500,12500
+HL4379, Televisão ,5,703,Thales Fanara,12/7/2021,Belo Horizonte,2500,12500
+HL1148, Câmera ,1,500,Marcela Medeiros,8/17/2021,São Paulo,2100,2100
+HL4379, Televisão ,4,653,Renan Melo,6/14/2022,Salvador,2500,10000
+HL7348, SmartWatch ,2,355,Joyce Souza,11/28/2021,Fortaleza,1400,2800
+HL8851, Notebook ,2,683,Sarah Souza,4/18/2022,Curitiba,3500,7000
+HL8851, Notebook ,4,506,Marcos Nucci,10/1/2021,Recife,3500,14000
+HL9962, Android ,3,340,Jessica Ferreira,5/14/2022,Belo Horizonte,3400,10200
+HL4379, Televisão ,2,4,Adriane Gomes,10/20/2021,São Paulo,2500,5000
+HL1918, iPhone ,2,435,Livia Corrêa,8/13/2022,São Paulo,5300,10600
+HL1918, iPhone ,2,568,Nathan Cunha,2/25/2022,São Paulo,5300,10600
+HL1918, iPhone ,3,178,Cícero Lima,6/14/2022,Goiás,5300,15900
+HL8851, Notebook ,5,644,Raíssa Nimer,8/14/2021,São Paulo,3500,17500
+HL1918, iPhone ,3,352,José Seixas,7/21/2022,São Paulo,5300,15900
+HL1918, iPhone ,4,575,Paola Abreu,12/18/2021,Salvador,5300,21200
+HL7348, SmartWatch ,2,15,Allan Candido,2/15/2022,Belo Horizonte,1400,2800
+HL7348, SmartWatch ,1,341,Joao Pereira,3/17/2022,Rio de Janeiro,1400,1400
+HL4379, Televisão ,3,490,Luíza Garcia,1/29/2022,Goiás,2500,7500
+HL2714, Tablet ,5,757,Wilson Brandão,2/27/2022,Porto Alegre,1600,8000
+HL4379, Televisão ,3,16,Allan Guedes,10/5/2021,Rio de Janeiro,2500,7500
+HL8851, Notebook ,2,648,Rebeca Manhães,6/28/2022,Goiás,3500,7000
+HL7348, SmartWatch ,1,282,Guilherme Assis,8/6/2022,Salvador,1400,1400
+HL2714, Tablet ,5,401,Jéssica Resinente,8/17/2021,Rio de Janeiro,1600,8000
+HL8851, Notebook ,3,140,Carlos Assis,3/17/2022,Curitiba,3500,10500
+HL2714, Tablet ,3,434,Livia Codeceira,9/10/2021,Salvador,1600,4800
+HL7348, SmartWatch ,3,743,Vitor Arruda,11/2/2021,São Paulo,1400,4200
+HL8851, Notebook ,1,215,Eduardo Lopes,12/9/2021,São Paulo,3500,3500
+HL4379, Televisão ,3,77,Beatriz Santos,11/5/2021,Salvador,2500,7500
+HL4379, Televisão ,3,344,Jonatas Essaber,1/22/2022,Recife,2500,7500
+HL7348, SmartWatch ,3,433,Letícia Rodrigues,7/31/2022,Rio de Janeiro,1400,4200
+HL8851, Notebook ,2,210,Diogo Ressurreição,1/28/2022,Fortaleza,3500,7000
+HL8851, Notebook ,3,706,Thales Santos,12/8/2021,Fortaleza,3500,10500
+HL9962, Android ,4,565,Natalia Guedes,1/31/2022,Porto Alegre,3400,13600
+HL4379, Televisão ,2,462,Lucas Rocha,4/14/2022,Rio de Janeiro,2500,5000
+HL9962, Android ,5,145,Carlos Melo,4/23/2022,Goiás,3400,17000
+HL4379, Televisão ,1,288,Guilherme Merotto,2/14/2022,Rio de Janeiro,2500,2500
+HL4379, Televisão ,4,650,Rebeca Taylor,5/12/2022,Rio de Janeiro,2500,10000
+HL1918, iPhone ,5,624,Rafaela Rodrigues,5/24/2022,Goiás,5300,26500
+HL1918, iPhone ,2,53,Andreza Ramos,10/7/2021,São Paulo,5300,10600
+HL1918, iPhone ,1,137,Camille Silva,3/8/2022,Rio de Janeiro,5300,5300
+HL8851, Notebook ,1,162,Carolina Siqueira,4/16/2022,Fortaleza,3500,3500
+HL2714, Tablet ,4,362,João Castilho,11/21/2021,São Paulo,1600,6400
+HL2714, Tablet ,3,127,Caio Ferreira,5/8/2022,São Paulo,1600,4800
+HL1918, iPhone ,1,64,Arthur Pereira,2/21/2022,Porto Alegre,5300,5300
+HL1918, iPhone ,4,692,Sthefeson Barroso,1/29/2022,São Paulo,5300,21200
+HL2714, Tablet ,2,99,Breno Varella,3/8/2022,Fortaleza,1600,3200
+HL4379, Televisão ,4,758,Wilson Farias,4/30/2022,Salvador,2500,10000
+HL1918, iPhone ,2,286,Guilherme Lima,9/27/2021,Goiás,5300,10600
+HL1148, Câmera ,5,5,Adrielle Forte,1/19/2022,Fortaleza,2100,10500
+HL1918, iPhone ,5,615,Rafael Guimarães,1/15/2022,Fortaleza,5300,26500
+HL1918, iPhone ,2,187,Daniel Nauenberg,7/21/2022,Goiás,5300,10600
+HL4379, Televisão ,4,454,Lucas Junior,3/2/2022,Salvador,2500,10000
+HL7348, SmartWatch ,1,20,Alvaro Kranz,10/16/2021,São Paulo,1400,1400
+HL9962, Android ,3,575,Paola Abreu,8/15/2021,São Paulo,3400,10200
+HL1918, iPhone ,3,177,Cézar Santos,12/22/2021,Porto Alegre,5300,15900
+HL9962, Android ,5,666,Rodrigo Bruno,9/16/2021,Belo Horizonte,3400,17000
+HL2714, Tablet ,2,705,Thales Portillo,6/14/2022,São Paulo,1600,3200
+HL4379, Televisão ,5,472,Luiz Almeida,1/29/2022,Porto Alegre,2500,12500
+HL4379, Televisão ,4,511,Maria Junior,3/19/2022,Belo Horizonte,2500,10000
+HL9962, Android ,1,447,Lucas Chagas,8/7/2022,Rio de Janeiro,3400,3400
+HL9962, Android ,4,17,Alon Guedes,6/20/2022,Porto Alegre,3400,13600
+HL1918, iPhone ,2,219,Eduardo Quindeler,4/10/2022,Rio de Janeiro,5300,10600
+HL1918, iPhone ,3,362,João Castilho,12/16/2021,Goiás,5300,15900
+HL1918, iPhone ,1,591,Pedro Dalforne,12/9/2021,Belo Horizonte,5300,5300
+HL1148, Câmera ,4,224,Elaine Santos,1/11/2022,Rio de Janeiro,2100,8400
+HL1918, iPhone ,5,680,Sandy Figueiredo,8/4/2022,Fortaleza,5300,26500
+HL1148, Câmera ,1,29,Ana Almeida,5/5/2022,Fortaleza,2100,2100
+HL8851, Notebook ,2,393,Juliana Hollander,1/17/2022,Fortaleza,3500,7000
+HL1918, iPhone ,4,76,Beatriz Rodrigues,10/10/2021,São Paulo,5300,21200
+HL4379, Televisão ,1,154,Carolina Carneiro,7/12/2022,São Paulo,2500,2500
+HL8851, Notebook ,1,460,Lucas Neto,10/21/2021,Fortaleza,3500,3500
+HL4379, Televisão ,5,673,Rogério Gentile,12/10/2021,Fortaleza,2500,12500
+HL4379, Televisão ,1,433,Letícia Rodrigues,9/27/2021,Goiás,2500,2500
+HL4379, Televisão ,5,9,Alex Fernandes,1/4/2022,São Paulo,2500,12500
+HL8851, Notebook ,3,152,Carolina Bernardes,7/16/2022,Rio de Janeiro,3500,10500
+HL4379, Televisão ,1,710,Thaís Moura,12/26/2021,Porto Alegre,2500,2500
+HL4379, Televisão ,4,711,Thaís Pereira,12/24/2021,Rio de Janeiro,2500,10000
+HL1918, iPhone ,1,117,Bruno Souza,1/4/2022,Fortaleza,5300,5300
+HL1918, iPhone ,1,256,Gabriel Rocha,6/26/2022,Belo Horizonte,5300,5300
+HL7348, SmartWatch ,5,1,Adriana Carneiro,11/13/2021,Porto Alegre,1400,7000
+HL1148, Câmera ,3,123,Caio Affonso,1/20/2022,São Paulo,2100,6300
+HL2714, Tablet ,3,367,João Júnior,1/12/2022,São Paulo,1600,4800
+HL1918, iPhone ,5,82,Bernardo Nauenberg,7/6/2022,Salvador,5300,26500
+HL9962, Android ,4,336,Jackson Derossi,4/4/2022,Recife,3400,13600
+HL2714, Tablet ,5,750,Wellington Duarte,6/11/2022,Salvador,1600,8000
+HL4379, Televisão ,3,297,Gustavo Erthal,6/9/2022,Rio de Janeiro,2500,7500
+HL2714, Tablet ,3,472,Luiz Almeida,10/16/2021,São Paulo,1600,4800
+HL2714, Tablet ,2,428,Leonardo Faria,5/26/2022,Goiás,1600,3200
+HL8851, Notebook ,2,765,Ylana Teraoka,11/23/2021,São Paulo,3500,7000
+HL1918, iPhone ,2,503,Marcelo Magalhães,7/3/2022,Rio de Janeiro,5300,10600
+HL9962, Android ,1,643,Raísa Rodrigues,3/29/2022,Recife,3400,3400
+HL9962, Android ,1,222,Eduardo Vargas,11/24/2021,Curitiba,3400,3400
+HL4379, Televisão ,3,51,Andressa Nóbrega,12/23/2021,Salvador,2500,7500
+HL4379, Televisão ,3,7,Adrielle Vieira,3/26/2022,Recife,2500,7500
+HL4379, Televisão ,5,732,Victor Firmino,8/4/2022,São Paulo,2500,12500
+HL4379, Televisão ,1,522,Marianna Pestana,9/14/2021,Fortaleza,2500,2500
+HL7348, SmartWatch ,3,261,Gabriel Thoni,4/26/2022,Curitiba,1400,4200
+HL2714, Tablet ,4,412,Katharina Barros,9/2/2021,Goiás,1600,6400
+HL4379, Televisão ,2,630,Ramon Araujo,12/16/2021,Fortaleza,2500,5000
+HL4379, Televisão ,1,655,Renan Nucci,1/19/2022,São Paulo,2500,2500
+HL4379, Televisão ,1,168,Caroll Johnson,8/10/2022,Porto Alegre,2500,2500
+HL2714, Tablet ,4,59,Antonio Manhães,6/26/2022,Goiás,1600,6400
+HL8851, Notebook ,1,178,Cícero Lima,8/18/2021,Belo Horizonte,3500,3500
+HL1918, iPhone ,5,701,Thais Rodrigues,10/12/2021,Goiás,5300,26500
+HL8851, Notebook ,5,10,Alexandre Dantas,1/7/2022,Curitiba,3500,17500
+HL1148, Câmera ,1,310,Hygor Essaber,1/11/2022,Curitiba,2100,2100
+HL4379, Televisão ,5,355,Joyce Souza,6/2/2022,Fortaleza,2500,12500
+HL1918, iPhone ,2,759,Wilson Meirelles,11/26/2021,Fortaleza,5300,10600
+HL1918, iPhone ,2,531,Marina Perdomo,6/21/2022,Salvador,5300,10600
+HL1918, iPhone ,1,321,Isabela Rodrigues,1/9/2022,Rio de Janeiro,5300,5300
+HL1148, Câmera ,4,740,Victoria Mazza,3/14/2022,São Paulo,2100,8400
+HL4379, Televisão ,1,4,Adriane Gomes,10/30/2021,Goiás,2500,2500
+HL9962, Android ,5,598,Pedro Oliveira,2/27/2022,Salvador,3400,17000
+HL1918, iPhone ,2,656,Renan Ventura,2/24/2022,Salvador,5300,10600
+HL1148, Câmera ,3,170,Catarina Teixeira,2/26/2022,Salvador,2100,6300
+HL9962, Android ,2,307,Henrique Silva,12/12/2021,São Paulo,3400,6800
+HL1918, iPhone ,5,45,Anderson Barreto,11/27/2021,Fortaleza,5300,26500
+HL4379, Televisão ,5,619,Rafael Wajnsztok,9/3/2021,Goiás,2500,12500
+HL9962, Android ,3,174,Clarissa Santos,9/29/2021,Rio de Janeiro,3400,10200
+HL1148, Câmera ,2,741,Victoria Tavares,7/5/2022,Belo Horizonte,2100,4200
+HL1918, iPhone ,4,468,Luis Oliveira,1/11/2022,São Paulo,5300,21200
+HL1918, iPhone ,5,353,José Vieira,3/1/2022,Rio de Janeiro,5300,26500
+HL2714, Tablet ,2,498,Manuela Merege,9/12/2021,São Paulo,1600,3200
+HL4379, Televisão ,1,540,Matheus Moraes,1/2/2022,Belo Horizonte,2500,2500
+HL8851, Notebook ,1,103,Bruna Gomes,12/30/2021,Rio de Janeiro,3500,3500
+HL1918, iPhone ,2,289,Guilherme Monteiro,12/17/2021,Fortaleza,5300,10600
+HL9962, Android ,1,464,Lucas Valim,3/17/2022,Salvador,3400,3400
+HL2714, Tablet ,1,437,Lorena Carvalho,3/2/2022,Rio de Janeiro,1600,1600
+HL1918, iPhone ,4,449,Lucas Costa,7/31/2022,Fortaleza,5300,21200
+HL7348, SmartWatch ,2,458,Lucas Machado,11/11/2021,Curitiba,1400,2800
+HL1918, iPhone ,1,518,Mariana Miranda,12/9/2021,Rio de Janeiro,5300,5300
+HL4379, Televisão ,3,327,Isabelle Firmino,10/15/2021,Salvador,2500,7500
+HL8851, Notebook ,4,134,Camilla Cardeman,1/23/2022,Goiás,3500,14000
+HL9962, Android ,4,360,João Bach,11/17/2021,Rio de Janeiro,3400,13600
+HL4379, Televisão ,5,673,Rogério Gentile,10/21/2021,Rio de Janeiro,2500,12500
+HL9962, Android ,2,400,Jéssica Netto,6/17/2022,São Paulo,3400,6800
+HL1148, Câmera ,4,538,Matheus Gomes,11/3/2021,Porto Alegre,2100,8400
+HL2714, Tablet ,3,33,Ana Felippe,7/21/2022,São Paulo,1600,4800
+HL9962, Android ,2,219,Eduardo Quindeler,2/11/2022,São Paulo,3400,6800
+HL4379, Televisão ,3,72,Beatriz Cavalcanti,12/16/2021,Salvador,2500,7500
+HL4379, Televisão ,5,560,Myllena Corrêa,11/22/2021,Recife,2500,12500
+HL4379, Televisão ,4,429,Leonardo Ferreira,6/17/2022,Goiás,2500,10000
+HL1148, Câmera ,5,683,Sarah Souza,5/21/2022,São Paulo,2100,10500
+HL7348, SmartWatch ,5,745,Vitor Campos,12/6/2021,Rio de Janeiro,1400,7000
+HL4379, Televisão ,3,208,Diego Rodrigues,9/19/2021,Curitiba,2500,7500
+HL1918, iPhone ,3,271,Gabrielle Viríssimo,2/8/2022,Recife,5300,15900
+HL1918, iPhone ,3,478,Luiz Mendonça,2/9/2022,Salvador,5300,15900
+HL7348, SmartWatch ,5,473,Luiz Campista,12/4/2021,São Paulo,1400,7000
+HL1918, iPhone ,5,652,Renan Freire,10/2/2021,Fortaleza,5300,26500
+HL1148, Câmera ,2,575,Paola Abreu,3/21/2022,Fortaleza,2100,4200
+HL1148, Câmera ,3,618,Rafael Rocha,9/2/2021,Rio de Janeiro,2100,6300
+HL4379, Televisão ,5,339,Jessica Cordovil,6/2/2022,Curitiba,2500,12500
+HL1918, iPhone ,2,528,Marina Marins,10/7/2021,Goiás,5300,10600
+HL1918, iPhone ,2,641,Ravena Bhering,11/25/2021,Salvador,5300,10600
+HL1918, iPhone ,5,529,Marina Mesquita,1/15/2022,Rio de Janeiro,5300,26500
+HL1918, iPhone ,4,126,Caio Fernandes,11/28/2021,Curitiba,5300,21200
+HL8851, Notebook ,3,102,Bruna Franco,5/25/2022,Fortaleza,3500,10500
+HL9962, Android ,2,98,Breno Quinto,10/18/2021,Rio de Janeiro,3400,6800
+HL9962, Android ,2,85,Bianca Allevato,12/25/2021,Goiás,3400,6800
+HL9962, Android ,2,361,João Capitulo,5/30/2022,Curitiba,3400,6800
+HL1918, iPhone ,5,299,Gustavo Guimarães,10/29/2021,Fortaleza,5300,26500
+HL1148, Câmera ,3,60,Antônio Oliveira,7/14/2022,São Paulo,2100,6300
+HL2714, Tablet ,3,383,Julia Figueiredo,4/29/2022,Goiás,1600,4800
+HL2714, Tablet ,2,435,Livia Corrêa,12/9/2021,São Paulo,1600,3200
+HL1148, Câmera ,2,626,Raissa Maia,8/13/2022,Salvador,2100,4200
+HL9962, Android ,2,227,Eric Neves,4/27/2022,Belo Horizonte,3400,6800
+HL4379, Televisão ,1,122,Bárbara Lima,4/4/2022,Porto Alegre,2500,2500
+HL4379, Televisão ,5,226,Eric Carvalho,9/22/2021,Salvador,2500,12500
+HL4379, Televisão ,3,152,Carolina Bernardes,9/13/2021,Salvador,2500,7500
+HL1918, iPhone ,5,338,Jeferson Sone,7/5/2022,Recife,5300,26500
+HL8851, Notebook ,5,468,Luis Oliveira,9/7/2021,Rio de Janeiro,3500,17500
+HL8851, Notebook ,4,519,Mariana Sousa,11/9/2021,São Paulo,3500,14000
+HL2714, Tablet ,2,320,Isabela Resende,2/17/2022,Curitiba,1600,3200
+HL8851, Notebook ,5,383,Julia Figueiredo,4/10/2022,Rio de Janeiro,3500,17500
+HL1918, iPhone ,2,353,José Vieira,6/25/2022,São Paulo,5300,10600
+HL9962, Android ,1,501,Marcelo Borges,2/11/2022,Fortaleza,3400,3400
+HL7348, SmartWatch ,3,44,Ananda Dias,3/28/2022,São Paulo,1400,4200
+HL1918, iPhone ,1,654,Renan Nascimento,5/9/2022,São Paulo,5300,5300
+HL2714, Tablet ,4,733,Victor Franco,10/23/2021,Rio de Janeiro,1600,6400
+HL9962, Android ,4,765,Ylana Teraoka,6/24/2022,São Paulo,3400,13600
+HL1148, Câmera ,1,679,Samara Pinto,10/23/2021,Fortaleza,2100,2100
+HL8851, Notebook ,4,580,Paula Calbucci,12/29/2021,São Paulo,3500,14000
+HL4379, Televisão ,4,386,Julia Penteado,10/24/2021,Fortaleza,2500,10000
+HL1918, iPhone ,2,441,Lucas Almeida,8/22/2021,Salvador,5300,10600
+HL1918, iPhone ,3,150,Carolina Abrahão,6/27/2022,Curitiba,5300,15900
+HL8851, Notebook ,2,264,Gabriela Mello,10/8/2021,São Paulo,3500,7000
+HL1918, iPhone ,5,9,Alex Fernandes,8/14/2021,São Paulo,5300,26500
+HL4379, Televisão ,3,364,João Fonseca,6/22/2022,Salvador,2500,7500
+HL4379, Televisão ,5,359,João Araujo,6/18/2022,Belo Horizonte,2500,12500
+HL2714, Tablet ,4,601,Pedro Ronfini,1/1/2022,Recife,1600,6400
+HL4379, Televisão ,3,161,Carolina Silva,1/16/2022,São Paulo,2500,7500
+HL1148, Câmera ,5,472,Luiz Almeida,12/19/2021,Salvador,2100,10500
+HL1918, iPhone ,2,311,Hércules Júnior,10/21/2021,Rio de Janeiro,5300,10600
+HL8851, Notebook ,3,237,Felipe Mendonça,10/25/2021,São Paulo,3500,10500
+HL1918, iPhone ,1,201,Debora Silva,5/7/2022,Belo Horizonte,5300,5300
+HL1918, iPhone ,1,668,Rodrigo Mendes,8/28/2021,Fortaleza,5300,5300
+HL1918, iPhone ,5,760,Wilson Miranda,10/12/2021,Recife,5300,26500
+HL1918, iPhone ,3,245,Fernanda Silva,10/18/2021,Fortaleza,5300,15900
+HL4379, Televisão ,4,185,Daniel Felippe,2/25/2022,Recife,2500,10000
+HL4379, Televisão ,1,673,Rogério Gentile,11/29/2021,Fortaleza,2500,2500
+HL4379, Televisão ,5,609,Priscila Garcia,1/23/2022,Salvador,2500,12500
+HL8851, Notebook ,1,764,Yasser Calbucci,4/1/2022,Rio de Janeiro,3500,3500
+HL1148, Câmera ,1,42,Ana Silva,11/16/2021,Fortaleza,2100,2100
+HL1918, iPhone ,2,649,Rebeca Reis,9/19/2021,Fortaleza,5300,10600
+HL7348, SmartWatch ,4,612,Rachel Restum,3/9/2022,Porto Alegre,1400,5600
+HL9962, Android ,5,83,Bernardo Ribeiro,11/11/2021,Fortaleza,3400,17000
+HL1918, iPhone ,4,398,Juliana Souza,2/15/2022,Goiás,5300,21200
+HL9962, Android ,4,31,Ana Campos,11/19/2021,São Paulo,3400,13600
+HL8851, Notebook ,5,368,João Luz,5/10/2022,Salvador,3500,17500
+HL1148, Câmera ,2,19,Alon Pestana,6/18/2022,Porto Alegre,2100,4200
+HL1918, iPhone ,4,557,Monique Vasconcelos,1/30/2022,Fortaleza,5300,21200
+HL2714, Tablet ,5,142,Carlos Barbosa,7/23/2022,Salvador,1600,8000
+HL2714, Tablet ,3,479,Luiz Xavier,7/18/2022,Rio de Janeiro,1600,4800
+HL8851, Notebook ,2,539,Matheus Miranda,12/24/2021,Recife,3500,7000
+HL4379, Televisão ,5,243,Fernanda Junior,4/14/2022,Recife,2500,12500
+HL4379, Televisão ,3,250,Gabriel Azevedo,1/18/2022,Curitiba,2500,7500
+HL1918, iPhone ,2,125,Caio Cardoso,10/31/2021,Curitiba,5300,10600
+HL4379, Televisão ,4,651,Renan Cunha,9/23/2021,Salvador,2500,10000
+HL7348, SmartWatch ,4,669,Rodrigo Ramos,1/29/2022,Salvador,1400,5600
+HL1918, iPhone ,2,553,Miguel Carneiro,10/27/2021,Curitiba,5300,10600
+HL4379, Televisão ,4,200,David Vasconcelos,2/10/2022,São Paulo,2500,10000
+HL1148, Câmera ,5,431,Letícia Araujo,2/5/2022,Fortaleza,2100,10500
+HL7348, SmartWatch ,4,466,Lucas Wanderley,10/8/2021,Belo Horizonte,1400,5600
+HL9962, Android ,2,639,Raul Junqueira,5/12/2022,Belo Horizonte,3400,6800
+HL9962, Android ,4,24,Amanda Felippe,8/9/2022,Recife,3400,13600
+HL1918, iPhone ,4,94,Breno Caputo,8/16/2021,Porto Alegre,5300,21200
+HL8851, Notebook ,1,628,Raissa Pinheiro,8/17/2021,Curitiba,3500,3500
+HL4379, Televisão ,3,740,Victoria Mazza,4/13/2022,Belo Horizonte,2500,7500
+HL1918, iPhone ,1,671,Rodrigo Souza,2/22/2022,Fortaleza,5300,5300
+HL1918, iPhone ,2,746,Vittorio Freitas,5/9/2022,Fortaleza,5300,10600
+HL2714, Tablet ,1,137,Camille Silva,12/25/2021,Rio de Janeiro,1600,1600
+HL9962, Android ,3,57,Anna Silva,10/20/2021,Salvador,3400,10200
+HL1918, iPhone ,1,169,Cassio Faria,10/9/2021,Rio de Janeiro,5300,5300
+HL1918, iPhone ,3,753,Wendela Mariz,10/28/2021,Rio de Janeiro,5300,15900
+HL8851, Notebook ,4,436,Livia Cozendey,2/18/2022,Belo Horizonte,3500,14000
+HL1918, iPhone ,2,258,Gabriel Silva,1/30/2022,Fortaleza,5300,10600
+HL4379, Televisão ,2,128,Caio Moraes,12/31/2021,Salvador,2500,5000
+HL8851, Notebook ,2,434,Livia Codeceira,1/11/2022,Fortaleza,3500,7000
+HL7348, SmartWatch ,2,663,Roberto Nogueira,1/26/2022,Rio de Janeiro,1400,2800
+HL7348, SmartWatch ,5,637,Raphael Mattos,6/24/2022,São Paulo,1400,7000
+HL9962, Android ,5,381,Juan Fernandes,1/31/2022,São Paulo,3400,17000
+HL7348, SmartWatch ,4,511,Maria Junior,9/26/2021,Salvador,1400,5600
+HL1918, iPhone ,4,571,Nicolas Monteiro,12/15/2021,Curitiba,5300,21200
+HL4379, Televisão ,4,645,Raíssa Oliveira,2/12/2022,Fortaleza,2500,10000
+HL2714, Tablet ,1,230,Fabio Ramos,9/17/2021,Rio de Janeiro,1600,1600
+HL4379, Televisão ,3,346,Jorge Carvalho,7/4/2022,Rio de Janeiro,2500,7500
+HL7348, SmartWatch ,3,721,Thomáz Rodriguez,10/14/2021,Salvador,1400,4200
+HL8851, Notebook ,1,444,Lucas Assunção,5/12/2022,São Paulo,3500,3500
+HL1918, iPhone ,5,421,Larissa Vasconcellos,10/9/2021,Belo Horizonte,5300,26500
+HL4379, Televisão ,1,303,Helena Chafin,7/29/2022,Goiás,2500,2500
+HL1918, iPhone ,4,415,Kimberly Sad,12/21/2021,São Paulo,5300,21200
+HL9962, Android ,2,46,Anderson Cavalcanti,12/25/2021,Goiás,3400,6800
+HL7348, SmartWatch ,5,691,Stephanie Oliveira,5/7/2022,Rio de Janeiro,1400,7000
+HL4379, Televisão ,1,128,Caio Moraes,6/18/2022,Belo Horizonte,2500,2500
+HL7348, SmartWatch ,3,269,Gabrielle Silva,4/28/2022,São Paulo,1400,4200
+HL2714, Tablet ,2,397,Juliana Silva,11/23/2021,São Paulo,1600,3200
+HL4379, Televisão ,2,626,Raissa Maia,7/15/2022,Salvador,2500,5000
+HL1918, iPhone ,3,423,Laís Oliveira,11/15/2021,Salvador,5300,15900
+HL9962, Android ,4,259,Gabriel Soares,8/13/2022,Curitiba,3400,13600
+HL8851, Notebook ,3,256,Gabriel Rocha,4/9/2022,Fortaleza,3500,10500
+HL1918, iPhone ,2,621,Rafaela Ferreira,8/13/2021,Salvador,5300,10600
+HL7348, SmartWatch ,3,156,Carolina Figueiredo,12/20/2021,Recife,1400,4200
+HL1148, Câmera ,3,204,Deysiane Medronho,11/30/2021,Porto Alegre,2100,6300
+HL8851, Notebook ,3,333,Ives Teixeira,9/25/2021,São Paulo,3500,10500
+HL8851, Notebook ,5,626,Raissa Maia,9/27/2021,São Paulo,3500,17500
+HL1918, iPhone ,3,412,Katharina Barros,7/29/2022,Salvador,5300,15900
+HL9962, Android ,5,755,William Mendonça,11/3/2021,São Paulo,3400,17000
+HL2714, Tablet ,1,324,Isabella Rodrigues,3/5/2022,São Paulo,1600,1600
+HL8851, Notebook ,5,122,Bárbara Lima,7/23/2022,Belo Horizonte,3500,17500
+HL2714, Tablet ,3,255,Gabriel Ribeiro,3/10/2022,Fortaleza,1600,4800
+HL2714, Tablet ,4,644,Raíssa Nimer,5/4/2022,Fortaleza,1600,6400
+HL4379, Televisão ,3,416,Lais Candido,4/13/2022,Fortaleza,2500,7500
+HL7348, SmartWatch ,4,401,Jéssica Resinente,4/23/2022,São Paulo,1400,5600
+HL1918, iPhone ,1,454,Lucas Junior,2/3/2022,Salvador,5300,5300
+HL2714, Tablet ,1,538,Matheus Gomes,9/21/2021,Recife,1600,1600
+HL7348, SmartWatch ,3,107,Bruna Silva,9/4/2021,Porto Alegre,1400,4200
+HL1918, iPhone ,2,278,Giuseppe Bhering,4/6/2022,Porto Alegre,5300,10600
+HL1148, Câmera ,1,510,Maria Gasperi,10/1/2021,Salvador,2100,2100
+HL9962, Android ,5,241,Fernanda Ferreira,8/9/2022,Rio de Janeiro,3400,17000
+HL1918, iPhone ,5,131,Caio Vianna,11/13/2021,Belo Horizonte,5300,26500
+HL1918, iPhone ,3,599,Pedro Pereira,11/23/2021,Curitiba,5300,15900
+HL7348, SmartWatch ,2,168,Caroll Johnson,2/14/2022,Salvador,1400,2800
+HL7348, SmartWatch ,1,86,Bianca Ferezin,8/24/2021,Curitiba,1400,1400
+HL2714, Tablet ,1,621,Rafaela Ferreira,10/4/2021,Goiás,1600,1600
+HL9962, Android ,4,44,Ananda Dias,12/17/2021,Goiás,3400,13600
+HL2714, Tablet ,2,215,Eduardo Lopes,3/2/2022,Fortaleza,1600,3200
+HL7348, SmartWatch ,1,186,Daniel Monteiro,6/9/2022,Belo Horizonte,1400,1400
+HL7348, SmartWatch ,5,250,Gabriel Azevedo,9/15/2021,Fortaleza,1400,7000
+HL4379, Televisão ,2,46,Anderson Cavalcanti,3/29/2022,Fortaleza,2500,5000
+HL9962, Android ,3,135,Camilla Guimarães,1/2/2022,Curitiba,3400,10200
+HL4379, Televisão ,5,413,Khaio Mesquita,4/14/2022,Fortaleza,2500,12500
+HL9962, Android ,1,353,José Vieira,5/31/2022,Belo Horizonte,3400,3400
+HL2714, Tablet ,5,463,Lucas Rodrigues,12/18/2021,Curitiba,1600,8000
+HL7348, SmartWatch ,1,730,Victor Corrêa,9/27/2021,São Paulo,1400,1400
+HL9962, Android ,5,520,Mariane Ferreira,5/23/2022,Fortaleza,3400,17000
+HL8851, Notebook ,4,625,Rafaella Mello,12/13/2021,Curitiba,3500,14000
+HL8851, Notebook ,2,384,Julia Leig,11/12/2021,Recife,3500,7000
+HL1918, iPhone ,4,499,Marcela Gasperi,11/25/2021,Rio de Janeiro,5300,21200
+HL9962, Android ,1,576,Patrick Silva,11/4/2021,Porto Alegre,3400,3400
+HL1918, iPhone ,2,174,Clarissa Santos,6/3/2022,Rio de Janeiro,5300,10600
+HL8851, Notebook ,4,140,Carlos Assis,3/16/2022,Rio de Janeiro,3500,14000
+HL7348, SmartWatch ,4,600,Pedro Rodrigues,11/2/2021,Fortaleza,1400,5600
+HL4379, Televisão ,2,176,Célio Xavier,8/18/2021,Fortaleza,2500,5000
+HL4379, Televisão ,1,338,Jeferson Sone,7/3/2022,São Paulo,2500,2500
+HL2714, Tablet ,2,166,Caroline Delgado,7/9/2022,Belo Horizonte,1600,3200
+HL2714, Tablet ,2,104,Bruna Londero,3/4/2022,São Paulo,1600,3200
+HL2714, Tablet ,1,373,João Pedrazza,4/11/2022,São Paulo,1600,1600
+HL4379, Televisão ,1,723,Tiago Pereira,2/27/2022,Fortaleza,2500,2500
+HL9962, Android ,2,189,Daniel Sousa,6/21/2022,Recife,3400,6800
+HL1148, Câmera ,3,207,Diego Mello,7/23/2022,São Paulo,2100,6300
+HL9962, Android ,1,267,Gabrielle Figueiredo,10/19/2021,São Paulo,3400,3400
+HL7348, SmartWatch ,5,441,Lucas Almeida,6/4/2022,Goiás,1400,7000
+HL1918, iPhone ,1,281,Guido Monteiro,12/16/2021,Rio de Janeiro,5300,5300
+HL4379, Televisão ,2,707,Thayane Resende,8/24/2021,Porto Alegre,2500,5000
+HL1918, iPhone ,5,523,Marina Aragão,5/20/2022,Rio de Janeiro,5300,26500
+HL1918, iPhone ,2,237,Felipe Mendonça,11/19/2021,Rio de Janeiro,5300,10600
+HL1918, iPhone ,3,507,Maria Cardoso,7/3/2022,Rio de Janeiro,5300,15900
+HL2714, Tablet ,3,517,Mariana Freire,1/27/2022,Salvador,1600,4800
+HL1918, iPhone ,1,742,Vinícius Antunes,6/16/2022,São Paulo,5300,5300
+HL8851, Notebook ,4,267,Gabrielle Figueiredo,1/20/2022,São Paulo,3500,14000
+HL1918, iPhone ,3,622,Rafaela Gomes,1/17/2022,Recife,5300,15900
+HL1918, iPhone ,2,519,Mariana Sousa,9/16/2021,Rio de Janeiro,5300,10600
+HL1148, Câmera ,2,727,Vanessa Bach,1/27/2022,Curitiba,2100,4200
+HL1918, iPhone ,4,657,Rilson Dias,4/12/2022,Fortaleza,5300,21200
+HL1918, iPhone ,4,388,Julia Teixeira,7/29/2022,Goiás,5300,21200
+HL4379, Televisão ,5,236,Felipe Mello,4/3/2022,São Paulo,2500,12500
+HL1918, iPhone ,4,447,Lucas Chagas,12/22/2021,Recife,5300,21200
+HL7348, SmartWatch ,2,192,Daniela Andrada,3/19/2022,Salvador,1400,2800
+HL8851, Notebook ,1,745,Vitor Campos,3/22/2022,Porto Alegre,3500,3500
+HL4379, Televisão ,5,635,Raphael Kurtz,5/14/2022,Fortaleza,2500,12500
+HL2714, Tablet ,5,96,Breno Farias,3/12/2022,Curitiba,1600,8000
+HL4379, Televisão ,1,83,Bernardo Ribeiro,3/16/2022,Belo Horizonte,2500,2500
+HL8851, Notebook ,5,362,João Castilho,3/30/2022,Porto Alegre,3500,17500
+HL1918, iPhone ,1,290,Guilherme Rachide,4/14/2022,Belo Horizonte,5300,5300
+HL2714, Tablet ,2,235,Felipe Júnior,12/31/2021,Recife,1600,3200
+HL1918, iPhone ,1,638,Raphael Rezende,1/30/2022,São Paulo,5300,5300
+HL8851, Notebook ,4,374,João Peçanha,10/15/2021,Salvador,3500,14000
+HL2714, Tablet ,1,386,Julia Penteado,9/20/2021,Porto Alegre,1600,1600
+HL4379, Televisão ,5,725,Ulisses Filho,8/24/2021,São Paulo,2500,12500
+HL2714, Tablet ,5,677,Ruan Lopes,12/14/2021,Recife,1600,8000
+HL8851, Notebook ,3,542,Matheus Santos,5/7/2022,Rio de Janeiro,3500,10500
+HL1918, iPhone ,3,492,Luíza Melo,6/7/2022,Goiás,5300,15900
+HL7348, SmartWatch ,5,468,Luis Oliveira,9/18/2021,Recife,1400,7000
+HL9962, Android ,5,560,Myllena Corrêa,8/28/2021,Porto Alegre,3400,17000
+HL1918, iPhone ,5,4,Adriane Gomes,9/11/2021,Fortaleza,5300,26500
+HL1918, iPhone ,4,269,Gabrielle Silva,7/25/2022,Salvador,5300,21200
+HL4379, Televisão ,5,696,Tadeu Nakayama,10/2/2021,Porto Alegre,2500,12500
+HL9962, Android ,5,167,Caroline Pinto,5/26/2022,Curitiba,3400,17000
+HL1918, iPhone ,3,307,Henrique Silva,6/23/2022,Salvador,5300,15900
+HL4379, Televisão ,3,353,José Vieira,3/2/2022,São Paulo,2500,7500
+HL4379, Televisão ,4,64,Arthur Pereira,8/10/2022,Rio de Janeiro,2500,10000
+HL2714, Tablet ,1,490,Luíza Garcia,11/9/2021,São Paulo,1600,1600
+HL1148, Câmera ,5,295,Gustavo Aragão,8/8/2022,Salvador,2100,10500
+HL2714, Tablet ,5,410,Karina Camara,12/11/2021,Rio de Janeiro,1600,8000
+HL7348, SmartWatch ,1,656,Renan Ventura,1/28/2022,Porto Alegre,1400,1400
+HL1918, iPhone ,2,670,Rodrigo Silva,11/29/2021,Rio de Janeiro,5300,10600
+HL8851, Notebook ,4,438,Lorena Kohn,6/26/2022,Recife,3500,14000
+HL8851, Notebook ,3,176,Célio Xavier,4/4/2022,São Paulo,3500,10500
+HL7348, SmartWatch ,3,733,Victor Franco,6/18/2022,Curitiba,1400,4200
+HL2714, Tablet ,1,288,Guilherme Merotto,8/26/2021,São Paulo,1600,1600
+HL9962, Android ,5,723,Tiago Pereira,6/19/2022,Recife,3400,17000
+HL9962, Android ,2,347,Jorge Fonseca,12/22/2021,Rio de Janeiro,3400,6800
+HL8851, Notebook ,3,722,Thomáz Vannier,2/26/2022,São Paulo,3500,10500
+HL1918, iPhone ,1,111,Bruno Ferreira,11/21/2021,Rio de Janeiro,5300,5300
+HL2714, Tablet ,3,474,Luiz Conceição,9/30/2021,Rio de Janeiro,1600,4800
+HL1918, iPhone ,2,338,Jeferson Sone,8/5/2022,Curitiba,5300,10600
+HL4379, Televisão ,5,449,Lucas Costa,9/29/2021,São Paulo,2500,12500
+HL1918, iPhone ,4,414,Kim Ferreira,11/15/2021,Curitiba,5300,21200
+HL1918, iPhone ,1,84,Bernardo Souza,1/16/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,5,213,Débora Lopes,3/19/2022,Curitiba,5300,26500
+HL1918, iPhone ,1,518,Mariana Miranda,11/7/2021,Recife,5300,5300
+HL7348, SmartWatch ,4,629,Raissa Sales,4/1/2022,Fortaleza,1400,5600
+HL9962, Android ,2,266,Gabrielle Costa,4/8/2022,Fortaleza,3400,6800
+HL4379, Televisão ,1,595,Pedro Lyra,11/3/2021,São Paulo,2500,2500
+HL4379, Televisão ,4,222,Eduardo Vargas,9/4/2021,São Paulo,2500,10000
+HL8851, Notebook ,4,249,Gabriel Assis,6/26/2022,Rio de Janeiro,3500,14000
+HL1918, iPhone ,1,536,Matheus Delgado,11/14/2021,Rio de Janeiro,5300,5300
+HL4379, Televisão ,3,152,Carolina Bernardes,5/11/2022,Rio de Janeiro,2500,7500
+HL1918, iPhone ,3,38,Ana Leite,4/11/2022,Salvador,5300,15900
+HL1918, iPhone ,1,370,João Menezes,4/20/2022,Recife,5300,5300
+HL4379, Televisão ,3,75,Beatriz Rocha,10/21/2021,São Paulo,2500,7500
+HL9962, Android ,1,743,Vitor Arruda,2/24/2022,Belo Horizonte,3400,3400
+HL4379, Televisão ,3,334,Izabel Lopes,7/23/2022,Curitiba,2500,7500
+HL9962, Android ,3,651,Renan Cunha,7/2/2022,Salvador,3400,10200
+HL9962, Android ,5,105,Bruna Ramos,9/16/2021,Rio de Janeiro,3400,17000
+HL1148, Câmera ,2,328,Isabelle Gonçalves,3/1/2022,São Paulo,2100,4200
+HL7348, SmartWatch ,1,369,João Matheus,6/29/2022,Rio de Janeiro,1400,1400
+HL1918, iPhone ,4,292,Guilherme Seixas,10/16/2021,Rio de Janeiro,5300,21200
+HL1918, iPhone ,4,420,Larissa Jesus,8/21/2021,São Paulo,5300,21200
+HL1918, iPhone ,4,630,Ramon Araujo,7/23/2022,Rio de Janeiro,5300,21200
+HL1148, Câmera ,3,359,João Araujo,3/15/2022,Goiás,2100,6300
+HL1918, iPhone ,5,208,Diego Rodrigues,11/20/2021,Curitiba,5300,26500
+HL8851, Notebook ,4,440,Luana Santos,7/15/2022,Fortaleza,3500,14000
+HL9962, Android ,3,628,Raissa Pinheiro,9/30/2021,Rio de Janeiro,3400,10200
+HL8851, Notebook ,2,420,Larissa Jesus,6/18/2022,São Paulo,3500,7000
+HL4379, Televisão ,5,352,José Seixas,1/25/2022,Porto Alegre,2500,12500
+HL1148, Câmera ,4,103,Bruna Gomes,8/31/2021,Goiás,2100,8400
+HL9962, Android ,5,516,Mariana Barrozo,10/24/2021,Salvador,3400,17000
+HL8851, Notebook ,4,721,Thomáz Rodriguez,8/3/2022,Salvador,3500,14000
+HL1148, Câmera ,5,178,Cícero Lima,1/20/2022,Curitiba,2100,10500
+HL1918, iPhone ,2,275,Giselia Thiele,7/7/2022,Salvador,5300,10600
+HL1918, iPhone ,4,574,Paloma Sperandei,9/19/2021,Fortaleza,5300,21200
+HL4379, Televisão ,4,400,Jéssica Netto,12/10/2021,São Paulo,2500,10000
+HL1918, iPhone ,5,301,Gustavo Thome,8/9/2022,São Paulo,5300,26500
+HL2714, Tablet ,4,606,Philipe Morete,11/19/2021,Curitiba,1600,6400
+HL7348, SmartWatch ,5,288,Guilherme Merotto,9/21/2021,São Paulo,1400,7000
+HL2714, Tablet ,5,218,Eduardo Peluzo,12/23/2021,Porto Alegre,1600,8000
+HL2714, Tablet ,3,335,Izabel Miura,10/21/2021,Curitiba,1600,4800
+HL1918, iPhone ,4,623,Rafaela Gonçalves,7/28/2022,Rio de Janeiro,5300,21200
+HL1918, iPhone ,3,378,João Siqueira,10/14/2021,São Paulo,5300,15900
+HL1918, iPhone ,4,194,Daniela Rosa,4/12/2022,Belo Horizonte,5300,21200
+HL1918, iPhone ,5,687,Stefan Santos,5/30/2022,Fortaleza,5300,26500
+HL1918, iPhone ,5,192,Daniela Andrada,7/17/2022,Goiás,5300,26500
+HL1918, iPhone ,1,277,Giulia Pessanha,4/15/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,5,193,Daniela Pereira,3/8/2022,Rio de Janeiro,5300,26500
+HL2714, Tablet ,2,716,Thiago Nóbrega,11/13/2021,Fortaleza,1600,3200
+HL1918, iPhone ,3,104,Bruna Londero,6/23/2022,Recife,5300,15900
+HL9962, Android ,3,226,Eric Carvalho,10/29/2021,Rio de Janeiro,3400,10200
+HL1148, Câmera ,3,301,Gustavo Thome,4/21/2022,Recife,2100,6300
+HL4379, Televisão ,5,281,Guido Monteiro,1/7/2022,Fortaleza,2500,12500
+HL9962, Android ,5,612,Rachel Restum,6/6/2022,Porto Alegre,3400,17000
+HL8851, Notebook ,1,636,Raphael Machado,3/8/2022,Porto Alegre,3500,3500
+HL4379, Televisão ,1,424,Leandro Ferreira,9/24/2021,Salvador,2500,2500
+HL8851, Notebook ,1,286,Guilherme Lima,5/12/2022,Recife,3500,3500
+HL2714, Tablet ,3,79,Bernard Pedrosa,7/24/2022,São Paulo,1600,4800
+HL1918, iPhone ,3,376,João Rodrigues,7/11/2022,Fortaleza,5300,15900
+HL1148, Câmera ,4,660,Roberta Pimenta,10/24/2021,São Paulo,2100,8400
+HL1918, iPhone ,3,362,João Castilho,1/31/2022,Rio de Janeiro,5300,15900
+HL4379, Televisão ,1,142,Carlos Barbosa,2/20/2022,Recife,2500,2500
+HL4379, Televisão ,2,631,Raphael Coelho,6/12/2022,São Paulo,2500,5000
+HL1148, Câmera ,3,530,Marina Miranda,1/26/2022,Salvador,2100,6300
+HL4379, Televisão ,2,422,Laura Araujo,10/16/2021,Fortaleza,2500,5000
+HL1918, iPhone ,3,354,Joyce Medina,7/2/2022,Rio de Janeiro,5300,15900
+HL8851, Notebook ,5,582,Paula Cavalcanti,1/6/2022,Fortaleza,3500,17500
+HL2714, Tablet ,1,161,Carolina Silva,4/29/2022,São Paulo,1600,1600
+HL9962, Android ,4,67,Arthur Souza,10/12/2021,São Paulo,3400,13600
+HL4379, Televisão ,3,93,Breno Britto,4/5/2022,Fortaleza,2500,7500
+HL1148, Câmera ,1,5,Adrielle Forte,4/16/2022,Goiás,2100,2100
+HL1918, iPhone ,1,115,Bruno Salomão,2/3/2022,Rio de Janeiro,5300,5300
+HL1918, iPhone ,5,102,Bruna Franco,7/7/2022,Porto Alegre,5300,26500
+HL1918, iPhone ,2,446,Lucas Cavalcanti,10/5/2021,Salvador,5300,10600
+HL4379, Televisão ,2,101,Bruna Chein,4/15/2022,São Paulo,2500,5000
+HL1918, iPhone ,4,273,Giovana Vilela,1/11/2022,Fortaleza,5300,21200
+HL9962, Android ,2,420,Larissa Jesus,7/13/2022,Rio de Janeiro,3400,6800
+HL4379, Televisão ,5,95,Breno Costa,10/24/2021,Fortaleza,2500,12500
+HL9962, Android ,3,639,Raul Junqueira,6/26/2022,Fortaleza,3400,10200
+HL1918, iPhone ,5,567,Nathalia Ventura,8/12/2022,Recife,5300,26500
+HL1918, iPhone ,2,625,Rafaella Mello,8/26/2021,Fortaleza,5300,10600
+HL7348, SmartWatch ,3,267,Gabrielle Figueiredo,8/23/2021,Fortaleza,1400,4200
+HL1148, Câmera ,1,177,Cézar Santos,2/22/2022,Curitiba,2100,2100
+HL8851, Notebook ,1,550,Michelle Figueiredo,3/26/2022,Salvador,3500,3500
+HL1918, iPhone ,5,394,Juliana Huon,10/10/2021,Salvador,5300,26500
+HL8851, Notebook ,2,470,Luis Souza,6/10/2022,Curitiba,3500,7000
+HL1918, iPhone ,5,162,Carolina Siqueira,10/9/2021,Rio de Janeiro,5300,26500
+HL7348, SmartWatch ,3,560,Myllena Corrêa,8/6/2022,Salvador,1400,4200
+HL1918, iPhone ,2,195,Danilo Alves,12/17/2021,São Paulo,5300,10600
+HL1918, iPhone ,3,129,Caio Moura,1/18/2022,Fortaleza,5300,15900
+HL4379, Televisão ,2,105,Bruna Ramos,1/8/2022,São Paulo,2500,5000
+HL1918, iPhone ,1,152,Carolina Bernardes,8/25/2021,São Paulo,5300,5300
+HL4379, Televisão ,5,234,Felipe Jorge,10/18/2021,Recife,2500,12500
+HL9962, Android ,5,119,Bruno Ursulino,2/2/2022,São Paulo,3400,17000
+HL4379, Televisão ,4,5,Adrielle Forte,2/22/2022,Curitiba,2500,10000
+HL2714, Tablet ,3,206,Diego Marchesi,3/25/2022,Recife,1600,4800
+HL1148, Câmera ,4,176,Célio Xavier,3/6/2022,Curitiba,2100,8400
+HL4379, Televisão ,2,245,Fernanda Silva,5/11/2022,Porto Alegre,2500,5000
+HL7348, SmartWatch ,2,619,Rafael Wajnsztok,12/27/2021,Fortaleza,1400,2800
+HL1918, iPhone ,4,701,Thais Rodrigues,5/1/2022,Goiás,5300,21200
+HL1148, Câmera ,4,1,Adriana Carneiro,10/23/2021,Fortaleza,2100,8400
+HL7348, SmartWatch ,1,744,Vitor Boccaletti,4/6/2022,Rio de Janeiro,1400,1400
+HL4379, Televisão ,2,225,Elena Barreto,1/8/2022,Goiás,2500,5000
+HL1918, iPhone ,5,521,Mariane Racy,2/28/2022,Recife,5300,26500
+HL1918, iPhone ,3,298,Gustavo Gomes,9/17/2021,Recife,5300,15900
+HL4379, Televisão ,3,422,Laura Araujo,2/4/2022,Rio de Janeiro,2500,7500
+HL1918, iPhone ,5,544,Matheus Silva,9/7/2021,Recife,5300,26500
+HL7348, SmartWatch ,5,280,Glenda Santos,2/15/2022,São Paulo,1400,7000
+HL1918, iPhone ,3,576,Patrick Silva,10/30/2021,Fortaleza,5300,15900
+HL8851, Notebook ,1,94,Breno Caputo,1/17/2022,Rio de Janeiro,3500,3500
+HL7348, SmartWatch ,2,593,Pedro Ferrari,8/23/2021,São Paulo,1400,2800
+HL1918, iPhone ,3,240,Fernanda Coutinho,7/6/2022,Rio de Janeiro,5300,15900
+HL1918, iPhone ,3,541,Matheus Ramos,11/15/2021,Salvador,5300,15900
+HL4379, Televisão ,4,465,Lucas Villanova,3/27/2022,Salvador,2500,10000
+HL1918, iPhone ,3,458,Lucas Machado,1/24/2022,Fortaleza,5300,15900
+HL7348, SmartWatch ,1,490,Luíza Garcia,12/4/2021,Salvador,1400,1400
+HL8851, Notebook ,3,169,Cassio Faria,1/9/2022,São Paulo,3500,10500
+HL9962, Android ,4,298,Gustavo Gomes,6/29/2022,Rio de Janeiro,3400,13600
+HL1148, Câmera ,1,173,Clara Silveira,3/27/2022,Fortaleza,2100,2100
+HL1918, iPhone ,5,51,Andressa Nóbrega,6/17/2022,São Paulo,5300,26500
+HL8851, Notebook ,3,528,Marina Marins,11/18/2021,Goiás,3500,10500
+HL4379, Televisão ,2,526,Marina Delgado,4/22/2022,São Paulo,2500,5000
+HL1918, iPhone ,5,473,Luiz Campista,2/25/2022,Goiás,5300,26500
+HL9962, Android ,2,294,Gustavo Accardo,2/17/2022,Belo Horizonte,3400,6800
+HL1148, Câmera ,3,698,Tainah Nogueira,8/2/2022,Rio de Janeiro,2100,6300
+HL2714, Tablet ,1,409,Júlio Freire,1/22/2022,Fortaleza,1600,1600
+HL9962, Android ,1,441,Lucas Almeida,9/14/2021,São Paulo,3400,3400
+HL1918, iPhone ,3,412,Katharina Barros,7/1/2022,Salvador,5300,15900
+HL7348, SmartWatch ,3,126,Caio Fernandes,5/16/2022,Recife,1400,4200
+HL4379, Televisão ,2,561,Mônica Rotolo,9/23/2021,Porto Alegre,2500,5000
+HL1918, iPhone ,2,567,Nathalia Ventura,3/24/2022,Curitiba,5300,10600
+HL1918, iPhone ,2,276,Giulia Lopes,1/14/2022,Fortaleza,5300,10600
+HL1918, iPhone ,2,598,Pedro Oliveira,4/28/2022,Fortaleza,5300,10600
+HL9962, Android ,2,656,Renan Ventura,3/24/2022,Porto Alegre,3400,6800
+HL1918, iPhone ,2,314,Igor Azevedo,12/24/2021,São Paulo,5300,10600
+HL1148, Câmera ,3,31,Ana Campos,9/17/2021,São Paulo,2100,6300
+HL1148, Câmera ,3,376,João Rodrigues,3/14/2022,Porto Alegre,2100,6300
+HL4379, Televisão ,2,75,Beatriz Rocha,12/15/2021,Porto Alegre,2500,5000
+HL1918, iPhone ,3,423,Laís Oliveira,2/14/2022,Rio de Janeiro,5300,15900
+HL1148, Câmera ,1,165,Caroline Cavalcanti,2/12/2022,Recife,2100,2100
+HL4379, Televisão ,5,463,Lucas Rodrigues,6/21/2022,Curitiba,2500,12500
+HL1918, iPhone ,4,373,João Pedrazza,6/2/2022,Goiás,5300,21200
+HL4379, Televisão ,1,481,Luiza Cavalcanti,4/2/2022,Porto Alegre,2500,2500
+HL1918, iPhone ,1,634,Raphael Guedes,8/15/2021,São Paulo,5300,5300
+HL8851, Notebook ,3,85,Bianca Allevato,9/12/2021,Recife,3500,10500
+HL1918, iPhone ,2,225,Elena Barreto,5/21/2022,Fortaleza,5300,10600
+HL1148, Câmera ,1,3,Adriane Chagas,7/16/2022,Fortaleza,2100,2100
+HL1918, iPhone ,4,608,Priscila Carvalho,5/29/2022,Curitiba,5300,21200
+HL4379, Televisão ,1,327,Isabelle Firmino,6/15/2022,Rio de Janeiro,2500,2500
+HL7348, SmartWatch ,3,303,Helena Chafin,11/22/2021,Curitiba,1400,4200
+HL9962, Android ,4,484,Luiza Marques,8/27/2021,Fortaleza,3400,13600
+HL2714, Tablet ,2,585,Pedro Ayres,6/12/2022,São Paulo,1600,3200
+HL8851, Notebook ,2,57,Anna Silva,9/17/2021,Fortaleza,3500,7000
+HL4379, Televisão ,4,435,Livia Corrêa,2/12/2022,Salvador,2500,10000
+HL4379, Televisão ,3,345,Jonatas Passos,7/30/2022,Salvador,2500,7500
+HL7348, SmartWatch ,5,182,Daniel Araujo,6/1/2022,Rio de Janeiro,1400,7000
+HL7348, SmartWatch ,3,140,Carlos Assis,8/13/2021,Rio de Janeiro,1400,4200
+HL7348, SmartWatch ,4,94,Breno Caputo,4/15/2022,Belo Horizonte,1400,5600
+HL7348, SmartWatch ,2,56,Anna Maia,4/4/2022,Curitiba,1400,2800
+HL1918, iPhone ,4,295,Gustavo Aragão,11/12/2021,São Paulo,5300,21200
+HL1148, Câmera ,4,204,Deysiane Medronho,1/17/2022,Goiás,2100,8400
+HL4379, Televisão ,1,228,Erick Soares,1/12/2022,São Paulo,2500,2500
+HL8851, Notebook ,3,753,Wendela Mariz,11/26/2021,São Paulo,3500,10500
+HL9962, Android ,3,430,Leticia Mesquita,4/29/2022,São Paulo,3400,10200
+HL2714, Tablet ,2,89,Bianca Procaci,2/12/2022,Fortaleza,1600,3200
+HL7348, SmartWatch ,2,172,Clara Bruno,10/29/2021,Fortaleza,1400,2800
+HL1918, iPhone ,4,677,Ruan Lopes,4/27/2022,São Paulo,5300,21200
+HL7348, SmartWatch ,1,347,Jorge Fonseca,8/17/2021,Fortaleza,1400,1400
+HL1918, iPhone ,4,760,Wilson Miranda,3/15/2022,Rio de Janeiro,5300,21200
+HL7348, SmartWatch ,3,216,Eduardo Nunes,10/5/2021,Porto Alegre,1400,4200
+HL1148, Câmera ,4,734,Victor Gomes,3/25/2022,Recife,2100,8400
+HL8851, Notebook ,2,735,Victor Lira,5/22/2022,Recife,3500,7000
+HL4379, Televisão ,1,752,Wen Santos,7/2/2022,Curitiba,2500,2500
+HL1918, iPhone ,2,363,João Costa,7/22/2022,Fortaleza,5300,10600
+HL1918, iPhone ,5,204,Deysiane Medronho,3/18/2022,São Paulo,5300,26500
+HL7348, SmartWatch ,1,573,Norman Jimbo,7/18/2022,Belo Horizonte,1400,1400
+HL4379, Televisão ,1,79,Bernard Pedrosa,6/21/2022,São Paulo,2500,2500
+HL7348, SmartWatch ,5,363,João Costa,6/26/2022,Rio de Janeiro,1400,7000
+HL1918, iPhone ,1,136,Camilla Vieira,12/29/2021,Fortaleza,5300,5300
+HL7348, SmartWatch ,2,285,Guilherme Jordao,9/29/2021,Fortaleza,1400,2800
+HL4379, Televisão ,5,645,Raíssa Oliveira,9/7/2021,Fortaleza,2500,12500
+HL1918, iPhone ,1,638,Raphael Rezende,12/24/2021,Salvador,5300,5300
+HL8851, Notebook ,3,762,Yasmim Bittencourt,6/13/2022,Belo Horizonte,3500,10500
+HL1918, iPhone ,5,415,Kimberly Sad,10/3/2021,Goiás,5300,26500
+HL4379, Televisão ,2,249,Gabriel Assis,10/21/2021,Salvador,2500,5000
+HL4379, Televisão ,3,147,Carlos Portela,9/2/2021,Curitiba,2500,7500
+HL1918, iPhone ,3,734,Victor Gomes,7/6/2022,Recife,5300,15900
+HL1918, iPhone ,2,342,Joao Silva,2/21/2022,Fortaleza,5300,10600
+HL4379, Televisão ,2,244,Fernanda Rubim,5/12/2022,São Paulo,2500,5000
+HL4379, Televisão ,4,202,Desirée Heimlich,1/11/2022,São Paulo,2500,10000
+HL8851, Notebook ,1,534,Mateus Polastri,9/30/2021,Fortaleza,3500,3500
+HL8851, Notebook ,2,150,Carolina Abrahão,4/21/2022,Rio de Janeiro,3500,7000
+HL4379, Televisão ,3,213,Débora Lopes,1/16/2022,Rio de Janeiro,2500,7500
+HL2714, Tablet ,5,447,Lucas Chagas,3/19/2022,Recife,1600,8000
+HL1918, iPhone ,4,530,Marina Miranda,11/26/2021,São Paulo,5300,21200
+HL2714, Tablet ,3,538,Matheus Gomes,3/16/2022,Porto Alegre,1600,4800
+HL2714, Tablet ,2,430,Leticia Mesquita,12/29/2021,Fortaleza,1600,3200
+HL7348, SmartWatch ,4,28,Amanda Roberto,3/30/2022,Porto Alegre,1400,5600
+HL1918, iPhone ,1,63,Arthur Fernandes,1/22/2022,Goiás,5300,5300
+HL7348, SmartWatch ,4,261,Gabriel Thoni,5/16/2022,Salvador,1400,5600
+HL4379, Televisão ,5,545,Matheus Souza,5/8/2022,Porto Alegre,2500,12500
+HL7348, SmartWatch ,1,317,Isabel Leite,7/9/2022,Goiás,1400,1400
+HL9962, Android ,2,699,Tayla Lima,7/29/2022,Rio de Janeiro,3400,6800
+HL1918, iPhone ,5,254,Gabriel Puntel,4/13/2022,Rio de Janeiro,5300,26500
+HL8851, Notebook ,1,139,Carlos Araujo,12/29/2021,Recife,3500,3500
+HL9962, Android ,4,436,Livia Cozendey,7/4/2022,São Paulo,3400,13600
+HL1148, Câmera ,3,195,Danilo Alves,12/6/2021,Rio de Janeiro,2100,6300
+HL1148, Câmera ,3,85,Bianca Allevato,10/9/2021,Recife,2100,6300
+HL2714, Tablet ,5,381,Juan Fernandes,12/31/2021,Goiás,1600,8000
+HL9962, Android ,4,375,João Ribeiro,7/12/2022,Goiás,3400,13600
+HL1148, Câmera ,2,467,Luis Garcia,2/9/2022,Recife,2100,4200
+HL1918, iPhone ,3,544,Matheus Silva,1/12/2022,Salvador,5300,15900
+HL4379, Televisão ,5,159,Carolina Rocha,9/19/2021,Rio de Janeiro,2500,12500
+HL8851, Notebook ,5,616,Rafael Portela,11/13/2021,São Paulo,3500,17500
+HL4379, Televisão ,4,133,Camila Sobral,10/2/2021,Rio de Janeiro,2500,10000
+HL1148, Câmera ,1,260,Gabriel Thome,6/29/2022,Salvador,2100,2100
+HL2714, Tablet ,3,351,José Marques,11/18/2021,São Paulo,1600,4800
+HL1918, iPhone ,5,264,Gabriela Mello,9/27/2021,Salvador,5300,26500
+HL1918, iPhone ,3,261,Gabriel Thoni,10/18/2021,São Paulo,5300,15900
+HL1918, iPhone ,3,643,Raísa Rodrigues,3/18/2022,São Paulo,5300,15900
+HL1918, iPhone ,2,387,Julia Silva,5/6/2022,Recife,5300,10600
+HL1918, iPhone ,5,257,Gabriel Rubim,3/6/2022,Curitiba,5300,26500
+HL1918, iPhone ,2,76,Beatriz Rodrigues,8/25/2021,Rio de Janeiro,5300,10600
+HL8851, Notebook ,4,312,Hércules Moreira,5/28/2022,Goiás,3500,14000
+HL4379, Televisão ,1,677,Ruan Lopes,4/17/2022,São Paulo,2500,2500
+HL9962, Android ,4,573,Norman Jimbo,9/20/2021,São Paulo,3400,13600
+HL9962, Android ,1,360,João Bach,3/8/2022,Fortaleza,3400,3400
+HL1148, Câmera ,5,295,Gustavo Aragão,5/19/2022,Fortaleza,2100,10500
+HL7348, SmartWatch ,4,719,Thomaz Ferreira,10/30/2021,São Paulo,1400,5600
+HL1918, iPhone ,3,696,Tadeu Nakayama,7/16/2022,Porto Alegre,5300,15900
+HL1148, Câmera ,2,296,Gustavo Azevedo,2/15/2022,São Paulo,2100,4200
+HL4379, Televisão ,4,362,João Castilho,6/20/2022,São Paulo,2500,10000
+HL1918, iPhone ,4,588,Pedro Cardoso,12/1/2021,Fortaleza,5300,21200
+HL8851, Notebook ,5,53,Andreza Ramos,8/14/2021,Belo Horizonte,3500,17500
+HL9962, Android ,4,333,Ives Teixeira,5/5/2022,São Paulo,3400,13600
+HL8851, Notebook ,5,150,Carolina Abrahão,6/29/2022,São Paulo,3500,17500
+HL1148, Câmera ,1,506,Marcos Nucci,6/12/2022,Rio de Janeiro,2100,2100
+HL7348, SmartWatch ,3,480,Luiza Cabral,12/9/2021,Belo Horizonte,1400,4200
+HL7348, SmartWatch ,3,409,Júlio Freire,9/9/2021,Curitiba,1400,4200
+HL1918, iPhone ,5,510,Maria Gasperi,12/25/2021,Rio de Janeiro,5300,26500
+HL1918, iPhone ,2,57,Anna Silva,2/16/2022,São Paulo,5300,10600
+HL2714, Tablet ,5,274,Giovanna Santos,9/22/2021,Porto Alegre,1600,8000
+HL8851, Notebook ,1,343,Jonas Gomes,10/14/2021,Salvador,3500,3500
+HL4379, Televisão ,4,173,Clara Silveira,7/17/2022,Recife,2500,10000
+HL4379, Televisão ,1,605,Pedro Xavier,8/19/2021,São Paulo,2500,2500
+HL7348, SmartWatch ,2,178,Cícero Lima,6/28/2022,Curitiba,1400,2800
+HL1918, iPhone ,1,408,Júlio Fraga,2/5/2022,Fortaleza,5300,5300
+HL1918, iPhone ,2,43,Ana Soledade,10/9/2021,Salvador,5300,10600
+HL9962, Android ,1,731,Victor Ferreira,11/21/2021,Goiás,3400,3400
+HL1918, iPhone ,1,611,Priscila Vogel,2/8/2022,Porto Alegre,5300,5300
+HL9962, Android ,3,551,Michelle Miura,3/14/2022,Salvador,3400,10200
+HL1918, iPhone ,5,124,Caio Caldas,10/5/2021,Salvador,5300,26500
+HL4379, Televisão ,2,388,Julia Teixeira,3/6/2022,Salvador,2500,5000
+HL7348, SmartWatch ,5,266,Gabrielle Costa,1/17/2022,Rio de Janeiro,1400,7000
+HL8851, Notebook ,4,180,Dandara Reis,12/5/2021,Rio de Janeiro,3500,14000
+HL1918, iPhone ,3,678,Rubens Netto,4/24/2022,Rio de Janeiro,5300,15900
+HL1918, iPhone ,5,530,Marina Miranda,12/22/2021,Belo Horizonte,5300,26500
+HL1148, Câmera ,2,538,Matheus Gomes,10/1/2021,São Paulo,2100,4200
+HL9962, Android ,3,134,Camilla Cardeman,5/30/2022,São Paulo,3400,10200
+HL8851, Notebook ,5,369,João Matheus,1/24/2022,Salvador,3500,17500
+HL1918, iPhone ,5,544,Matheus Silva,11/23/2021,São Paulo,5300,26500
+HL1918, iPhone ,3,125,Caio Cardoso,4/26/2022,Rio de Janeiro,5300,15900
+HL9962, Android ,5,211,Douglas Rodrigues,8/14/2021,Belo Horizonte,3400,17000
+HL9962, Android ,2,684,Silvio Fahrnholz,3/19/2022,Goiás,3400,6800
+HL2714, Tablet ,1,743,Vitor Arruda,4/21/2022,Fortaleza,1600,1600
+HL1918, iPhone ,1,684,Silvio Fahrnholz,11/23/2021,Salvador,5300,5300
+HL1918, iPhone ,5,598,Pedro Oliveira,4/10/2022,Belo Horizonte,5300,26500
+HL9962, Android ,5,420,Larissa Jesus,9/5/2021,Goiás,3400,17000
+HL2714, Tablet ,4,230,Fabio Ramos,5/22/2022,Recife,1600,6400
+HL7348, SmartWatch ,3,613,Rachel Silva,8/12/2022,São Paulo,1400,4200
+HL8851, Notebook ,5,474,Luiz Conceição,3/13/2022,Recife,3500,17500
+HL1918, iPhone ,4,392,Juliana Guimarães,7/29/2022,São Paulo,5300,21200
+HL1148, Câmera ,4,726,Ulisses Quinto,7/2/2022,Fortaleza,2100,8400
+HL1918, iPhone ,4,415,Kimberly Sad,5/22/2022,Curitiba,5300,21200
+HL1918, iPhone ,5,186,Daniel Monteiro,5/31/2022,Recife,5300,26500
+HL2714, Tablet ,1,601,Pedro Ronfini,3/11/2022,Porto Alegre,1600,1600
+HL1918, iPhone ,2,554,Milena Alcoforado,7/17/2022,Salvador,5300,10600
+HL1918, iPhone ,3,293,Guilherme Vianna,11/4/2021,Curitiba,5300,15900
+HL8851, Notebook ,2,72,Beatriz Cavalcanti,4/18/2022,Fortaleza,3500,7000
+HL1918, iPhone ,4,591,Pedro Dalforne,1/27/2022,Porto Alegre,5300,21200
+HL9962, Android ,4,43,Ana Soledade,2/7/2022,Recife,3400,13600
+HL2714, Tablet ,1,306,Henrique Oliveira,3/25/2022,Goiás,1600,1600
+HL1148, Câmera ,2,556,Milena Pereira,12/22/2021,Rio de Janeiro,2100,4200
+HL7348, SmartWatch ,3,132,Camila Bastazini,6/13/2022,São Paulo,1400,4200
+HL4379, Televisão ,3,113,Bruno Mota,10/19/2021,Porto Alegre,2500,7500
+HL1918, iPhone ,2,384,Julia Leig,7/2/2022,Rio de Janeiro,5300,10600
+HL8851, Notebook ,1,520,Mariane Ferreira,4/4/2022,Fortaleza,3500,3500
+HL2714, Tablet ,2,127,Caio Ferreira,11/15/2021,Belo Horizonte,1600,3200
+HL1148, Câmera ,3,128,Caio Moraes,12/18/2021,Porto Alegre,2100,6300
+HL4379, Televisão ,2,591,Pedro Dalforne,9/27/2021,Rio de Janeiro,2500,5000
+HL1918, iPhone ,5,531,Marina Perdomo,10/25/2021,Salvador,5300,26500
+HL1918, iPhone ,1,345,Jonatas Passos,1/20/2022,Curitiba,5300,5300
+HL1148, Câmera ,1,183,Daniel Cardoso,6/10/2022,Salvador,2100,2100
+HL7348, SmartWatch ,3,457,Lucas Lima,8/14/2021,São Paulo,1400,4200
+HL1918, iPhone ,1,239,Fernanda Bhering,5/12/2022,Salvador,5300,5300
+HL1918, iPhone ,3,374,João Peçanha,8/31/2021,Curitiba,5300,15900
+HL7348, SmartWatch ,2,2,Adriana Passos,9/30/2021,São Paulo,1400,2800
+HL1148, Câmera ,3,350,José Jesus,12/5/2021,Goiás,2100,6300
+HL1918, iPhone ,3,602,Pedro Santana,11/3/2021,Salvador,5300,15900
+HL2714, Tablet ,2,161,Carolina Silva,5/14/2022,Rio de Janeiro,1600,3200
+HL4379, Televisão ,2,333,Ives Teixeira,4/20/2022,Rio de Janeiro,2500,5000
+HL1918, iPhone ,4,34,Ana Fioretti,1/23/2022,Salvador,5300,21200
+HL1918, iPhone ,1,598,Pedro Oliveira,6/15/2022,São Paulo,5300,5300
+HL1918, iPhone ,5,694,Sthefeson Pereira,6/12/2022,Recife,5300,26500
+HL1918, iPhone ,3,298,Gustavo Gomes,8/12/2022,Curitiba,5300,15900
+HL2714, Tablet ,1,667,Rodrigo Feijo,1/5/2022,Recife,1600,1600
+HL1918, iPhone ,4,214,Eduardo Ferreira,5/10/2022,Rio de Janeiro,5300,21200
+HL8851, Notebook ,2,95,Breno Costa,3/25/2022,Recife,3500,7000
+HL8851, Notebook ,4,640,Raul Silveira,10/11/2021,Belo Horizonte,3500,14000
+HL2714, Tablet ,4,486,Luiza Ribeiro,7/17/2022,Belo Horizonte,1600,6400
+HL4379, Televisão ,3,463,Lucas Rodrigues,8/8/2022,Rio de Janeiro,2500,7500
+HL1918, iPhone ,3,324,Isabella Rodrigues,10/31/2021,Goiás,5300,15900
+HL1918, iPhone ,1,586,Pedro Bitencourt,6/26/2022,Recife,5300,5300
+HL1918, iPhone ,4,646,Raíssa Oros,3/10/2022,Salvador,5300,21200
+HL4379, Televisão ,4,195,Danilo Alves,9/2/2021,Salvador,2500,10000
+HL7348, SmartWatch ,1,220,Eduardo Silva,12/8/2021,São Paulo,1400,1400
+HL2714, Tablet ,1,437,Lorena Carvalho,1/3/2022,Fortaleza,1600,1600
+HL1918, iPhone ,4,404,Jônatas Castro,4/1/2022,Belo Horizonte,5300,21200
+HL8851, Notebook ,2,94,Breno Caputo,6/25/2022,Rio de Janeiro,3500,7000
+HL7348, SmartWatch ,1,470,Luis Souza,1/18/2022,São Paulo,1400,1400
+HL1918, iPhone ,4,345,Jonatas Passos,6/21/2022,São Paulo,5300,21200
+HL1918, iPhone ,3,157,Carolina Motta,2/6/2022,Porto Alegre,5300,15900
+HL9962, Android ,1,206,Diego Marchesi,5/2/2022,São Paulo,3400,3400
+HL1148, Câmera ,3,253,Gabriel Pereira,1/14/2022,Goiás,2100,6300
+HL1918, iPhone ,3,143,Carlos Cardoso,7/4/2022,Rio de Janeiro,5300,15900
+HL4379, Televisão ,1,535,Matheus Afonso,1/23/2022,Fortaleza,2500,2500
+HL2714, Tablet ,5,341,Joao Pereira,8/20/2021,São Paulo,1600,8000
+HL8851, Notebook ,1,517,Mariana Freire,11/8/2021,São Paulo,3500,3500
+HL8851, Notebook ,4,78,Beatriz Silva,5/2/2022,São Paulo,3500,14000
+HL1918, iPhone ,4,96,Breno Farias,8/3/2022,São Paulo,5300,21200
+HL1918, iPhone ,1,144,Carlos Galvão,9/8/2021,São Paulo,5300,5300
+HL8851, Notebook ,1,133,Camila Sobral,1/17/2022,Belo Horizonte,3500,3500
+HL4379, Televisão ,2,464,Lucas Valim,9/24/2021,Porto Alegre,2500,5000

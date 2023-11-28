@@ -1,0 +1,593 @@
+SKU,Quantidade Devolvida,ID Vendedor,Data devolucao,Filial,Motivo
+HL1148,2,516,27/11/2021,São Paulo,Avaria
+HL7348,1,482,31/03/2022,Salvador,Avaria
+HL1918,1,617,20/01/2022,Salvador,Divergencia
+HL4379,3,413,10/05/2022,São Paulo,Desistencia
+HL9962,3,502,09/07/2022,São Paulo,Avaria
+HL1148,3,159,18/04/2022,Rio de Janeiro,Divergencia
+HL9962,1,273,19/02/2022,Porto Alegre,Desistencia
+HL1918,1,335,28/03/2022,Goiás,Avaria
+HL2714,1,457,04/02/2022,São Paulo,Divergencia
+HL2714,2,528,04/06/2022,São Paulo,Desistencia
+HL2714,1,332,26/12/2021,Fortaleza,Desistencia
+HL1918,1,675,03/09/2022,Goiás,Avaria
+HL1148,2,310,23/02/2022,Salvador,Avaria
+HL1918,2,539,29/04/2022,Fortaleza,Divergencia
+HL1918,3,613,08/11/2021,Curitiba,Desistencia
+HL1148,3,137,13/06/2022,São Paulo,Avaria
+HL1918,1,86,06/03/2022,Curitiba,Divergencia
+HL4379,1,658,23/11/2021,Salvador,Desistencia
+HL1918,2,537,23/07/2022,Salvador,Avaria
+HL1918,1,87,18/05/2022,São Paulo,Divergencia
+HL4379,2,177,07/01/2022,Fortaleza,Desistencia
+HL9962,3,759,24/02/2022,Salvador,Avaria
+HL8851,2,449,03/12/2021,Fortaleza,Divergencia
+HL7348,2,85,26/08/2022,Salvador,Desistencia
+HL1148,3,603,19/02/2022,Belo Horizonte,Avaria
+HL4379,1,727,21/04/2022,São Paulo,Divergencia
+HL7348,1,433,09/09/2021,Salvador,Desistencia
+HL4379,1,119,22/06/2022,Salvador,Avaria
+HL1918,2,92,18/12/2021,Rio de Janeiro,Divergencia
+HL1918,1,275,08/02/2022,São Paulo,Desistencia
+HL1148,1,259,20/01/2022,Salvador,Avaria
+HL2714,1,650,03/04/2022,Recife,Divergencia
+HL2714,1,663,01/02/2022,São Paulo,Desistencia
+HL4379,1,502,02/02/2022,Rio de Janeiro,Avaria
+HL2714,1,327,19/10/2021,Rio de Janeiro,Divergencia
+HL1918,1,397,07/11/2021,Fortaleza,Desistencia
+HL1918,1,326,06/12/2021,Belo Horizonte,Avaria
+HL8851,1,47,08/07/2022,Recife,Divergencia
+HL8851,1,207,01/04/2022,Salvador,Desistencia
+HL9962,1,566,20/06/2022,Fortaleza,Avaria
+HL4379,1,376,24/07/2022,Salvador,Divergencia
+HL8851,1,718,21/01/2022,São Paulo,Desistencia
+HL1918,1,289,19/11/2021,Belo Horizonte,Avaria
+HL1918,2,37,25/06/2022,Porto Alegre,Divergencia
+HL4379,1,707,03/01/2022,São Paulo,Desistencia
+HL1918,1,451,31/10/2021,São Paulo,Avaria
+HL1148,1,221,12/01/2022,Rio de Janeiro,Divergencia
+HL1918,1,236,13/04/2022,Goiás,Desistencia
+HL4379,3,486,21/08/2022,São Paulo,Avaria
+HL7348,1,699,30/04/2022,Rio de Janeiro,Divergencia
+HL1918,3,575,31/07/2022,Recife,Desistencia
+HL1918,1,357,29/04/2022,Rio de Janeiro,Avaria
+HL2714,1,154,07/11/2021,Rio de Janeiro,Divergencia
+HL1918,1,281,01/10/2021,São Paulo,Desistencia
+HL1918,3,434,11/04/2022,Rio de Janeiro,Avaria
+HL1918,1,470,03/01/2022,São Paulo,Divergencia
+HL1148,1,58,31/08/2022,Curitiba,Desistencia
+HL9962,1,312,17/12/2021,Fortaleza,Avaria
+HL1918,1,289,20/12/2021,Goiás,Divergencia
+HL7348,1,516,16/09/2021,São Paulo,Desistencia
+HL1148,1,764,18/06/2022,Salvador,Avaria
+HL8851,1,459,26/08/2022,Curitiba,Divergencia
+HL1918,1,639,09/07/2022,Fortaleza,Desistencia
+HL1918,1,728,19/03/2022,Curitiba,Avaria
+HL2714,3,86,06/08/2022,São Paulo,Divergencia
+HL1918,1,217,29/07/2022,Curitiba,Desistencia
+HL1918,1,712,26/03/2022,São Paulo,Avaria
+HL4379,1,607,07/02/2022,Rio de Janeiro,Divergencia
+HL1148,1,264,15/05/2022,Fortaleza,Desistencia
+HL1918,3,108,25/10/2021,Salvador,Avaria
+HL1148,3,506,29/12/2021,São Paulo,Divergencia
+HL2714,1,712,20/02/2022,Goiás,Desistencia
+HL2714,3,370,01/03/2022,Recife,Avaria
+HL1148,1,432,24/08/2022,Rio de Janeiro,Divergencia
+HL1918,2,274,03/06/2022,Fortaleza,Desistencia
+HL4379,1,336,13/07/2022,São Paulo,Avaria
+HL1918,1,22,09/09/2021,Porto Alegre,Divergencia
+HL2714,2,210,28/04/2022,São Paulo,Desistencia
+HL8851,1,460,28/10/2021,Goiás,Avaria
+HL4379,2,533,30/12/2021,Goiás,Divergencia
+HL7348,1,114,04/06/2022,Salvador,Desistencia
+HL4379,1,345,07/06/2022,Fortaleza,Avaria
+HL2714,2,151,16/12/2021,Curitiba,Divergencia
+HL2714,1,699,08/02/2022,Fortaleza,Desistencia
+HL1148,1,574,10/08/2022,Porto Alegre,Avaria
+HL1148,1,725,05/07/2022,Porto Alegre,Divergencia
+HL1148,2,306,09/01/2022,São Paulo,Desistencia
+HL4379,1,197,05/09/2022,Belo Horizonte,Avaria
+HL1148,1,14,31/05/2022,Rio de Janeiro,Divergencia
+HL4379,1,145,19/08/2022,Curitiba,Desistencia
+HL4379,2,680,01/09/2022,Rio de Janeiro,Avaria
+HL1918,1,79,01/06/2022,Recife,Divergencia
+HL9962,1,720,06/03/2022,Salvador,Desistencia
+HL1918,1,678,01/06/2022,Fortaleza,Avaria
+HL7348,1,122,22/04/2022,Recife,Divergencia
+HL4379,1,502,01/10/2021,Fortaleza,Desistencia
+HL4379,1,1,28/11/2021,Rio de Janeiro,Avaria
+HL2714,1,230,16/03/2022,Rio de Janeiro,Divergencia
+HL1918,2,451,21/05/2022,Salvador,Desistencia
+HL4379,1,412,02/09/2022,Rio de Janeiro,Avaria
+HL4379,2,660,23/08/2022,Rio de Janeiro,Divergencia
+HL1148,1,130,08/09/2021,Rio de Janeiro,Desistencia
+HL8851,1,270,07/11/2021,Rio de Janeiro,Avaria
+HL7348,1,177,18/11/2021,Fortaleza,Divergencia
+HL1918,2,548,06/08/2022,Curitiba,Desistencia
+HL1918,1,42,15/01/2022,São Paulo,Avaria
+HL4379,3,10,01/07/2022,Porto Alegre,Divergencia
+HL4379,2,43,03/12/2021,Recife,Desistencia
+HL1148,1,734,12/07/2022,Belo Horizonte,Avaria
+HL7348,1,692,15/09/2021,Curitiba,Divergencia
+HL8851,1,64,29/06/2022,Goiás,Desistencia
+HL7348,1,73,12/12/2021,São Paulo,Avaria
+HL2714,3,370,18/01/2022,Curitiba,Divergencia
+HL9962,2,43,04/05/2022,São Paulo,Desistencia
+HL9962,1,224,09/12/2021,Goiás,Avaria
+HL1918,1,79,11/10/2021,Belo Horizonte,Divergencia
+HL4379,2,113,02/04/2022,São Paulo,Desistencia
+HL9962,1,497,10/01/2022,São Paulo,Avaria
+HL2714,2,127,26/12/2021,Fortaleza,Divergencia
+HL4379,1,286,06/07/2022,Fortaleza,Desistencia
+HL1918,1,671,28/05/2022,Salvador,Avaria
+HL9962,1,48,25/11/2021,Salvador,Divergencia
+HL1918,1,459,06/07/2022,Fortaleza,Desistencia
+HL8851,1,293,28/04/2022,Rio de Janeiro,Avaria
+HL1918,1,445,28/01/2022,São Paulo,Divergencia
+HL8851,2,418,14/05/2022,Recife,Desistencia
+HL9962,2,635,14/05/2022,São Paulo,Avaria
+HL4379,1,604,17/06/2022,Rio de Janeiro,Divergencia
+HL7348,1,71,16/08/2022,Goiás,Desistencia
+HL4379,1,10,22/09/2021,Porto Alegre,Avaria
+HL2714,1,456,07/07/2022,Belo Horizonte,Divergencia
+HL1918,1,664,02/04/2022,São Paulo,Desistencia
+HL1918,1,141,06/07/2022,Salvador,Avaria
+HL7348,2,507,22/09/2021,São Paulo,Divergencia
+HL1918,3,657,29/06/2022,Fortaleza,Desistencia
+HL2714,1,103,06/12/2021,Porto Alegre,Avaria
+HL8851,1,745,30/08/2022,Fortaleza,Divergencia
+HL4379,2,198,31/07/2022,Goiás,Desistencia
+HL1918,3,172,08/02/2022,Fortaleza,Avaria
+HL2714,1,608,09/06/2022,São Paulo,Divergencia
+HL8851,1,298,13/08/2022,São Paulo,Desistencia
+HL1918,1,249,18/05/2022,São Paulo,Avaria
+HL4379,2,449,24/04/2022,Salvador,Divergencia
+HL1918,3,67,16/11/2021,Porto Alegre,Desistencia
+HL4379,1,251,08/01/2022,Rio de Janeiro,Avaria
+HL8851,3,653,31/05/2022,Curitiba,Divergencia
+HL2714,1,623,16/11/2021,Salvador,Desistencia
+HL4379,1,335,12/05/2022,Rio de Janeiro,Avaria
+HL4379,2,475,26/09/2021,Rio de Janeiro,Divergencia
+HL7348,1,569,11/10/2021,São Paulo,Desistencia
+HL1918,1,527,20/06/2022,Goiás,Avaria
+HL1148,3,138,24/10/2021,Recife,Divergencia
+HL1918,3,523,13/06/2022,Fortaleza,Desistencia
+HL1918,2,135,11/11/2021,Rio de Janeiro,Avaria
+HL7348,1,11,28/06/2022,Fortaleza,Divergencia
+HL9962,2,354,06/03/2022,Salvador,Desistencia
+HL7348,1,361,06/09/2022,Curitiba,Avaria
+HL1918,1,669,21/09/2021,Fortaleza,Divergencia
+HL1918,3,689,23/03/2022,Rio de Janeiro,Desistencia
+HL1918,1,697,08/09/2021,São Paulo,Avaria
+HL2714,1,121,10/10/2021,Porto Alegre,Divergencia
+HL2714,1,488,27/02/2022,Belo Horizonte,Desistencia
+HL1148,1,92,07/06/2022,São Paulo,Avaria
+HL1918,3,571,21/05/2022,Goiás,Divergencia
+HL1148,1,254,17/04/2022,São Paulo,Desistencia
+HL9962,2,679,16/03/2022,São Paulo,Avaria
+HL1918,1,723,27/11/2021,São Paulo,Divergencia
+HL1918,1,128,16/11/2021,Fortaleza,Desistencia
+HL1918,3,155,06/03/2022,Curitiba,Avaria
+HL4379,3,358,01/03/2022,Curitiba,Divergencia
+HL9962,3,665,28/03/2022,São Paulo,Desistencia
+HL9962,3,631,07/04/2022,São Paulo,Avaria
+HL9962,2,612,24/12/2021,Rio de Janeiro,Divergencia
+HL4379,1,354,30/10/2021,Salvador,Desistencia
+HL9962,2,344,08/04/2022,Fortaleza,Avaria
+HL1918,3,258,22/09/2021,Curitiba,Divergencia
+HL1918,3,216,25/04/2022,Fortaleza,Desistencia
+HL2714,2,629,30/05/2022,Goiás,Avaria
+HL1918,1,679,10/09/2021,Fortaleza,Divergencia
+HL7348,1,749,21/08/2022,Goiás,Desistencia
+HL2714,1,452,17/09/2021,Goiás,Avaria
+HL4379,2,419,20/10/2021,Rio de Janeiro,Divergencia
+HL1918,1,590,01/07/2022,Salvador,Desistencia
+HL4379,2,438,15/03/2022,Porto Alegre,Avaria
+HL1918,1,701,25/02/2022,Rio de Janeiro,Divergencia
+HL1918,1,412,05/05/2022,Rio de Janeiro,Desistencia
+HL2714,2,321,18/11/2021,Belo Horizonte,Avaria
+HL1918,1,41,18/08/2022,São Paulo,Divergencia
+HL4379,3,12,20/05/2022,Belo Horizonte,Desistencia
+HL4379,1,63,29/09/2021,Rio de Janeiro,Avaria
+HL1918,1,377,22/10/2021,Rio de Janeiro,Divergencia
+HL9962,1,369,24/06/2022,São Paulo,Desistencia
+HL2714,1,101,10/06/2022,Fortaleza,Avaria
+HL4379,1,500,10/02/2022,Rio de Janeiro,Divergencia
+HL1918,2,354,09/02/2022,São Paulo,Desistencia
+HL8851,2,706,21/05/2022,Rio de Janeiro,Avaria
+HL2714,2,66,17/09/2021,São Paulo,Divergencia
+HL8851,1,57,30/11/2021,Salvador,Desistencia
+HL1918,2,639,17/10/2021,Belo Horizonte,Avaria
+HL1918,1,737,17/08/2022,Curitiba,Divergencia
+HL8851,2,199,06/02/2022,Rio de Janeiro,Desistencia
+HL4379,1,441,31/08/2022,Fortaleza,Avaria
+HL1918,2,94,14/01/2022,Salvador,Divergencia
+HL7348,1,53,11/01/2022,Fortaleza,Desistencia
+HL1918,1,739,06/01/2022,Rio de Janeiro,Avaria
+HL1918,2,618,05/08/2022,Fortaleza,Divergencia
+HL1918,1,174,28/12/2021,São Paulo,Desistencia
+HL8851,1,575,02/09/2022,Belo Horizonte,Avaria
+HL2714,1,52,18/01/2022,São Paulo,Divergencia
+HL1148,3,483,07/12/2021,Salvador,Desistencia
+HL9962,2,347,13/08/2022,Fortaleza,Avaria
+HL2714,2,709,03/04/2022,Curitiba,Divergencia
+HL2714,1,683,06/07/2022,São Paulo,Desistencia
+HL8851,2,320,04/09/2022,Salvador,Avaria
+HL1918,1,622,05/05/2022,Goiás,Divergencia
+HL1918,3,395,07/09/2022,Salvador,Desistencia
+HL9962,3,627,07/03/2022,Salvador,Avaria
+HL1148,1,532,26/05/2022,Salvador,Divergencia
+HL1918,1,114,22/07/2022,Salvador,Desistencia
+HL1148,3,39,06/05/2022,São Paulo,Avaria
+HL8851,2,647,25/12/2021,São Paulo,Divergencia
+HL1918,1,432,04/10/2021,Recife,Desistencia
+HL7348,1,132,02/07/2022,Goiás,Avaria
+HL4379,2,600,14/09/2021,Salvador,Divergencia
+HL1918,1,700,18/07/2022,São Paulo,Desistencia
+HL8851,1,371,06/05/2022,São Paulo,Avaria
+HL8851,1,634,07/07/2022,São Paulo,Divergencia
+HL9962,2,23,19/07/2022,São Paulo,Desistencia
+HL7348,1,538,09/01/2022,Curitiba,Avaria
+HL1148,3,7,07/04/2022,São Paulo,Divergencia
+HL4379,1,213,05/03/2022,Fortaleza,Desistencia
+HL8851,3,284,20/08/2022,Porto Alegre,Avaria
+HL1918,2,197,10/12/2021,São Paulo,Divergencia
+HL1918,1,212,10/07/2022,São Paulo,Desistencia
+HL8851,1,491,20/03/2022,Curitiba,Avaria
+HL4379,3,589,18/01/2022,Curitiba,Divergencia
+HL1918,1,123,19/02/2022,Salvador,Desistencia
+HL1918,2,220,10/05/2022,Recife,Avaria
+HL1918,3,622,11/12/2021,Porto Alegre,Divergencia
+HL9962,1,126,25/05/2022,Goiás,Desistencia
+HL9962,2,170,24/06/2022,Salvador,Avaria
+HL1918,1,629,05/02/2022,Salvador,Divergencia
+HL1918,1,626,14/02/2022,Recife,Desistencia
+HL4379,1,33,06/01/2022,Curitiba,Avaria
+HL1918,3,741,24/05/2022,Rio de Janeiro,Divergencia
+HL1918,1,689,14/09/2021,Rio de Janeiro,Desistencia
+HL7348,1,426,31/03/2022,Salvador,Avaria
+HL1918,1,519,12/01/2022,Salvador,Divergencia
+HL4379,3,84,14/10/2021,Curitiba,Desistencia
+HL1918,3,565,26/01/2022,São Paulo,Avaria
+HL1148,2,673,21/06/2022,Belo Horizonte,Divergencia
+HL1918,2,699,30/05/2022,São Paulo,Desistencia
+HL1918,1,201,29/06/2022,Salvador,Avaria
+HL7348,2,600,02/06/2022,Goiás,Divergencia
+HL1148,1,397,14/06/2022,São Paulo,Desistencia
+HL2714,1,579,06/07/2022,Porto Alegre,Avaria
+HL1918,1,356,12/12/2021,São Paulo,Divergencia
+HL1918,1,295,25/07/2022,Rio de Janeiro,Desistencia
+HL4379,2,552,15/09/2021,Salvador,Avaria
+HL8851,1,363,31/07/2022,Belo Horizonte,Divergencia
+HL1918,1,562,15/05/2022,Porto Alegre,Desistencia
+HL1918,3,281,07/08/2022,Recife,Avaria
+HL1918,3,659,07/04/2022,Porto Alegre,Divergencia
+HL1918,1,302,22/05/2022,Salvador,Desistencia
+HL7348,1,753,20/05/2022,Fortaleza,Avaria
+HL2714,1,700,14/08/2022,Rio de Janeiro,Divergencia
+HL2714,2,204,11/09/2021,São Paulo,Desistencia
+HL4379,1,3,01/11/2021,São Paulo,Avaria
+HL1148,2,577,15/09/2021,São Paulo,Divergencia
+HL4379,1,658,17/05/2022,Recife,Desistencia
+HL1918,1,554,11/11/2021,Salvador,Avaria
+HL1918,3,353,29/08/2022,São Paulo,Divergencia
+HL8851,3,231,01/03/2022,Salvador,Desistencia
+HL4379,1,432,19/06/2022,São Paulo,Avaria
+HL4379,1,616,13/03/2022,Belo Horizonte,Divergencia
+HL1918,1,451,21/06/2022,São Paulo,Desistencia
+HL8851,3,78,12/01/2022,Goiás,Avaria
+HL8851,1,173,03/06/2022,Curitiba,Divergencia
+HL8851,1,390,09/06/2022,São Paulo,Desistencia
+HL8851,2,453,19/05/2022,Salvador,Avaria
+HL1918,1,391,25/07/2022,Porto Alegre,Divergencia
+HL8851,1,273,13/05/2022,Belo Horizonte,Desistencia
+HL8851,1,390,29/06/2022,Fortaleza,Avaria
+HL1148,3,381,16/12/2021,Recife,Divergencia
+HL4379,1,692,07/03/2022,Salvador,Desistencia
+HL2714,1,449,30/03/2022,São Paulo,Avaria
+HL9962,3,731,24/02/2022,Recife,Divergencia
+HL2714,3,735,16/12/2021,Curitiba,Desistencia
+HL1918,2,397,13/10/2021,Recife,Avaria
+HL4379,3,654,24/06/2022,Recife,Divergencia
+HL1148,1,564,11/03/2022,Rio de Janeiro,Desistencia
+HL4379,1,676,29/04/2022,Curitiba,Avaria
+HL1918,2,298,19/05/2022,Fortaleza,Divergencia
+HL1918,1,720,15/10/2021,Goiás,Desistencia
+HL9962,1,265,15/08/2022,Fortaleza,Avaria
+HL8851,1,552,18/02/2022,Fortaleza,Divergencia
+HL1918,1,559,08/03/2022,São Paulo,Desistencia
+HL4379,2,573,22/05/2022,Rio de Janeiro,Avaria
+HL4379,1,223,13/07/2022,Recife,Divergencia
+HL1918,3,304,12/11/2021,São Paulo,Desistencia
+HL4379,3,376,24/03/2022,Rio de Janeiro,Avaria
+HL1918,3,412,14/02/2022,Fortaleza,Divergencia
+HL1918,1,536,11/06/2022,Fortaleza,Desistencia
+HL1148,1,391,23/01/2022,Salvador,Avaria
+HL1918,3,208,11/06/2022,São Paulo,Divergencia
+HL1918,1,536,22/03/2022,Salvador,Desistencia
+HL7348,1,737,04/10/2021,Rio de Janeiro,Avaria
+HL9962,2,46,23/09/2021,Salvador,Divergencia
+HL2714,2,268,29/03/2022,Recife,Desistencia
+HL4379,2,548,04/04/2022,Rio de Janeiro,Avaria
+HL4379,1,322,20/05/2022,Fortaleza,Divergencia
+HL8851,1,96,27/01/2022,Porto Alegre,Desistencia
+HL1148,1,538,21/06/2022,São Paulo,Avaria
+HL1918,3,72,29/06/2022,Curitiba,Divergencia
+HL1148,2,735,28/05/2022,Rio de Janeiro,Desistencia
+HL8851,1,185,21/01/2022,São Paulo,Avaria
+HL1918,2,269,13/11/2021,Porto Alegre,Divergencia
+HL7348,1,333,23/05/2022,Fortaleza,Desistencia
+HL1148,1,75,28/03/2022,Curitiba,Avaria
+HL1918,1,738,15/12/2021,Salvador,Divergencia
+HL1918,1,388,09/01/2022,Goiás,Desistencia
+HL7348,1,576,11/02/2022,Recife,Avaria
+HL4379,1,456,02/07/2022,Fortaleza,Divergencia
+HL1918,1,262,07/09/2022,São Paulo,Desistencia
+HL1918,1,200,18/01/2022,Rio de Janeiro,Avaria
+HL7348,2,187,31/01/2022,Salvador,Divergencia
+HL1918,1,305,28/06/2022,São Paulo,Desistencia
+HL1148,3,757,04/11/2021,Rio de Janeiro,Avaria
+HL7348,3,142,28/04/2022,Porto Alegre,Divergencia
+HL1148,1,95,15/03/2022,Salvador,Desistencia
+HL1918,1,444,21/01/2022,Fortaleza,Avaria
+HL4379,2,454,30/07/2022,Recife,Divergencia
+HL4379,1,694,23/09/2021,Curitiba,Desistencia
+HL1918,1,211,11/03/2022,São Paulo,Avaria
+HL1918,3,463,11/04/2022,Curitiba,Divergencia
+HL4379,1,212,08/02/2022,São Paulo,Desistencia
+HL9962,2,350,18/02/2022,Fortaleza,Avaria
+HL1918,3,59,15/08/2022,Rio de Janeiro,Divergencia
+HL1148,2,133,31/05/2022,Fortaleza,Desistencia
+HL4379,1,765,14/07/2022,Porto Alegre,Avaria
+HL7348,1,714,18/12/2021,Rio de Janeiro,Divergencia
+HL1918,2,748,16/07/2022,Fortaleza,Desistencia
+HL1918,1,485,12/04/2022,Goiás,Avaria
+HL1918,1,456,10/10/2021,Belo Horizonte,Divergencia
+HL9962,2,452,06/02/2022,Fortaleza,Desistencia
+HL7348,1,130,19/05/2022,São Paulo,Avaria
+HL1918,1,724,14/03/2022,Salvador,Divergencia
+HL8851,1,81,30/10/2021,Belo Horizonte,Desistencia
+HL2714,3,423,28/06/2022,São Paulo,Avaria
+HL8851,3,515,02/09/2022,Porto Alegre,Divergencia
+HL7348,1,286,24/07/2022,Curitiba,Desistencia
+HL2714,1,18,30/05/2022,Rio de Janeiro,Avaria
+HL8851,3,701,26/04/2022,Porto Alegre,Divergencia
+HL8851,1,584,14/05/2022,Salvador,Desistencia
+HL2714,1,401,16/01/2022,Rio de Janeiro,Avaria
+HL1918,3,632,25/10/2021,Recife,Divergencia
+HL9962,1,217,01/11/2021,Fortaleza,Desistencia
+HL4379,1,755,07/03/2022,Rio de Janeiro,Avaria
+HL9962,1,736,16/06/2022,São Paulo,Divergencia
+HL1918,1,400,14/06/2022,Fortaleza,Desistencia
+HL4379,1,491,20/05/2022,Recife,Avaria
+HL4379,1,177,21/12/2021,São Paulo,Divergencia
+HL2714,1,14,21/04/2022,Belo Horizonte,Desistencia
+HL4379,1,705,18/08/2022,Porto Alegre,Avaria
+HL4379,2,558,25/06/2022,São Paulo,Divergencia
+HL1918,1,153,09/06/2022,Rio de Janeiro,Desistencia
+HL1918,3,643,17/01/2022,Rio de Janeiro,Avaria
+HL2714,1,598,19/06/2022,Fortaleza,Divergencia
+HL7348,3,382,25/06/2022,Belo Horizonte,Desistencia
+HL1918,1,574,24/08/2022,São Paulo,Avaria
+HL8851,1,384,28/05/2022,São Paulo,Divergencia
+HL1918,1,212,30/07/2022,Fortaleza,Desistencia
+HL1918,1,437,08/07/2022,Goiás,Avaria
+HL1918,3,18,03/09/2022,São Paulo,Divergencia
+HL4379,3,344,22/10/2021,Curitiba,Desistencia
+HL9962,1,606,23/10/2021,Goiás,Avaria
+HL1918,3,621,10/03/2022,Fortaleza,Divergencia
+HL4379,1,510,25/05/2022,Rio de Janeiro,Desistencia
+HL1918,1,414,08/08/2022,Goiás,Avaria
+HL4379,1,582,09/11/2021,Rio de Janeiro,Divergencia
+HL1148,3,180,10/11/2021,Fortaleza,Desistencia
+HL4379,2,647,29/10/2021,Belo Horizonte,Avaria
+HL4379,2,257,29/06/2022,São Paulo,Divergencia
+HL1148,2,309,27/08/2022,São Paulo,Desistencia
+HL1148,2,58,21/01/2022,Fortaleza,Avaria
+HL4379,2,562,17/10/2021,São Paulo,Divergencia
+HL1918,2,440,17/03/2022,São Paulo,Desistencia
+HL4379,1,480,06/08/2022,São Paulo,Avaria
+HL1918,1,87,09/01/2022,São Paulo,Divergencia
+HL4379,1,299,28/07/2022,Fortaleza,Desistencia
+HL2714,1,138,23/04/2022,Recife,Avaria
+HL9962,1,546,02/05/2022,Rio de Janeiro,Divergencia
+HL7348,1,279,12/03/2022,Curitiba,Desistencia
+HL8851,1,452,10/01/2022,São Paulo,Avaria
+HL9962,1,670,23/08/2022,Rio de Janeiro,Divergencia
+HL1148,1,528,03/06/2022,Salvador,Desistencia
+HL1918,1,251,19/11/2021,Belo Horizonte,Avaria
+HL2714,1,706,18/05/2022,Rio de Janeiro,Divergencia
+HL8851,3,761,17/12/2021,Porto Alegre,Desistencia
+HL4379,1,399,16/07/2022,Goiás,Avaria
+HL1918,1,325,15/05/2022,Curitiba,Divergencia
+HL1918,2,46,15/12/2021,Fortaleza,Desistencia
+HL7348,2,164,05/11/2021,Porto Alegre,Avaria
+HL2714,1,449,30/01/2022,Fortaleza,Divergencia
+HL1148,1,550,21/01/2022,Fortaleza,Desistencia
+HL1148,1,755,18/08/2022,Rio de Janeiro,Avaria
+HL8851,1,138,23/02/2022,São Paulo,Divergencia
+HL1918,1,152,12/10/2021,São Paulo,Desistencia
+HL1918,1,506,22/05/2022,Curitiba,Avaria
+HL4379,1,186,09/05/2022,Goiás,Divergencia
+HL8851,3,131,11/11/2021,Salvador,Desistencia
+HL9962,1,742,17/10/2021,Salvador,Avaria
+HL1918,1,662,07/10/2021,Curitiba,Divergencia
+HL9962,3,296,26/01/2022,Porto Alegre,Desistencia
+HL9962,3,708,01/07/2022,São Paulo,Avaria
+HL8851,1,426,05/02/2022,São Paulo,Divergencia
+HL2714,3,125,24/09/2021,Goiás,Desistencia
+HL9962,3,55,12/09/2021,Rio de Janeiro,Avaria
+HL1148,2,422,11/09/2021,Curitiba,Divergencia
+HL4379,1,429,19/04/2022,Porto Alegre,Desistencia
+HL8851,1,106,04/05/2022,Porto Alegre,Avaria
+HL1918,1,42,12/02/2022,Rio de Janeiro,Divergencia
+HL7348,1,727,01/03/2022,São Paulo,Desistencia
+HL8851,2,17,09/01/2022,Curitiba,Avaria
+HL9962,2,716,24/09/2021,Belo Horizonte,Divergencia
+HL9962,3,73,22/03/2022,Goiás,Desistencia
+HL4379,1,592,15/09/2021,São Paulo,Avaria
+HL9962,1,552,04/11/2021,Fortaleza,Divergencia
+HL1918,3,191,31/08/2022,São Paulo,Desistencia
+HL4379,3,595,04/11/2021,Rio de Janeiro,Avaria
+HL8851,2,734,12/06/2022,Curitiba,Divergencia
+HL2714,3,261,28/03/2022,Rio de Janeiro,Desistencia
+HL4379,3,409,09/10/2021,Rio de Janeiro,Avaria
+HL4379,3,289,22/01/2022,Salvador,Divergencia
+HL1918,1,584,06/03/2022,Curitiba,Desistencia
+HL1148,1,336,14/08/2022,Rio de Janeiro,Avaria
+HL1918,1,634,02/05/2022,Rio de Janeiro,Divergencia
+HL4379,1,658,20/08/2022,Goiás,Desistencia
+HL4379,1,141,15/03/2022,Fortaleza,Avaria
+HL8851,3,145,30/05/2022,Porto Alegre,Divergencia
+HL2714,2,606,11/04/2022,Rio de Janeiro,Desistencia
+HL8851,1,320,29/09/2021,Salvador,Avaria
+HL7348,1,550,13/10/2021,Fortaleza,Divergencia
+HL1918,1,417,09/04/2022,Fortaleza,Desistencia
+HL2714,1,237,25/03/2022,São Paulo,Avaria
+HL4379,1,198,01/11/2021,Rio de Janeiro,Divergencia
+HL4379,2,424,11/12/2021,Goiás,Desistencia
+HL9962,1,296,28/02/2022,Rio de Janeiro,Avaria
+HL7348,2,172,24/06/2022,Fortaleza,Divergencia
+HL8851,1,517,29/05/2022,Curitiba,Desistencia
+HL1148,1,442,14/02/2022,Rio de Janeiro,Avaria
+HL4379,2,755,20/07/2022,Goiás,Divergencia
+HL7348,1,556,17/10/2021,Rio de Janeiro,Desistencia
+HL8851,1,357,29/11/2021,São Paulo,Avaria
+HL9962,1,136,06/11/2021,Rio de Janeiro,Divergencia
+HL7348,3,574,18/03/2022,Porto Alegre,Desistencia
+HL1918,2,317,02/04/2022,Fortaleza,Avaria
+HL8851,1,247,26/04/2022,São Paulo,Divergencia
+HL1918,2,665,18/07/2022,Fortaleza,Desistencia
+HL4379,3,365,17/04/2022,Fortaleza,Avaria
+HL1148,1,389,13/04/2022,Salvador,Divergencia
+HL2714,1,345,21/11/2021,Porto Alegre,Desistencia
+HL4379,1,67,27/01/2022,Salvador,Avaria
+HL7348,1,389,10/01/2022,Fortaleza,Divergencia
+HL1918,1,177,17/06/2022,Rio de Janeiro,Desistencia
+HL1918,3,581,28/09/2021,São Paulo,Avaria
+HL1148,1,399,25/11/2021,Salvador,Divergencia
+HL4379,3,491,04/03/2022,Salvador,Desistencia
+HL9962,1,636,31/08/2022,Porto Alegre,Avaria
+HL8851,2,173,23/02/2022,Goiás,Divergencia
+HL2714,1,692,14/02/2022,São Paulo,Desistencia
+HL9962,2,367,23/08/2022,Salvador,Avaria
+HL4379,1,547,19/08/2022,São Paulo,Divergencia
+HL1148,1,678,02/04/2022,Porto Alegre,Desistencia
+HL1918,3,335,02/01/2022,Recife,Avaria
+HL1918,1,110,01/01/2022,São Paulo,Divergencia
+HL4379,3,6,24/01/2022,Salvador,Desistencia
+HL1918,1,58,26/10/2021,Fortaleza,Avaria
+HL8851,1,526,01/03/2022,Belo Horizonte,Divergencia
+HL1918,1,686,06/06/2022,Porto Alegre,Desistencia
+HL1918,1,90,06/12/2021,Recife,Avaria
+HL1148,1,529,01/11/2021,Recife,Divergencia
+HL2714,1,415,10/11/2021,Salvador,Desistencia
+HL9962,3,661,12/07/2022,Rio de Janeiro,Avaria
+HL7348,3,11,27/10/2021,São Paulo,Divergencia
+HL1148,1,554,02/05/2022,São Paulo,Desistencia
+HL4379,1,134,11/07/2022,Goiás,Avaria
+HL4379,1,457,09/12/2021,Fortaleza,Divergencia
+HL9962,1,529,05/09/2022,São Paulo,Desistencia
+HL8851,1,386,02/08/2022,São Paulo,Avaria
+HL1918,1,366,04/01/2022,Porto Alegre,Divergencia
+HL4379,3,659,30/11/2021,Fortaleza,Desistencia
+HL2714,1,80,10/08/2022,Salvador,Avaria
+HL7348,2,397,02/12/2021,São Paulo,Divergencia
+HL7348,1,343,06/10/2021,Porto Alegre,Desistencia
+HL8851,3,517,16/03/2022,Fortaleza,Avaria
+HL8851,1,15,10/12/2021,Recife,Divergencia
+HL2714,1,665,04/10/2021,Salvador,Desistencia
+HL4379,1,172,14/07/2022,Porto Alegre,Avaria
+HL1918,1,683,19/06/2022,São Paulo,Divergencia
+HL7348,1,322,06/03/2022,Curitiba,Desistencia
+HL1918,1,119,26/01/2022,Curitiba,Avaria
+HL1148,1,74,18/01/2022,Salvador,Divergencia
+HL4379,2,151,02/01/2022,Belo Horizonte,Desistencia
+HL9962,1,206,11/12/2021,Salvador,Avaria
+HL4379,1,194,19/06/2022,São Paulo,Divergencia
+HL8851,1,66,11/07/2022,São Paulo,Desistencia
+HL4379,1,454,16/03/2022,São Paulo,Avaria
+HL4379,3,530,07/09/2022,São Paulo,Divergencia
+HL4379,3,234,31/03/2022,Goiás,Desistencia
+HL7348,1,6,07/10/2021,São Paulo,Avaria
+HL1148,2,603,20/01/2022,Rio de Janeiro,Divergencia
+HL4379,1,159,16/04/2022,Porto Alegre,Desistencia
+HL1918,1,427,20/04/2022,Goiás,Avaria
+HL1918,1,102,18/02/2022,São Paulo,Divergencia
+HL2714,3,425,26/05/2022,Belo Horizonte,Desistencia
+HL1918,3,634,14/08/2022,Fortaleza,Avaria
+HL1918,1,121,31/05/2022,Salvador,Divergencia
+HL2714,3,464,24/07/2022,Recife,Desistencia
+HL7348,2,307,12/02/2022,São Paulo,Avaria
+HL1918,3,12,05/04/2022,Porto Alegre,Divergencia
+HL4379,1,243,09/09/2021,São Paulo,Desistencia
+HL4379,3,457,14/06/2022,Porto Alegre,Avaria
+HL8851,1,715,19/02/2022,Fortaleza,Divergencia
+HL1918,1,210,07/11/2021,Salvador,Desistencia
+HL2714,3,682,11/02/2022,Curitiba,Avaria
+HL4379,1,650,18/03/2022,São Paulo,Divergencia
+HL1918,1,33,18/06/2022,Salvador,Desistencia
+HL4379,3,330,09/09/2021,Porto Alegre,Avaria
+HL7348,3,324,30/09/2021,Rio de Janeiro,Divergencia
+HL9962,1,495,02/11/2021,Salvador,Desistencia
+HL7348,1,152,14/07/2022,Rio de Janeiro,Avaria
+HL1918,1,651,17/04/2022,São Paulo,Divergencia
+HL1918,3,732,13/03/2022,Porto Alegre,Desistencia
+HL7348,2,294,10/02/2022,São Paulo,Avaria
+HL8851,1,514,17/03/2022,Fortaleza,Divergencia
+HL4379,2,288,10/03/2022,São Paulo,Desistencia
+HL1148,2,248,21/11/2021,Salvador,Avaria
+HL4379,2,641,02/07/2022,Porto Alegre,Divergencia
+HL2714,1,170,14/03/2022,Recife,Desistencia
+HL4379,1,752,17/02/2022,Porto Alegre,Avaria
+HL4379,1,261,26/05/2022,Curitiba,Divergencia
+HL4379,1,219,18/03/2022,Recife,Desistencia
+HL9962,3,87,13/06/2022,Porto Alegre,Avaria
+HL4379,1,561,28/08/2022,Fortaleza,Divergencia
+HL4379,1,608,27/07/2022,Recife,Desistencia
+HL4379,1,339,12/05/2022,Rio de Janeiro,Avaria
+HL9962,1,10,07/01/2022,Recife,Divergencia
+HL4379,1,126,03/10/2021,Rio de Janeiro,Desistencia
+HL1148,1,391,24/05/2022,Goiás,Avaria
+HL9962,2,366,28/08/2022,Goiás,Divergencia
+HL8851,3,187,20/03/2022,Fortaleza,Desistencia
+HL1918,2,7,13/06/2022,Rio de Janeiro,Avaria
+HL1918,1,421,19/10/2021,São Paulo,Divergencia
+HL1148,1,756,03/08/2022,Rio de Janeiro,Desistencia
+HL4379,3,763,29/05/2022,Porto Alegre,Avaria
+HL1918,3,374,24/09/2021,Recife,Divergencia
+HL8851,1,535,19/01/2022,Salvador,Desistencia
+HL9962,2,229,31/07/2022,Salvador,Avaria
+HL2714,2,105,26/08/2022,São Paulo,Divergencia
+HL9962,2,345,02/08/2022,Curitiba,Desistencia
+HL9962,1,42,06/06/2022,Belo Horizonte,Avaria
+HL7348,1,600,18/04/2022,Porto Alegre,Divergencia
+HL8851,1,20,19/07/2022,Curitiba,Desistencia
+HL2714,1,109,15/06/2022,Rio de Janeiro,Avaria
+HL8851,1,559,10/12/2021,Goiás,Divergencia
+HL8851,1,71,06/09/2022,Fortaleza,Desistencia
+HL7348,1,226,26/12/2021,Rio de Janeiro,Avaria
+HL1918,3,223,28/10/2021,Rio de Janeiro,Divergencia
+HL7348,1,200,14/03/2022,Fortaleza,Desistencia
+HL4379,1,299,07/04/2022,Salvador,Avaria
+HL8851,2,422,25/04/2022,Porto Alegre,Divergencia
+HL1918,3,44,27/05/2022,São Paulo,Desistencia
+HL1918,1,613,22/05/2022,Fortaleza,Avaria
+HL1918,1,57,08/08/2022,Curitiba,Divergencia
+HL1148,2,735,06/03/2022,São Paulo,Desistencia
+HL4379,1,75,08/08/2022,Goiás,Avaria
+HL4379,2,286,27/02/2022,Porto Alegre,Divergencia
+HL4379,2,156,03/10/2021,São Paulo,Desistencia
+HL9962,1,616,19/11/2021,São Paulo,Avaria
+HL1918,1,414,19/01/2022,Recife,Divergencia
+HL4379,1,673,07/08/2022,Rio de Janeiro,Desistencia
+HL2714,2,148,26/03/2022,Salvador,Avaria
+HL2714,1,230,07/04/2022,Salvador,Divergencia
+HL7348,3,729,14/01/2022,Goiás,Desistencia
+HL4379,3,316,15/12/2021,Belo Horizonte,Avaria
+HL9962,1,82,08/09/2021,Fortaleza,Divergencia
+HL2714,3,349,18/03/2022,São Paulo,Desistencia
+HL1148,3,414,21/11/2021,São Paulo,Avaria
+HL9962,1,703,18/08/2022,Curitiba,Divergencia
+HL7348,1,23,12/06/2022,Belo Horizonte,Desistencia
+HL1918,3,225,02/11/2021,Rio de Janeiro,Desistencia
