@@ -26,7 +26,6 @@ Não é necessário ser especialista em matemática ou ciência da computação.
 * Salvando consultas como tabela e consulta personalizada;
 * Renomeando tabelas na consulta;
 
-
 **Aula 02: Funções de Restrições**
 
 * Funções de Restrições 
@@ -38,7 +37,6 @@ Não é necessário ser especialista em matemática ou ciência da computação.
 * Criando coluna condicional com números
 * Exemplo prático da função *Case*
 
-
 **Aula 03: Função JOIN - Junção de Tabelas**
 
 * Resolvendo erro de importação
@@ -47,13 +45,11 @@ Não é necessário ser especialista em matemática ou ciência da computação.
 * Relacionamento de tabelas: Fixando
 * Relacionamento de várias tabelas
 
-
 **Aula 04: Relacionamentos no Power BI**
 
 * Importando tabelas do Google Big Query para o Power BI
 * Relacionamentos no Power BI
 * Importando dados SQL para o Power BI
-
 
 **Aula 05: Funções de Agregação**
 
@@ -66,7 +62,6 @@ Não é necessário ser especialista em matemática ou ciência da computação.
 * Função *sum*
 * Função *avg*
 
-
 **Aula 06: Funções Matemáticas**
 
 * Eliminando Número Negativo
@@ -75,14 +70,12 @@ Não é necessário ser especialista em matemática ou ciência da computação.
 * Potenciação 
 * Arredondamento 
 
-
 **Aula07: Funções de String**
 
 * Função *starts_with* 
 * Extração de texto
 * Maiúsculo e minúsculo
 * Extração de parte do texto
-
 
 **Aula 08: Extras**
 
